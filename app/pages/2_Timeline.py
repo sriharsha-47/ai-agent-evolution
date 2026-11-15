@@ -46,7 +46,8 @@ with st.sidebar:
     f_org = st.multiselect("Organization", opt["organization"])
     f_cap = st.multiselect("Capability", opt["capability"])
     f_aut = st.multiselect("Autonomy level", opt["autonomy"])
-    f_org_origin = st.multiselect("Origin", opt["origin"])
+    f_org_origin = st.multiselect("Origin", opt["origin"], default=["gold"] if "gold" in opt["origin"] else [],
+                                   help="gold = hand-labelled events (default). extracted = provisional model output, less reliable.")
     m0, m1 = st.select_slider("Months", options=opt["months"], value=(opt["lo"], opt["hi"]))
 
 conn = open_conn()
@@ -58,6 +59,10 @@ finally:
     conn.close()
 
 st.write(f"{len(events)} event(s)")
+if "extracted" in (f_org_origin or opt["origin"]):
+    st.warning("Extracted events are model output, not hand-labelled. Their categories are rough (about 60% "
+               "accurate on gold), there are no release-note events, and the thresholds rest on about 37 "
+               "labelled documents per source, so treat counts as approximate. Gold is the reference.")
 if not events:
     st.warning("No events match these filters.")
     st.stop()
