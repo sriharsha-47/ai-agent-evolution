@@ -2,7 +2,9 @@
 
 features_monthly_gold.csv   monthly features, 2022 onwards
 counts_quarterly_gold.csv   quarterly counts by category, 2017-2021
-phases.csv (optional)       phase_id, start_month, end_month, label, change_point_month, method
+changepoints_gold.csv       change-point segments on event counts (segment, start, end, months, mean_*)
+changepoints_gold_shares.csv  same, found on category shares
+phases.csv (optional)       phase_id, start_month, end_month, label, change_point_month, method (overrides the above)
 """
 import pandas as pd
 import plotly.express as px
@@ -27,7 +29,31 @@ m["when"] = pd.to_datetime(m["month"] + "-01")
 st.caption(f"{int(m['n_events'].sum())} gold events across {len(m)} months "
            f"({m['month'].min()} to {m['month'].max()}). Few events per month, so read trends with caution.")
 
-phases = pd.read_csv(PHASES) if PHASES.exists() else None
+SEGMENT_FILES = {"Event counts": TABLES / "changepoints_gold.csv",
+                 "Category shares": TABLES / "changepoints_gold_shares.csv"}
+
+
+def segments_to_phases(seg: pd.DataFrame, method: str) -> pd.DataFrame:
+    """Turn change-point segments into the phase table the charts use."""
+    out = pd.DataFrame({"phase_id": seg["segment"], "start_month": seg["start"], "end_month": seg["end"],
+                        "label": "Segment " + seg["segment"].astype(str)})
+    out["change_point_month"] = [None] + list(seg["start"].iloc[1:])  # a segment starts where the change is
+    out["method"] = method
+    return out
+
+
+segments = None
+if PHASES.exists():
+    phases = pd.read_csv(PHASES)
+else:
+    available = {k: v for k, v in SEGMENT_FILES.items() if v.exists()}
+    phases = None
+    if available:
+        with st.sidebar:
+            choice = st.radio("Change-point method", list(available), help="Both are Saketh's change-point "
+                              "analyses on the gold events.")
+        segments = pd.read_csv(available[choice])
+        phases = segments_to_phases(segments, f"change-point on {choice.lower()}")
 
 
 def add_phase_marks(fig):
@@ -45,7 +71,14 @@ def add_phase_marks(fig):
 
 
 if phases is None:
-    st.info("No phase boundaries yet (results/tables/phases.csv not found). The charts show raw features only.")
+    st.info("No phase boundaries yet (no phases.csv or changepoints_gold.csv in results/tables). "
+            "The charts show raw features only.")
+elif segments is not None:
+    st.subheader("Change-point segments")
+    st.dataframe(segments, hide_index=True, use_container_width=True)
+    st.caption("A change point is a sustained shift in the series, found by statistics on a small number of "
+               "months. Treat the boundaries as approximate, and as a candidate to check against the reviewed "
+               "transition periods.")
 
 st.subheader("Events per month")
 m["moving_avg_3m"] = m["n_events"].rolling(3, min_periods=1).mean()
