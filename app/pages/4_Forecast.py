@@ -102,8 +102,17 @@ if fc.get("history"):
     st.subheader("Rolling-origin history (actual vs predicted)")
     h = pd.DataFrame(fc["history"])
     h["correct"] = h["actual"] == h["predicted"]
+    try:
+        import yaml
+        test_start = yaml.safe_load((ROOT / "configs" / "split.yaml").read_text(encoding="utf-8"))["blocks"]["test"][0]
+    except Exception:
+        test_start = "2025-01"
+    h["block"] = h["month"].apply(lambda mth: "test" if mth >= test_start else "validation")
     st.dataframe(h, hide_index=True, use_container_width=True)
-    st.caption(f"{h['correct'].mean():.0%} of months predicted correctly.")
+    for block, g in h.groupby("block"):
+        st.caption(f"{block}: {g['correct'].mean():.0%} of {len(g)} labelled months predicted correctly.")
+    st.caption("Months with too few events have no label and are not scored. The reported test metrics "
+               "cover the test block only.")
 
 if fc.get("top_features"):
     st.subheader("Top features")
