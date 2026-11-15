@@ -39,7 +39,7 @@ def taxonomy() -> dict:
 def all_events() -> list:
     conn = open_conn()
     try:
-        return db.query_events(conn)
+        return db.query_events(conn, origins=["gold"])  # forecast uses hand-labelled events only
     finally:
         conn.close()
 
