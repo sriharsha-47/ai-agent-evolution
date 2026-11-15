@@ -14,7 +14,15 @@ year       lab_blog          paper  release_notes   total
 
 per source: arXiv 984, OpenAI 613, Hugging Face 434, langchain-ai/langchain 341, crewAIInc/crewAI 175, Anthropic 149, Significant-Gravitas/AutoGPT 115, microsoft/autogen 95, Google DeepMind 61, Google Research 51
 
-events: 217
+events: 1051
+  extracted  multi_agent_coordination       338
+  extracted  capability_breakthrough        165
+  extracted  research_milestone             147
+  extracted  infrastructure_ecosystem       84
+  extracted  adoption_scale                 62
+  extracted  agentic_development            31
+  extracted  unexpected_behavior_incident   5
+  extracted  autonomous_action              2
   gold       multi_agent_coordination       57
   gold       research_milestone             39
   gold       agentic_development            30
