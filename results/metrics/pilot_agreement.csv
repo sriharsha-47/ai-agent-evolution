@@ -1,0 +1,50 @@
+scope,field,pair,kappa,n,verdict
+all pilot docs,has_event,ALL (Fleiss),0.894,15,good
+all pilot docs,has_event,VV-SH,0.893,15,good
+all pilot docs,has_event,VV-TS,0.893,15,good
+all pilot docs,has_event,VV-HA,0.792,15,good
+all pilot docs,has_event,SH-TS,1.0,15,good
+all pilot docs,has_event,SH-HA,0.896,15,good
+all pilot docs,has_event,TS-HA,0.896,15,good
+all pilot docs,has_event_binary,ALL (Fleiss),0.866,15,good
+all pilot docs,has_event_binary,VV-SH,0.867,15,good
+all pilot docs,has_event_binary,VV-TS,0.867,15,good
+all pilot docs,has_event_binary,VV-HA,0.737,15,good
+all pilot docs,has_event_binary,SH-TS,1.0,15,good
+all pilot docs,has_event_binary,SH-HA,0.865,15,good
+all pilot docs,has_event_binary,TS-HA,0.865,15,good
+all pilot docs,category,ALL (Fleiss),0.715,15,good
+all pilot docs,category,VV-SH,0.608,15,acceptable
+all pilot docs,category,VV-TS,0.715,15,good
+all pilot docs,category,VV-HA,0.597,15,REWRITE RULE
+all pilot docs,category,SH-TS,0.803,15,good
+all pilot docs,category,SH-HA,0.789,15,good
+all pilot docs,category,TS-HA,0.793,15,good
+all pilot docs,autonomy_level,ALL (Fleiss),0.711,15,good
+all pilot docs,autonomy_level,VV-SH,0.803,15,good
+all pilot docs,autonomy_level,VV-TS,0.805,15,good
+all pilot docs,autonomy_level,VV-HA,0.597,15,REWRITE RULE
+all pilot docs,autonomy_level,SH-TS,0.799,15,good
+all pilot docs,autonomy_level,SH-HA,0.685,15,acceptable
+all pilot docs,autonomy_level,TS-HA,0.574,15,REWRITE RULE
+docs all four called an event,category,ALL (Fleiss),0.659,6,acceptable
+docs all four called an event,category,VV-SH,0.538,6,REWRITE RULE
+docs all four called an event,category,VV-TS,0.778,6,good
+docs all four called an event,category,VV-HA,0.556,6,REWRITE RULE
+docs all four called an event,category,SH-TS,0.571,6,REWRITE RULE
+docs all four called an event,category,SH-HA,0.76,6,good
+docs all four called an event,category,TS-HA,0.786,6,good
+docs all four called an event,autonomy_level,ALL (Fleiss),0.564,6,REWRITE RULE
+docs all four called an event,autonomy_level,VV-SH,0.769,6,good
+docs all four called an event,autonomy_level,VV-TS,0.75,6,good
+docs all four called an event,autonomy_level,VV-HA,0.52,6,REWRITE RULE
+docs all four called an event,autonomy_level,SH-TS,0.556,6,REWRITE RULE
+docs all four called an event,autonomy_level,SH-HA,0.556,6,REWRITE RULE
+docs all four called an event,autonomy_level,TS-HA,0.28,6,REWRITE RULE
+docs all four called an event,interaction,ALL (Fleiss),0.797,6,good
+docs all four called an event,interaction,VV-SH,0.739,6,good
+docs all four called an event,interaction,VV-TS,0.76,6,good
+docs all four called an event,interaction,VV-HA,0.76,6,good
+docs all four called an event,interaction,SH-TS,0.76,6,good
+docs all four called an event,interaction,SH-HA,0.76,6,good
+docs all four called an event,interaction,TS-HA,1.0,6,good

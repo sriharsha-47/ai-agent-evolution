@@ -1,0 +1,7 @@
+model,n,accuracy,macro_f1
+gradient_boosting,4.0,0.75,0.5
+logreg,4.0,0.25,0.25
+most_frequent,4.0,0.75,0.42857142857142855
+moving_average_trend,4.0,0.75,0.42857142857142855
+persistence,4.0,0.5,0.3333333333333333
+random_forest,4.0,0.75,0.5

@@ -1,0 +1,52 @@
+{
+  "labelled_docs": 395,
+  "has_event_counts": {
+    "yes": 217,
+    "no_not_significant": 140,
+    "no_off_topic": 38
+  },
+  "n_events": 217,
+  "meets_minimum_200": true,
+  "meets_target_300": false,
+  "events_by_category": {
+    "research_milestone": 39,
+    "capability_breakthrough": 28,
+    "infrastructure_ecosystem": 28,
+    "autonomous_action": 11,
+    "agentic_development": 30,
+    "multi_agent_coordination": 57,
+    "adoption_scale": 15,
+    "unexpected_behavior_incident": 9
+  },
+  "categories_under_10_events": [
+    "unexpected_behavior_incident"
+  ],
+  "events_by_year": {
+    "2017": 1,
+    "2019": 3,
+    "2020": 1,
+    "2021": 6,
+    "2022": 4,
+    "2023": 27,
+    "2024": 44,
+    "2025": 68,
+    "2026": 63
+  },
+  "events_by_source_type": {
+    "paper": 113,
+    "lab_blog": 86,
+    "release_notes": 18
+  },
+  "events_by_annotator": {
+    "HA": 95,
+    "SH": 42,
+    "VV": 38,
+    "TS": 35,
+    "consensus": 7
+  },
+  "classifier_split": {
+    "train": 173,
+    "holdout": 44
+  },
+  "warnings_in_labels": 7
+}
