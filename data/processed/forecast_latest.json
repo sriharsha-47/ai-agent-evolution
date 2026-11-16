@@ -1,0 +1,176 @@
+{
+  "forecast_month": "2026-10",
+  "model": "gradient_boosting",
+  "predicted_category": "adoption_scale",
+  "probabilities": {
+    "adoption_scale": 0.9975,
+    "agentic_development": 0.0,
+    "autonomous_action": 0.0,
+    "capability_breakthrough": 0.0,
+    "infrastructure_ecosystem": 0.0,
+    "multi_agent_coordination": 0.0025,
+    "research_milestone": 0.0,
+    "unexpected_behavior_incident": 0.0
+  },
+  "baselines": {
+    "persistence": "capability_breakthrough",
+    "most_frequent": "multi_agent_coordination",
+    "moving_average": "multi_agent_coordination"
+  },
+  "metrics": {
+    "accuracy": 0.3889,
+    "macro_f1": 0.1061,
+    "test_months": 18
+  },
+  "history": [
+    {
+      "month": "2024-07",
+      "actual": "multi_agent_coordination",
+      "predicted": "multi_agent_coordination"
+    },
+    {
+      "month": "2024-10",
+      "actual": "multi_agent_coordination",
+      "predicted": "multi_agent_coordination"
+    },
+    {
+      "month": "2024-11",
+      "actual": "autonomous_action",
+      "predicted": "agentic_development"
+    },
+    {
+      "month": "2024-12",
+      "actual": "multi_agent_coordination",
+      "predicted": "multi_agent_coordination"
+    },
+    {
+      "month": "2025-02",
+      "actual": "research_milestone",
+      "predicted": "multi_agent_coordination"
+    },
+    {
+      "month": "2025-03",
+      "actual": "multi_agent_coordination",
+      "predicted": "multi_agent_coordination"
+    },
+    {
+      "month": "2025-04",
+      "actual": "multi_agent_coordination",
+      "predicted": "multi_agent_coordination"
+    },
+    {
+      "month": "2025-05",
+      "actual": "multi_agent_coordination",
+      "predicted": "multi_agent_coordination"
+    },
+    {
+      "month": "2025-07",
+      "actual": "infrastructure_ecosystem",
+      "predicted": "multi_agent_coordination"
+    },
+    {
+      "month": "2025-08",
+      "actual": "capability_breakthrough",
+      "predicted": "multi_agent_coordination"
+    },
+    {
+      "month": "2025-09",
+      "actual": "adoption_scale",
+      "predicted": "multi_agent_coordination"
+    },
+    {
+      "month": "2025-10",
+      "actual": "multi_agent_coordination",
+      "predicted": "capability_breakthrough"
+    },
+    {
+      "month": "2025-11",
+      "actual": "research_milestone",
+      "predicted": "autonomous_action"
+    },
+    {
+      "month": "2025-12",
+      "actual": "multi_agent_coordination",
+      "predicted": "multi_agent_coordination"
+    },
+    {
+      "month": "2026-01",
+      "actual": "multi_agent_coordination",
+      "predicted": "multi_agent_coordination"
+    },
+    {
+      "month": "2026-02",
+      "actual": "infrastructure_ecosystem",
+      "predicted": "multi_agent_coordination"
+    },
+    {
+      "month": "2026-03",
+      "actual": "unexpected_behavior_incident",
+      "predicted": "multi_agent_coordination"
+    },
+    {
+      "month": "2026-04",
+      "actual": "infrastructure_ecosystem",
+      "predicted": "research_milestone"
+    },
+    {
+      "month": "2026-06",
+      "actual": "multi_agent_coordination",
+      "predicted": "multi_agent_coordination"
+    },
+    {
+      "month": "2026-07",
+      "actual": "multi_agent_coordination",
+      "predicted": "multi_agent_coordination"
+    },
+    {
+      "month": "2026-08",
+      "actual": "multi_agent_coordination",
+      "predicted": "autonomous_action"
+    },
+    {
+      "month": "2026-09",
+      "actual": "capability_breakthrough",
+      "predicted": "unexpected_behavior_incident"
+    }
+  ],
+  "top_features": [
+    {
+      "feature": "high_autonomy_share",
+      "importance": 0.1796
+    },
+    {
+      "feature": "n_events",
+      "importance": 0.139
+    },
+    {
+      "feature": "entropy",
+      "importance": 0.1164
+    },
+    {
+      "feature": "mean_autonomy",
+      "importance": 0.1003
+    },
+    {
+      "feature": "incident_share",
+      "importance": 0.1
+    },
+    {
+      "feature": "multi_agent_share",
+      "importance": 0.087
+    },
+    {
+      "feature": "last_label_capability_breakthrough",
+      "importance": 0.0592
+    },
+    {
+      "feature": "last_label_unexpected_behavior_incident",
+      "importance": 0.0589
+    }
+  ],
+  "supporting_event_ids": [
+    "GE-0217",
+    "GE-0216",
+    "GE-0215"
+  ]
+}
