@@ -1,0 +1,4 @@
+annotation_id,annotator,field,severity,message
+P06,VV,trigger,WARN,trigger text not found in the document (copy the exact words)
+P12,VV,trigger,WARN,trigger text not found in the document (copy the exact words)
+P13,VV,trigger,WARN,trigger text not found in the document (copy the exact words)

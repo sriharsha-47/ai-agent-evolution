@@ -1,0 +1,4 @@
+annotation_id,annotator,field,severity,message
+HA-007,HA,interaction,WARN,multi_agent_coordination usually has interaction = agent_agent
+HA-019,HA,interaction,WARN,multi_agent_coordination usually has interaction = agent_agent
+HA-046,HA,interaction,WARN,multi_agent_coordination usually has interaction = agent_agent

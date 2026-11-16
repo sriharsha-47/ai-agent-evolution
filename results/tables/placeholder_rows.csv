@@ -1,0 +1,13 @@
+annotator,event_id,annotation_id,title,category,flags
+SH,GE-0001,SH-051,Learning from human preferences,research_milestone,no language-model/agent term found: check scope (no_off_topic?)
+VV,GE-0008,VV-015,Multimodal neurons in artificial neural networks,research_milestone,no language-model/agent term found: check scope (no_off_topic?)
+SH,GE-0082,SH-039,OpenAI o1 System Card,capability_breakthrough,no language-model/agent term found: check scope (no_off_topic?)
+TS,GE-0117,TS-015,Open Weights and AI for All,capability_breakthrough,no language-model/agent term found: check scope (no_off_topic?)
+VV,GE-0122,VV-025,An update on our mental health-related work,research_milestone,title looks like policy/opinion: check no_not_significant
+TS,GE-0130,TS-003,Sora 2 System Card,capability_breakthrough,no language-model/agent term found: check scope (no_off_topic?)
+VV,GE-0157,VV-056,Netomi’s lessons for scaling agentic systems into the enterprise,adoption_scale,title looks like policy/opinion: check no_not_significant
+HA,GE-0174,EX-055,IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST,research_milestone,title looks like policy/opinion: check no_not_significant
+SH,GE-0178,SH-040,Our agreement with the Department of War,infrastructure_ecosystem,no language-model/agent term found: check scope (no_off_topic?)
+SH,GE-0186,SH-001,crewAIInc/crewAI 1.14.0a4,infrastructure_ecosystem,no language-model/agent term found: check scope (no_off_topic?)
+HA,GE-0194,EX-066,"Codex for every role, tool, and workflow",adoption_scale,no language-model/agent term found: check scope (no_off_topic?)
+HA,GE-0195,EX-067,Travelers deploys AI-powered claims countrywide with OpenAI,adoption_scale,no language-model/agent term found: check scope (no_off_topic?)

@@ -1,0 +1,2 @@
+annotation_id,annotator,field,severity,message
+TS-057,TS,phase_hint,WARN,differs from the category's default phase (fine if the text shows it)

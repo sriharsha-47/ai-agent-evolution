@@ -1,0 +1,15 @@
+feature,importance
+num__high_autonomy_share,0.14436314133883774
+num__entropy,0.13297907881992235
+num__n_categories,0.12910424056915645
+cat__last_label_multi_agent_coordination,0.1170139421890104
+num__n_events,0.10087323897371228
+num__mean_autonomy,0.10059617629556197
+num__multi_agent_share,0.0972101923687205
+num__n_orgs,0.07621614406432721
+num__incident_share,0.06846018598849508
+cat__last_label_none,0.014853710083734687
+cat__last_label_infrastructure_ecosystem,0.007866351084627946
+cat__last_label_autonomous_action,0.005998248291708576
+num__novelty,0.0034289404152417864
+cat__last_label_agentic_development,0.0010364095169430453

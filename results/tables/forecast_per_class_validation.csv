@@ -1,0 +1,13 @@
+model,class,precision,recall,f1,support
+gradient_boosting,autonomous_action,0.0,0.0,0.0,1
+gradient_boosting,multi_agent_coordination,1.0,1.0,1.0,3
+logreg,autonomous_action,0.0,0.0,0.0,1
+logreg,multi_agent_coordination,1.0,0.3333333333333333,0.5,3
+most_frequent,autonomous_action,0.0,0.0,0.0,1
+most_frequent,multi_agent_coordination,0.75,1.0,0.8571428571428571,3
+moving_average_trend,autonomous_action,0.0,0.0,0.0,1
+moving_average_trend,multi_agent_coordination,0.75,1.0,0.8571428571428571,3
+persistence,autonomous_action,0.0,0.0,0.0,1
+persistence,multi_agent_coordination,0.6666666666666666,0.6666666666666666,0.6666666666666666,3
+random_forest,autonomous_action,0.0,0.0,0.0,1
+random_forest,multi_agent_coordination,1.0,1.0,1.0,3

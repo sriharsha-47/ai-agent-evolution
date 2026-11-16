@@ -1,0 +1,41 @@
+reviewer,author,annotation_id,doc_id,has_event_orig,has_event_rev,category_orig,category_rev,autonomy_level_orig,autonomy_level_rev,notes
+HA,VV,VV-005,re_fd7fda3ce9,no_not_significant,No,,Maintenance release,,N/A,langchain-openrouter 0.2.8: mostly model-profile refresh chores + metadata fixes.
+HA,VV,VV-006,pa_6b75b319b6,yes,Yes,multi_agent_coordination,Security / safety,3,L4,HPTSA: planning agent launches sub-agents; team exploits real zero-day vulnerabilities.
+HA,VV,VV-007,la_436dcd7b3c,yes,Yes,infrastructure_ecosystem,Product / feature launch,NA,L1,"GPT-4 API general availability + Completions deprecation. DATE LOOKS WRONG: text says retirement ""beginning of 2024""; actual post was July 2023, not 2024-04-24."
+HA,VV,VV-011,pa_fff4e88b99,yes,Yes,agentic_development,Agent research (method),2,L3,ClawTrace/CostCraft: cost-attributed traces for distilling agent skills.
+HA,VV,VV-012,pa_a82486d133,yes,Yes,infrastructure_ecosystem,Infrastructure / runtime,NA,L3,Aethon: near-constant-time instantiation primitive for stateful agents.
+HA,VV,VV-023,re_16ef1beaad,no_not_significant,Yes,,Framework / tooling release,,L3,"crewAI 1.11.0rc1: plan-execute pattern, A2A enterprise auth, sandbox-escape fix."
+HA,VV,VV-028,re_6ba0340734,no_not_significant,Yes,,Framework / tooling release,,L3,"AutoGen v0.2.26: pluggable vector DB, selective carryover in initiate_chats."
+HA,VV,VV-033,re_847fc2939e,no_not_significant,Yes,,Framework / tooling release,,L3,"AutoGen v0.2.9: GroupChat in AutoGen Studio, AutoGenBench."
+HA,VV,VV-034,re_98eab8be9b,no_not_significant,Yes,,Framework / tooling release,,L3,"crewAI 1.0.0a4: guardrail/knowledge events, trigger commands; many CI fixes."
+HA,VV,VV-062,pa_79f574058e,yes,Yes,autonomous_action,Agent research (method),3,L3,"LLM-agent system that autonomously diagnoses and resolves AI-cluster faults, with benchmark."
+VV,SH,SH-005,pa_5548603042,yes,Yes,multi_agent_coordination,Evaluation / benchmark,2,L3,Evaluates LLM agents on cooperative text game with Theory-of-Mind tasks vs MARL baselines.
+VV,SH,SH-020,la_2d5fba6a19,yes,No,adoption_scale,Business / program announcement,NA,N/A,Discount/access program for nonprofits; no capability change.
+VV,SH,SH-034,pa_a7d2e7274d,yes,Yes,research_milestone,Agent research (method),NA,L3,AgentGen: synthesizes environments/tasks to instruction-tune LLM agent planning.
+VV,SH,SH-036,re_c73111ab4e,no_not_significant,Yes,,Framework / tooling release,,L3,"crewAI 1.14.3a2: Bedrock V4, Daytona sandbox tools, checkpoint serialization fixes."
+VV,SH,SH-048,re_96537f73d7,no_not_significant,Yes,,Framework / tooling release,,L3,"crewAI 0.201.0: reasoning-plan param, platform context, traces, embedder support."
+VV,SH,SH-050,la_138f009536,no_off_topic,No,,Non-agent AI research,,N/A,Energy-based generative models; no agent component.
+VV,SH,SH-053,pa_7d171a840c,yes,Yes,multi_agent_coordination,Agent research (method),3,L3,QAgent: autonomous multi-agent framework for end-to-end OpenQASM generation (bounded domain).
+VV,SH,SH-059,la_5f97ba92d4,no_off_topic,No,,Non-agent AI research,,N/A,Adversarial examples against ML classifiers (2017); not about agents.
+VV,SH,SH-060,la_25e1e85d3f,yes,No,adoption_scale,Business / program announcement,NA,N/A,"Customer story (ChatGPT Enterprise at ENEOS); assistive use, no new agent capability. BORDERLINE."
+VV,SH,SH-062,la_b277c65ceb,no_off_topic,Yes,,Agent research (method),,L3,LOLA: multi-agent RL algorithm where agents model other learners. BORDERLINE scope (pre-LLM).
+SH,TS,TS-009,re_04c4c1ccc0,yes,Yes,agentic_development,Framework / tooling release,2,L3,"Auto-GPT v0.4.4: GPT-4 default for SMART_LLM, command selection fixes, core re-architecture."
+SH,TS,TS-026,la_ce60d03934,yes,Yes,autonomous_action,Product / feature launch,3,L3,ChatGPT Pulse: proactive background research and personalized updates without a prompt.
+SH,TS,TS-032,re_55bb413b3b,no_not_significant,Yes,,Framework / tooling release,,L3,"Auto-GPT v0.4.0: re-architecture, plugin move, memory backends removed."
+SH,TS,TS-047,re_7a25665ecd,no_not_significant,No,,Maintenance release,,N/A,"langchain-anthropic 1.5.0: reasoning_effort param + chores/lockfile bumps; provider integration, no agent-level capability. BORDERLINE."
+SH,TS,TS-052,la_0f569fe062,yes,No,capability_breakthrough,Non-agent AI research,1,N/A,"GPT-4 used for content-moderation decisions; an LLM application, not an agent system per the guide. BORDERLINE (could be Yes / L2)."
+SH,TS,TS-056,pa_d195f2ee7d,yes,Yes,multi_agent_coordination,Agent research (method),2,L3,Smurfs: training-free multi-agent system for tool planning (DFSDT).
+SH,TS,TS-064,re_4737eaa98e,no_not_significant,Yes,,Framework / tooling release,,L3,"AutoGPT v0.5.1: gpt-4-turbo default, Agent Protocol server, cost tracking."
+SH,TS,TS-065,la_ab9909aef0,yes,No,infrastructure_ecosystem,Non-agent AI research,1,N/A,GABRIEL: LLM toolkit converting text to quantitative data; not agentic. BORDERLINE.
+SH,TS,TS-072,la_23794afa1f,no_off_topic,No,,Non-agent AI research,,N/A,"Simulated robotics environments + HER baselines (RL, 2018); environments, not an agent system. BORDERLINE."
+SH,TS,TS-075,re_bd27a8fd6f,no_not_significant,Yes,,Framework / tooling release,,L3,"crewAI 1.14.7a2: conversational flows, chat API, flow DSL, LLM event metadata."
+TS,HA,HA-001,re_19f9f4cf2e,no_not_significant,Yes,,Framework / tooling release,,L2,AutoGen v0.1.5: adds PDF parsing to RetrieveChat (retrieval agent). Small feature release.
+TS,HA,HA-002,pa_3f3e3a0696,no_off_topic,Yes,,Agent research (method),,L3,"Learned Graph-Transformer heuristic for multi-agent path finding (classical planning, not LLM). BORDERLINE scope."
+TS,HA,HA-003,la_e56419c90d,yes,No,research_milestone,Non-agent AI research,0,N/A,Interpretability (GPT-4 explaining GPT-2 neurons); no agent component.
+TS,HA,HA-008,re_a2d2a468da,no_not_significant,Yes,,Framework / tooling release,,L3,"AutoGen v0.2.14: sequential chats started by different agents, GPTAssistantAgent, group-chat improvements."
+TS,HA,HA-016,pa_b491288c02,yes,Yes,multi_agent_coordination,Agent research (method),2,L3,ConMem: training-free memory graph for adaptation of multi-agent systems.
+TS,HA,HA-019,pa_4497fc23bd,yes,Yes,multi_agent_coordination,Agent research (method),3,L4,LLaMAR: LM-based long-horizon planner for multi-agent robots in partially observable settings.
+TS,HA,HA-039,re_036d348eb9,no_not_significant,Yes,,Framework / tooling release,,L2,"AutoGPT platform beta v0.6.32: new agent-builder UI features (credentials, custom nodes); user-defined workflows."
+TS,HA,HA-051,re_117721e3af,no_not_significant,No,,Maintenance release,,N/A,crewAI 1.15.21: mostly bug fixes plus telemetry; no new agent capability. Excerpt cut off mid-docs section.
+TS,HA,HA-068,pa_926f28c20a,yes,Yes,agentic_development,Agent research (method),3,L4,"Agent-Driver: LLM cognitive agent (tools, memory, reasoning) for autonomous driving; embodied setting = L4."
+TS,HA,HA-069,la_fa1ebe6395,yes,Yes,capability_breakthrough,Product / feature launch,0,L1,"ChatGPT launch: conversational assistant, human drives each turn. Landmark baseline event."

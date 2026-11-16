@@ -1,0 +1,16 @@
+annotation_id,doc_id,title,final_has_event,has_event_votes,final_category,category_votes,tie_broken_by_HA
+P01,la_bd572610e8,Generalizing from simulation,no_off_topic,{'no_off_topic': 4},,,False
+P02,pa_e4e651bfd6,Scalable and Safe Multi-Agent Motion Planning with Nonlinear Dynamics and Bounded Disturbances,no_off_topic,{'no_off_topic': 4},,,False
+P03,la_9b989c6bdf,Forecasting potential misuses of language models for disinformation campaigns and how to reduce risk,no_not_significant,{'no_not_significant': 4},,,False
+P04,pa_79fd3507e2,Agents: An Open-source Framework for Autonomous Language Agents,yes,{'yes': 4},agentic_development,"{'multi_agent_coordination': 1, 'infrastructure_ecosystem': 1, 'agentic_development': 2}",False
+P05,la_0720f18be7,Superalignment Fast Grants,no_not_significant,"{'yes': 1, 'no_not_significant': 3}",,,False
+P06,la_0b7e7105cf,API Partnership with Stack Overflow,yes,{'yes': 4},infrastructure_ecosystem,{'infrastructure_ecosystem': 4},False
+P07,la_621811037f,Upgrading the Moderation API with our new multimodal moderation model,yes,{'yes': 4},capability_breakthrough,{'capability_breakthrough': 4},False
+P08,pa_e971c38b41,SRMT: Shared Memory for Multi-agent Lifelong Pathfinding,no_off_topic,{'no_off_topic': 4},,,False
+P09,pa_d8d8bc3858,Vaiage: A Multi-Agent Solution to Personalized Travel Planning,yes,{'yes': 4},multi_agent_coordination,{'multi_agent_coordination': 4},False
+P10,re_9fc3bdd754,crewAIInc/crewAI 0.165.1,no_not_significant,{'no_not_significant': 4},,,False
+P11,pa_ecdb50855c,ATLAS: Adaptive Trading with LLM AgentS Through Dynamic Prompt Optimization and Multi-Agent Coordination,yes,{'yes': 4},multi_agent_coordination,{'multi_agent_coordination': 4},False
+P12,la_89b0ac10d2,ServiceNow powers actionable enterprise AI with OpenAI,yes,{'yes': 4},infrastructure_ecosystem,"{'adoption_scale': 2, 'infrastructure_ecosystem': 2}",True
+P13,la_a1bdc83d63,Introducing the OpenAI Safety Bug Bounty program,yes,"{'yes': 3, 'no_not_significant': 1}",unexpected_behavior_incident,"{'infrastructure_ecosystem': 1, 'unexpected_behavior_incident': 2}",False
+P14,re_e244016624,langchain-ai/langchain langchain-core==1.4.0,no_not_significant,{'no_not_significant': 4},,,False
+P15,re_b6f7069f3f,langchain-ai/langchain langchain-openrouter==0.2.7,no_not_significant,{'no_not_significant': 4},,,False

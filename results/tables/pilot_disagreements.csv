@@ -1,0 +1,17 @@
+doc_id,field,title,VV,SH,TS,HA
+la_0720f18be7,has_event,Superalignment Fast Grants,yes,no_not_significant,no_not_significant,no_not_significant
+la_a1bdc83d63,has_event,Introducing the OpenAI Safety Bug Bounty program,yes,yes,yes,no_not_significant
+la_0720f18be7,has_event_binary,Superalignment Fast Grants,yes,no,no,no
+la_a1bdc83d63,has_event_binary,Introducing the OpenAI Safety Bug Bounty program,yes,yes,yes,no
+pa_79fd3507e2,category,Agents: An Open-source Framework for Autonomous Language Agents,multi_agent_coordination,infrastructure_ecosystem,agentic_development,agentic_development
+la_0720f18be7,category,Superalignment Fast Grants,infrastructure_ecosystem,(none),(none),(none)
+la_89b0ac10d2,category,ServiceNow powers actionable enterprise AI with OpenAI,adoption_scale,infrastructure_ecosystem,adoption_scale,infrastructure_ecosystem
+la_a1bdc83d63,category,Introducing the OpenAI Safety Bug Bounty program,infrastructure_ecosystem,unexpected_behavior_incident,unexpected_behavior_incident,(none)
+la_0720f18be7,autonomy_level,Superalignment Fast Grants,NA,(none),(none),(none)
+la_0b7e7105cf,autonomy_level,API Partnership with Stack Overflow,NA,NA,0,NA
+pa_ecdb50855c,autonomy_level,ATLAS: Adaptive Trading with LLM AgentS Through Dynamic Prompt Optimization and Multi-Agent Coordination,3,3,3,2
+la_89b0ac10d2,autonomy_level,ServiceNow powers actionable enterprise AI with OpenAI,2,NA,2,1
+la_a1bdc83d63,autonomy_level,Introducing the OpenAI Safety Bug Bounty program,NA,NA,NA,(none)
+pa_79fd3507e2,interaction,Agents: An Open-source Framework for Autonomous Language Agents,agent_agent,ecosystem,human_agent,human_agent
+la_0720f18be7,interaction,Superalignment Fast Grants,ecosystem,(none),(none),(none)
+la_a1bdc83d63,interaction,Introducing the OpenAI Safety Bug Bounty program,ecosystem,ecosystem,ecosystem,(none)
