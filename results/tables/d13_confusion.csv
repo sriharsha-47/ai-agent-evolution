@@ -1,0 +1,9 @@
+gold \ pred,unexpected_behavior_incident,multi_agent_coordination,autonomous_action,adoption_scale,infrastructure_ecosystem,agentic_development,capability_breakthrough,research_milestone
+unexpected_behavior_incident,3,2,0,0,2,0,0,2
+multi_agent_coordination,0,51,0,0,1,1,0,4
+autonomous_action,0,6,0,0,3,0,1,1
+adoption_scale,0,0,0,9,5,0,0,1
+infrastructure_ecosystem,0,2,0,1,14,5,5,1
+agentic_development,0,12,0,0,2,9,1,6
+capability_breakthrough,0,0,0,0,2,0,22,4
+research_milestone,0,11,0,0,1,2,5,20

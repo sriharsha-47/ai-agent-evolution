@@ -1,0 +1,45 @@
+doc_id,title,gold,pred
+la_91e1049853,Generative modeling with sparse transformers,research_milestone,capability_breakthrough
+la_5427ee1230,MuseNet,capability_breakthrough,capability_breakthrough
+la_861bee6c31,Aligning language models to follow instructions,capability_breakthrough,capability_breakthrough
+pa_da89dbe46d,Emergent autonomous scientific research capabilities of large language,autonomous_action,multi_agent_coordination
+la_0f569fe062,Using GPT-4 for content moderation,capability_breakthrough,research_milestone
+pa_6a7684d234,DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Lan,agentic_development,multi_agent_coordination
+pa_715946df7b,Large Language Model Enhanced Multi-Agent Systems for 6G Communication,multi_agent_coordination,multi_agent_coordination
+pa_518aeb01c3,CodePori: Large-Scale System for Autonomous Software Development Using,multi_agent_coordination,multi_agent_coordination
+la_58f9a819d1,Claude 3 Haiku: our fastest model yet,capability_breakthrough,capability_breakthrough
+pa_497cb74ab0,AutoGenesisAgent: Self-Generating Multi-Agent Systems for Complex Task,multi_agent_coordination,multi_agent_coordination
+pa_c9f9a9b7ae,Testing and Understanding Erroneous Planning in LLM Agents through Syn,research_milestone,multi_agent_coordination
+la_0b7e7105cf,API Partnership with Stack Overflow,infrastructure_ecosystem,infrastructure_ecosystem
+la_c486538cb1,Introducing GPT-4o and more tools to ChatGPT free users,capability_breakthrough,capability_breakthrough
+la_2d5fba6a19,Introducing OpenAI for Nonprofits,adoption_scale,infrastructure_ecosystem
+re_18840d713e,microsoft/autogen v0.2.30,infrastructure_ecosystem,agentic_development
+pa_2b4863dfbb,Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks w,agentic_development,multi_agent_coordination
+pa_eeff6acd83,ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems,multi_agent_coordination,multi_agent_coordination
+pa_a6abfdd184,AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML,multi_agent_coordination,multi_agent_coordination
+pa_b025af3751,AgentSquare: Automatic LLM Agent Search in Modular Design Space,agentic_development,research_milestone
+pa_2a223dc73e,Autonomous Industrial Control using an Agentic Framework with Large La,autonomous_action,multi_agent_coordination
+pa_f9e814b50f,SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Age,research_milestone,research_milestone
+pa_9160c745b2,AgentGuard: Repurposing Agentic Orchestrator for Safety Evaluation of ,research_milestone,multi_agent_coordination
+pa_03637e5d4a,A-MEM: Agentic Memory for LLM Agents,agentic_development,multi_agent_coordination
+pa_d8d8bc3858,Vaiage: A Multi-Agent Solution to Personalized Travel Planning,multi_agent_coordination,multi_agent_coordination
+la_d96d69db2e,"Shipping code faster with o3, o4-mini, and GPT-4.1",adoption_scale,infrastructure_ecosystem
+pa_171d255f19,Evaluating Memory in LLM Agents via Incremental Multi-Turn Interaction,research_milestone,research_milestone
+la_25e1e85d3f,ENEOS Materials brings ChatGPT Enterprise to manufacturing,adoption_scale,adoption_scale
+la_a6fde770d6,Sora 2 System Card,capability_breakthrough,capability_breakthrough
+la_0e7e4c7589,Cyber Operation: Russian-speaking malware tooling,unexpected_behavior_incident,unexpected_behavior_incident
+pa_80d549a852,AMAS: Adaptively Determining Communication Topology for LLM-based Mult,multi_agent_coordination,multi_agent_coordination
+pa_db4640dac0,Adversarial Reinforcement Learning for Large Language Model Agent Safe,research_milestone,research_milestone
+pa_20ba4d96bc,TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Systems,research_milestone,multi_agent_coordination
+pa_8fa1443c8b,Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolvi,research_milestone,research_milestone
+pa_1e601b4733,StackPlanner: A Centralized Hierarchical Multi-Agent System with Task-,multi_agent_coordination,multi_agent_coordination
+la_eb18c216d3,ServiceNow chooses Claude,infrastructure_ecosystem,infrastructure_ecosystem
+pa_41fc39ada3,SYMPHONY: Synergistic Multi-agent Planning with Heterogeneous Language,multi_agent_coordination,multi_agent_coordination
+la_ab9909aef0,Scaling social science research,infrastructure_ecosystem,research_milestone
+pa_339148b71a,Zombie Agents: Persistent Control of Self-Evolving LLM Agents via Self,unexpected_behavior_incident,multi_agent_coordination
+pa_0af62e7cf8,PolySwarm: A Multi-Agent Large Language Model Framework for Prediction,multi_agent_coordination,multi_agent_coordination
+re_e562d54c7e,crewAIInc/crewAI 1.14.0a4,infrastructure_ecosystem,multi_agent_coordination
+pa_a82486d133,Aethon: A Reference-Based Replication Primitive for Constant-Time Inst,infrastructure_ecosystem,multi_agent_coordination
+pa_7bf3c8b23e,Multi-Agent Transactive Memory,multi_agent_coordination,multi_agent_coordination
+re_c25a82592c,Significant-Gravitas/AutoGPT 🚀 AutoGPT Platform v0.6.69,agentic_development,agentic_development
+la_8c357c1baa,Science One Framework: A verifiable autonomous research framework via ,agentic_development,research_milestone

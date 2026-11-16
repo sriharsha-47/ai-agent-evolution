@@ -1,0 +1,47 @@
+== category: train 173 / holdout 44 ==
+TF-IDF + LR (holdout)              acc=0.568  macro-F1=0.477  n=44
+majority class (holdout)           acc=0.250  macro-F1=0.050  n=44
+source_type only (holdout)         acc=0.409  macro-F1=0.174  n=44
+TF-IDF + LR (5-fold CV, all events) acc=0.590  macro-F1=0.504  n=217
+
+holdout per-class report:
+                              precision    recall  f1-score   support
+
+              adoption_scale       1.00      0.33      0.50         3
+         agentic_development       0.50      0.17      0.25         6
+           autonomous_action       0.00      0.00      0.00         2
+     capability_breakthrough       0.83      0.83      0.83         6
+    infrastructure_ecosystem       0.50      0.33      0.40         6
+    multi_agent_coordination       0.50      1.00      0.67        11
+          research_milestone       0.50      0.50      0.50         8
+unexpected_behavior_incident       1.00      0.50      0.67         2
+
+                    accuracy                           0.57        44
+                   macro avg       0.60      0.46      0.48        44
+                weighted avg       0.58      0.57      0.52        44
+
+holdout confusion (rows=gold, cols=pred), order: adoption_scale, agentic_development, autonomous_action, capability_breakthrough, infrastructure_ecosystem, multi_agent_coordination, research_milestone, unexpected_behavior_incident
+[[ 1  0  0  0  2  0  0  0]
+ [ 0  1  0  0  0  3  2  0]
+ [ 0  0  0  0  0  2  0  0]
+ [ 0  0  0  5  0  0  1  0]
+ [ 0  1  0  0  2  2  1  0]
+ [ 0  0  0  0  0 11  0  0]
+ [ 0  0  0  1  0  3  4  0]
+ [ 0  0  0  0  0  1  0  1]]
+
+== has_event (3 classes), CV over all labelled docs ==
+class counts: {np.str_('yes'): 217, np.str_('no_not_significant'): 140, np.str_('no_off_topic'): 38}
+TF-IDF + LR (5-fold CV)            acc=0.808  macro-F1=0.708  n=395
+majority class                     acc=0.549  macro-F1=0.236  n=395
+                    precision    recall  f1-score   support
+
+no_not_significant       0.86      0.77      0.81       140
+      no_off_topic       0.92      0.32      0.47        38
+               yes       0.78      0.92      0.84       217
+
+          accuracy                           0.81       395
+         macro avg       0.85      0.67      0.71       395
+      weighted avg       0.82      0.81      0.80       395
+
+yes vs no (binary, CV)             acc=0.820  macro-F1=0.814  n=395

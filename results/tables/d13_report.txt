@@ -1,0 +1,56 @@
+model: TF-IDF + LR; out-of-fold over 217 gold events
+accuracy 0.590  macro-F1 0.504  top-2 accuracy 0.802
+
+per class (taxonomy precedence order):  P     R     F1    n
+  unexpected_behavior_incident   1.00  0.33  0.50  9
+  multi_agent_coordination       0.61  0.89  0.72  57
+  autonomous_action              0.00  0.00  0.00  11
+  adoption_scale                 0.90  0.60  0.72  15
+  infrastructure_ecosystem       0.47  0.50  0.48  28
+  agentic_development            0.53  0.30  0.38  30
+  capability_breakthrough        0.65  0.79  0.71  28
+  research_milestone             0.51  0.51  0.51  39
+
+top confusions (gold -> predicted): count
+  agentic_development -> multi_agent_coordination: 12
+  research_milestone -> multi_agent_coordination: 11
+  autonomous_action -> multi_agent_coordination: 6
+  agentic_development -> research_milestone: 6
+  research_milestone -> capability_breakthrough: 5
+  infrastructure_ecosystem -> capability_breakthrough: 5
+  adoption_scale -> infrastructure_ecosystem: 5
+  infrastructure_ecosystem -> agentic_development: 5
+errors where predicted class has HIGHER precedence than gold: 44; LOWER precedence: 45  (of 89)
+
+accuracy by annotator:
+  HA             n= 95  acc=0.642
+  SH             n= 42  acc=0.690
+  TS             n= 35  acc=0.514
+  VV             n= 38  acc=0.421
+  consensus      n=  7  acc=0.571
+
+accuracy by source_type:
+  lab_blog       n= 86  acc=0.616
+  paper          n=113  acc=0.575
+  release_notes  n= 18  acc=0.556
+
+accuracy by annotator_confidence:
+  1              n= 51  acc=0.451
+  2              n=143  acc=0.636
+  3              n= 23  acc=0.609
+
+mean top probability: correct 0.42, wrong 0.32
+
+most confident wrong predictions (likely label problems or rule ambiguity; check these first):
+  SH-019  SH        gold=infrastructure_ecosystem   pred=agentic_development        p=0.64 | microsoft/autogen python-v0.7.1
+  HA-042  HA        gold=infrastructure_ecosystem   pred=agentic_development        p=0.57 | microsoft/autogen v0.2.30
+  HA-025  HA        gold=research_milestone         pred=multi_agent_coordination   p=0.53 | TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Sys
+  TS-037  TS        gold=research_milestone         pred=multi_agent_coordination   p=0.52 | Adapting LLM Agents with Universal Feedback in Communication
+  VV-024  VV        gold=research_milestone         pred=multi_agent_coordination   p=0.52 | Single-Agent Scaling Fails Multi-Agent Intelligence: Towards
+  SH-025  SH        gold=research_milestone         pred=multi_agent_coordination   p=0.51 | REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+  HA-054  HA        gold=agentic_development        pred=infrastructure_ecosystem   p=0.50 | microsoft/autogen v0.2.4
+  TS-051  TS        gold=agentic_development        pred=multi_agent_coordination   p=0.45 | Task Memory Engine (TME): Enhancing State Awareness for Mult
+  VV-020  VV        gold=agentic_development        pred=multi_agent_coordination   p=0.43 | Hypothetical Minds: Scaffolding Theory of Mind for Multi-Age
+  SH-023  SH        gold=multi_agent_coordination   pred=infrastructure_ecosystem   p=0.42 | microsoft/autogen v0.2.1
+  TS-020  TS        gold=research_milestone         pred=multi_agent_coordination   p=0.42 | Is Your LLM-Based Multi-Agent a Reliable Real-World Planner?
+  EX-008  HA        gold=agentic_development        pred=multi_agent_coordination   p=0.41 | DiLu: A Knowledge-Driven Approach to Autonomous Driving with
