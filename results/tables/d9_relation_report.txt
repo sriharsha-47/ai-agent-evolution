@@ -1,0 +1,12 @@
+events: 217
+org-system pairs (first system only): gold=107 pred=74 tp=53  P=0.72 R=0.50 F1=0.59
+
+capability (13 classes)             holdout acc / macro-F1   all-events acc / macro-F1
+majority class (multi_agent_coordination)0.136 / 0.022
+keyword rules                       0.477 / 0.387            0.521 / 0.505
+TF-IDF + LR                         0.364 / 0.284            0.456 / 0.370 (5-fold CV)
+
+action phrase unigram-F1 vs gold:  extractive trigger clause=0.232   title=0.311   first 22 words=0.173
+   lab_blog       n= 86 extractive=0.193 title=0.241
+   paper          n=113 extractive=0.287 title=0.410
+   release_notes  n= 18 extractive=0.069 title=0.015

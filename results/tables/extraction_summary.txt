@@ -1,0 +1,6 @@
+docs: 3018   time: 9.6s
+lab_blog       n=1308  candidate_event=87%  text_date_found=87%  org=100%  system=46%
+paper          n= 984  candidate_event=90%  text_date_found=0%  org=0%  system=47%
+release_notes  n= 726  candidate_event=70%  text_date_found=10%  org=100%  system=100%
+trigger rules: announce=1493, research=801, feature=123, model=49, deal=44, describe=12, scale=5
+event_date_how: publication_date=3018

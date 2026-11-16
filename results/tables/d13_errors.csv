@@ -1,0 +1,90 @@
+annotation_id,doc_id,annotator,source_type,annotator_confidence,gold,pred,p_pred,p_gold,title
+SH-019,re_fea02de5e6,SH,release_notes,1,infrastructure_ecosystem,agentic_development,0.64,0.09,microsoft/autogen python-v0.7.1
+HA-042,re_18840d713e,HA,release_notes,1,infrastructure_ecosystem,agentic_development,0.57,0.09,microsoft/autogen v0.2.30
+HA-025,pa_20ba4d96bc,HA,paper,2,research_milestone,multi_agent_coordination,0.53,0.24,TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Systems
+TS-037,pa_0af58daead,TS,paper,2,research_milestone,multi_agent_coordination,0.52,0.23,Adapting LLM Agents with Universal Feedback in Communication
+VV-024,pa_02c1950e63,VV,paper,2,research_milestone,multi_agent_coordination,0.52,0.16,Single-Agent Scaling Fails Multi-Agent Intelligence: Towards Foundation Models w
+SH-025,pa_8f971a6ec3,SH,paper,2,research_milestone,multi_agent_coordination,0.51,0.18,"REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems on Real-world, Dynam"
+HA-054,re_0d23d1f6b0,HA,release_notes,1,agentic_development,infrastructure_ecosystem,0.50,0.17,microsoft/autogen v0.2.4
+TS-051,pa_aa97133b57,TS,paper,2,agentic_development,multi_agent_coordination,0.45,0.15,Task Memory Engine (TME): Enhancing State Awareness for Multi-Step LLM Agent Tas
+VV-020,pa_2b4863dfbb,VV,paper,2,agentic_development,multi_agent_coordination,0.43,0.16,Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large 
+SH-023,re_d4d09d1001,SH,release_notes,2,multi_agent_coordination,infrastructure_ecosystem,0.42,0.13,microsoft/autogen v0.2.1
+TS-020,pa_032deaf638,TS,paper,1,research_milestone,multi_agent_coordination,0.42,0.26,Is Your LLM-Based Multi-Agent a Reliable Real-World Planner? Exploring Fraud Det
+EX-008,pa_6a7684d234,HA,paper,2,agentic_development,multi_agent_coordination,0.41,0.15,DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Mode
+TS-015,la_358d846eab,TS,lab_blog,2,capability_breakthrough,infrastructure_ecosystem,0.41,0.12,Open Weights and AI for All
+EX-019,pa_2a223dc73e,HA,paper,1,autonomous_action,multi_agent_coordination,0.41,0.07,Autonomous Industrial Control using an Agentic Framework with Large Language Mod
+EX-027,pa_021ae830b0,HA,paper,1,autonomous_action,multi_agent_coordination,0.40,0.11,"Autonomous Radiotherapy Treatment Planning Using DOLA: A Privacy-Preserving, LLM"
+VV-015,la_c65ff78afd,VV,lab_blog,2,research_milestone,capability_breakthrough,0.40,0.14,Multimodal neurons in artificial neural networks
+TS-057,la_e13f290e48,TS,lab_blog,2,infrastructure_ecosystem,capability_breakthrough,0.40,0.18,Introducing text and code embeddings
+HA-067,la_a00671f399,HA,lab_blog,2,agentic_development,capability_breakthrough,0.39,0.05,Deep research System Card
+HA-006,pa_e08fe768fd,HA,paper,1,agentic_development,multi_agent_coordination,0.39,0.24,STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decisi
+SH-054,la_483586da1c,SH,lab_blog,1,adoption_scale,infrastructure_ecosystem,0.39,0.16,New funding to build towards AGI
+VV-007,la_436dcd7b3c,VV,lab_blog,3,infrastructure_ecosystem,capability_breakthrough,0.38,0.24,GPT-4 API general availability and deprecation of older models in the Completion
+TS-028,pa_0f4720ab65,TS,paper,2,multi_agent_coordination,agentic_development,0.38,0.32,KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large L
+VV-062,pa_79f574058e,VV,paper,2,autonomous_action,multi_agent_coordination,0.38,0.10,Enhancing Cluster Resilience: LLM-agent Based Autonomous Intelligent Cluster Dia
+EX-033,pa_f2239676e9,HA,paper,1,research_milestone,multi_agent_coordination,0.37,0.27,The Social Laboratory: A Psychometric Framework for Multi-Agent LLM Evaluation
+HA-033,la_ae88f447f7,HA,lab_blog,3,capability_breakthrough,infrastructure_ecosystem,0.36,0.23,OpenAI Codex
+VV-061,la_09eb7ecc11,VV,lab_blog,3,autonomous_action,capability_breakthrough,0.36,0.07,Addendum to o3 and o4-mini system card: Codex
+VV-001,pa_42ef7c0728,VV,paper,2,research_milestone,multi_agent_coordination,0.36,0.17,FuncPoison: Poisoning Function Library to Hijack Multi-agent Autonomous Driving 
+VV-008,la_91e1049853,VV,lab_blog,3,research_milestone,capability_breakthrough,0.36,0.19,Generative modeling with sparse transformers
+TS-058,pa_643faf69b4,TS,paper,2,agentic_development,multi_agent_coordination,0.35,0.26,KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Kno
+VV-010,la_2a4e65640a,VV,lab_blog,3,research_milestone,capability_breakthrough,0.35,0.25,Solving math word problems
+TS-002,re_85dc1fb56c,TS,release_notes,2,infrastructure_ecosystem,agentic_development,0.34,0.24,Significant-Gravitas/AutoGPT autogpt-platform-beta-v0.4.0
+SH-034,pa_a7d2e7274d,SH,paper,2,research_milestone,multi_agent_coordination,0.34,0.26,AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via 
+EX-051,la_461c407476,HA,lab_blog,1,infrastructure_ecosystem,capability_breakthrough,0.34,0.21,Introducing Trusted Access for Cyber
+HA-014,re_597a69b5e8,HA,release_notes,1,infrastructure_ecosystem,agentic_development,0.34,0.29,Significant-Gravitas/AutoGPT autogpt-platform-beta-v0.7.0
+SH-006,pa_0150f3dec3,SH,paper,1,agentic_development,multi_agent_coordination,0.34,0.24,Self-Evolving World Models for LLM Agent Planning
+P12,la_89b0ac10d2,consensus,lab_blog,2,infrastructure_ecosystem,adoption_scale,0.33,0.31,ServiceNow powers actionable enterprise AI with OpenAI
+SH-020,la_2d5fba6a19,SH,lab_blog,2,adoption_scale,infrastructure_ecosystem,0.33,0.26,Introducing OpenAI for Nonprofits
+EX-043,pa_230f55071c,HA,paper,1,multi_agent_coordination,research_milestone,0.33,0.28,ARCANE: A Multi-Agent Framework for Interpretable and Configurable Alignment
+VV-014,pa_b025af3751,VV,paper,2,agentic_development,research_milestone,0.33,0.18,AgentSquare: Automatic LLM Agent Search in Modular Design Space
+EX-002,pa_da89dbe46d,HA,paper,2,autonomous_action,multi_agent_coordination,0.32,0.12,Emergent autonomous scientific research capabilities of large language models
+EX-028,pa_4b85ce64f6,HA,paper,1,multi_agent_coordination,research_milestone,0.31,0.29,The Traitors: Deception and Trust in Multi-Agent Language Model Simulations
+VV-012,pa_a82486d133,VV,paper,2,infrastructure_ecosystem,multi_agent_coordination,0.31,0.09,Aethon: A Reference-Based Replication Primitive for Constant-Time Instantiation 
+TS-062,pa_521a6aa01e,TS,paper,2,unexpected_behavior_incident,research_milestone,0.31,0.06,Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplific
+TS-039,re_14f5813247,TS,release_notes,1,agentic_development,infrastructure_ecosystem,0.31,0.19,microsoft/autogen v0.2.0
+HA-056,pa_03637e5d4a,HA,paper,2,agentic_development,multi_agent_coordination,0.31,0.16,A-MEM: Agentic Memory for LLM Agents
+SH-001,re_e562d54c7e,SH,release_notes,1,infrastructure_ecosystem,multi_agent_coordination,0.30,0.15,crewAIInc/crewAI 1.14.0a4
+P13,la_a1bdc83d63,consensus,lab_blog,1,unexpected_behavior_incident,infrastructure_ecosystem,0.30,0.08,Introducing the OpenAI Safety Bug Bounty program
+EX-015,pa_70d25c3350,HA,paper,2,autonomous_action,research_milestone,0.29,0.10,LLM Agents can Autonomously Hack Websites
+HA-075,pa_c9f9a9b7ae,HA,paper,1,research_milestone,multi_agent_coordination,0.29,0.20,Testing and Understanding Erroneous Planning in LLM Agents through Synthesized U
+VV-026,la_a0464d4374,VV,lab_blog,3,autonomous_action,infrastructure_ecosystem,0.29,0.10,Codex for (almost) everything
+EX-020,pa_10e360a757,HA,paper,1,autonomous_action,multi_agent_coordination,0.29,0.08,Autonomous Microscopy Experiments through Large Language Model Agents
+VV-067,la_63828e59ba,VV,lab_blog,2,research_milestone,capability_breakthrough,0.29,0.25,Improving language model behavior by training on a curated dataset
+VV-031,pa_c0c589aeab,VV,paper,2,agentic_development,research_milestone,0.29,0.13,Agentic Plan Caching: Test-Time Memory for Fast and Cost-Efficient LLM Agents
+TS-004,pa_73f5f2263b,TS,paper,2,agentic_development,research_milestone,0.29,0.24,MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM
+TS-033,pa_9160c745b2,TS,paper,1,research_milestone,multi_agent_coordination,0.28,0.23,AgentGuard: Repurposing Agentic Orchestrator for Safety Evaluation of Tool Orche
+VV-025,la_70a6acae2a,VV,lab_blog,2,research_milestone,capability_breakthrough,0.28,0.11,An update on our mental health-related work
+TS-019,pa_dd22c43f48,TS,paper,2,unexpected_behavior_incident,multi_agent_coordination,0.28,0.06,InjecMEM: Memory Injection Attack on LLM Agent Memory Systems
+EX-009,pa_14de47155d,HA,paper,2,research_milestone,agentic_development,0.28,0.24,ToolChain*: Efficient Action Space Navigation in Large Language Models with A* S
+VV-027,pa_a00dde92e5,VV,paper,2,capability_breakthrough,research_milestone,0.27,0.12,Facilitating Multi-turn Function Calling for LLMs via Compositional Instruction 
+VV-006,pa_6b75b319b6,VV,paper,2,multi_agent_coordination,research_milestone,0.27,0.19,Teams of LLM Agents can Exploit Zero-Day Vulnerabilities
+EX-078,la_e2a8d26765,HA,lab_blog,1,infrastructure_ecosystem,capability_breakthrough,0.27,0.26,Proactive cyber defense for governments and enterprises
+HA-068,pa_926f28c20a,HA,paper,2,agentic_development,multi_agent_coordination,0.27,0.26,A Language Agent for Autonomous Driving
+EX-010,pa_a98515c69d,HA,paper,2,agentic_development,multi_agent_coordination,0.27,0.20,RCAgent: Cloud Root Cause Analysis by Autonomous Agents with Tool-Augmented Larg
+EX-041,pa_08c3f2d355,HA,paper,2,multi_agent_coordination,research_milestone,0.27,0.19,Thucy: An LLM-based Multi-Agent System for Claim Verification across Relational 
+HA-036,pa_36b97b9e3c,HA,paper,2,unexpected_behavior_incident,multi_agent_coordination,0.26,0.06,LLM Agent Honeypot: Monitoring AI Hacking Agents in the Wild
+VV-030,la_27ffa78309,VV,lab_blog,3,capability_breakthrough,research_milestone,0.26,0.23,CLIP: Connecting text and images
+TS-026,la_ce60d03934,TS,lab_blog,1,autonomous_action,infrastructure_ecosystem,0.26,0.09,Introducing ChatGPT Pulse
+VV-051,pa_339148b71a,VV,paper,2,unexpected_behavior_incident,research_milestone,0.25,0.09,Zombie Agents: Persistent Control of Self-Evolving LLM Agents via Self-Reinforci
+EX-053,pa_ea00e253ed,HA,paper,1,autonomous_action,multi_agent_coordination,0.24,0.09,In-Context Autonomous Network Incident Response: An End-to-End Large Language Mo
+EX-071,la_45ee50f08a,HA,lab_blog,3,unexpected_behavior_incident,infrastructure_ecosystem,0.24,0.21,Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026
+HA-064,la_d96d69db2e,HA,lab_blog,1,adoption_scale,infrastructure_ecosystem,0.24,0.17,"Shipping code faster with o3, o4-mini, and GPT-4.1"
+EX-072,la_8c357c1baa,HA,lab_blog,2,agentic_development,research_milestone,0.24,0.09,Science One Framework: A verifiable autonomous research framework via Chain-of-E
+TS-052,la_0f569fe062,TS,lab_blog,1,capability_breakthrough,research_milestone,0.24,0.22,Using GPT-4 for content moderation
+SH-057,la_cfa376d35c,SH,lab_blog,2,adoption_scale,infrastructure_ecosystem,0.24,0.20,Codex is now generally available
+TS-065,la_ab9909aef0,TS,lab_blog,1,infrastructure_ecosystem,capability_breakthrough,0.24,0.18,Scaling social science research
+SH-022,pa_6b359407c4,SH,paper,2,agentic_development,multi_agent_coordination,0.23,0.22,LLM Agent for Hyper-Parameter Optimization
+VV-070,la_5476e7d0b0,VV,lab_blog,2,adoption_scale,research_milestone,0.23,0.07,Model ML is helping financial firms rebuild with AI from the ground up
+EX-047,la_5e3e72b227,HA,lab_blog,1,infrastructure_ecosystem,research_milestone,0.22,0.10,AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Sys
+P04,pa_79fd3507e2,consensus,paper,2,agentic_development,multi_agent_coordination,0.22,0.18,Agents: An Open-source Framework for Autonomous Language Agents
+HA-072,la_88660b2973,HA,lab_blog,2,research_milestone,infrastructure_ecosystem,0.22,0.18,Pacific Northwest National Laboratory and OpenAI partner to accelerate federal p
+TS-066,pa_2f83c51770,TS,paper,1,research_milestone,multi_agent_coordination,0.22,0.21,Hybrid Analysis for Secure MCP Tool Use in LLM Agents
+SH-066,pa_25080a8f0d,SH,paper,2,agentic_development,research_milestone,0.22,0.19,ClawVM: Harness-Managed Virtual Memory for Stateful Tool-Using LLM Agents
+VV-054,la_8002ea3047,VV,lab_blog,3,autonomous_action,infrastructure_ecosystem,0.21,0.13,Introducing deep research
+VV-011,pa_fff4e88b99,VV,paper,2,agentic_development,research_milestone,0.21,0.16,ClawTrace: Cost-Aware Tracing for LLM Agent Skill Distillation
+HA-023,pa_bf554c3abe,HA,paper,2,research_milestone,agentic_development,0.19,0.19,An LLM Compiler for Parallel Function Calling
+SH-072,pa_a047761cd2,SH,paper,2,capability_breakthrough,research_milestone,0.19,0.19,TinyAgent: Function Calling at the Edge
+EX-030,la_875c92ade4,HA,lab_blog,2,infrastructure_ecosystem,agentic_development,0.19,0.18,ScreenEnv: Deploy your full stack Desktop Agent
+SH-046,la_9bf2135904,SH,lab_blog,2,adoption_scale,infrastructure_ecosystem,0.19,0.16,How people are using ChatGPT
+EX-045,la_ff468cdfcb,HA,lab_blog,2,agentic_development,multi_agent_coordination,0.18,0.15,CUGA on Hugging Face: Democratizing Configurable AI Agents

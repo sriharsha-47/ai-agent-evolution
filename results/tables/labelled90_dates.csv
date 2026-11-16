@@ -1,0 +1,257 @@
+doc_id,pub,text,start,end,norm,granularity,kind,source
+la_bd572610e8,2017-10-19,"October 19, 2017",30,46,2017-10-19,day,absolute,regex:mdy
+la_bd572610e8,2017-10-19,"Jan 5, 2021",4677,4688,2021-01-05,day,absolute,regex:mdy
+la_bd572610e8,2017-10-19,"Oct 15, 2019",4738,4750,2019-10-15,day,absolute,regex:mdy
+la_bd572610e8,2017-10-19,"Jul 30, 2018",4780,4792,2018-07-30,day,absolute,regex:mdy
+la_9b989c6bdf,2023-01-11,October 2021,362,374,2021-10,month,absolute,regex:my
+la_0720f18be7,2023-12-14,"December 14, 2023",28,45,2023-12-14,day,absolute,regex:mdy
+la_0720f18be7,2023-12-14,Today,608,613,2023-12-14,day,relative,spacy:DATE
+la_0720f18be7,2023-12-14,today,1706,1711,2023-12-14,day,relative,spacy:DATE
+la_0720f18be7,2023-12-14,2023,3804,3808,2023,year,absolute,spacy:DATE
+la_0720f18be7,2023-12-14,"Feb 14, 2024",4200,4212,2024-02-14,day,absolute,regex:mdy
+la_0720f18be7,2023-12-14,"Jan 31, 2024",4299,4311,2024-01-31,day,absolute,regex:mdy
+la_0720f18be7,2023-12-14,"Jan 16, 2024",4399,4411,2024-01-16,day,absolute,regex:mdy
+la_0b7e7105cf,2024-05-06,"May 6, 2024",37,48,2024-05-06,day,absolute,regex:mdy
+la_621811037f,2024-09-26,"September 26, 2024",71,89,2024-09-26,day,absolute,regex:mdy
+la_621811037f,2024-09-26,Today,350,355,2024-09-26,day,relative,spacy:DATE
+la_621811037f,2024-09-26,2022,1182,1186,2022,year,absolute,spacy:DATE
+la_621811037f,2024-09-26,today,1363,1368,2024-09-26,day,relative,spacy:DATE
+la_621811037f,2024-09-26,today,2298,2303,2024-09-26,day,relative,spacy:DATE
+la_89b0ac10d2,2026-01-20,"January 20, 2026",56,72,2026-01-20,day,absolute,regex:mdy
+la_89b0ac10d2,2026-01-20,today,541,546,2026-01-20,day,relative,spacy:DATE
+la_89b0ac10d2,2026-01-20,2026,5149,5153,2026,year,absolute,spacy:DATE
+la_89b0ac10d2,2026-01-20,"Oct 23, 2026",5255,5267,2026-10-23,day,absolute,regex:mdy
+la_89b0ac10d2,2026-01-20,"Oct 21, 2026",5357,5369,2026-10-21,day,absolute,regex:mdy
+la_89b0ac10d2,2026-01-20,"Oct 14, 2026",5423,5435,2026-10-14,day,absolute,regex:mdy
+la_a1bdc83d63,2026-03-25,"March 25, 2026",50,64,2026-03-25,day,absolute,regex:mdy
+la_a1bdc83d63,2026-03-25,Today,186,191,2026-03-25,day,relative,spacy:DATE
+la_a1bdc83d63,2026-03-25,2026,3582,3586,2026,year,absolute,spacy:DATE
+la_a1bdc83d63,2026-03-25,"Oct 30, 2026",3698,3710,2026-10-30,day,absolute,regex:mdy
+la_a1bdc83d63,2026-03-25,"Oct 29, 2026",3775,3787,2026-10-29,day,absolute,regex:mdy
+la_a1bdc83d63,2026-03-25,"Oct 29, 2026",3839,3851,2026-10-29,day,absolute,regex:mdy
+la_f69a340d19,2025-09-30,"September 30, 2025",28,46,2025-09-30,day,absolute,regex:mdy
+la_f69a340d19,2025-09-30,"April 26, 2026",115,129,2026-04-26,day,absolute,regex:mdy
+la_f69a340d19,2025-09-30,"Oct 30, 2026",3988,4000,2026-10-30,day,absolute,regex:mdy
+la_f69a340d19,2025-09-30,"Oct 30, 2026",4062,4074,2026-10-30,day,absolute,regex:mdy
+la_f69a340d19,2025-09-30,"Oct 30, 2026",4110,4122,2026-10-30,day,absolute,regex:mdy
+la_da3c5b116f,2023-12-14,"December 14, 2023",31,48,2023-12-14,day,absolute,regex:mdy
+la_da3c5b116f,2023-12-14,today,951,956,2023-12-14,day,relative,spacy:DATE
+la_da3c5b116f,2023-12-14,Today,1425,1430,2023-12-14,day,relative,spacy:DATE
+la_da3c5b116f,2023-12-14,today,2287,2292,2023-12-14,day,relative,spacy:DATE
+la_da3c5b116f,2023-12-14,today,2657,2662,2023-12-14,day,relative,spacy:DATE
+la_da3c5b116f,2023-12-14,today,4937,4942,2023-12-14,day,relative,spacy:DATE
+la_da3c5b116f,2023-12-14,today,5476,5481,2023-12-14,day,relative,spacy:DATE
+la_da3c5b116f,2023-12-14,"Feb 14, 2024",6407,6419,2024-02-14,day,absolute,regex:mdy
+la_da3c5b116f,2023-12-14,"Jan 31, 2024",6506,6518,2024-01-31,day,absolute,regex:mdy
+la_da3c5b116f,2023-12-14,"Jan 16, 2024",6606,6618,2024-01-16,day,absolute,regex:mdy
+la_100446a7f6,2019-02-14,"February 14, 2019",47,64,2019-02-14,day,absolute,regex:mdy
+la_100446a7f6,2019-02-14,Today,7316,7321,2019-02-14,day,relative,spacy:DATE
+la_100446a7f6,2019-02-14,today,8959,8964,2019-02-14,day,relative,spacy:DATE
+la_100446a7f6,2019-02-14,May 2019,10446,10454,2019-05,month,absolute,regex:my
+la_100446a7f6,2019-02-14,next week,13859,13868,2019-02-21,day,relative,spacy:DATE
+la_100446a7f6,2019-02-14,"Jan 16, 2024",15787,15799,2024-01-16,day,absolute,regex:mdy
+la_100446a7f6,2019-02-14,"Jan 12, 2024",15843,15855,2024-01-12,day,absolute,regex:mdy
+la_100446a7f6,2019-02-14,"May 29, 2025",15909,15921,2025-05-29,day,absolute,regex:mdy
+la_54785efd92,2022-06-02,"June 2, 2022",46,58,2022-06-02,day,absolute,regex:mdy
+la_54785efd92,2022-06-02,2022,6581,6585,2022,year,absolute,spacy:DATE
+la_54785efd92,2022-06-02,"Feb 14, 2024",6701,6713,2024-02-14,day,absolute,regex:mdy
+la_54785efd92,2022-06-02,"Jan 31, 2024",6800,6812,2024-01-31,day,absolute,regex:mdy
+la_54785efd92,2022-06-02,"Jan 16, 2024",6900,6912,2024-01-16,day,absolute,regex:mdy
+la_9fc0c61c22,2024-07-24,"July 24, 2024",57,70,2024-07-24,day,absolute,regex:mdy
+la_e375ef0de5,2021-01-25,"January 25, 2021",35,51,2021-01-25,day,absolute,regex:mdy
+la_e375ef0de5,2021-01-25,"Jun 9, 2022",21416,21427,2022-06-09,day,absolute,regex:mdy
+la_e375ef0de5,2021-01-25,"Jul 28, 2021",21504,21516,2021-07-28,day,absolute,regex:mdy
+la_e375ef0de5,2021-01-25,"May 5, 2020",21547,21558,2020-05-05,day,absolute,regex:mdy
+la_2d5fba6a19,2024-05-30,"May 30, 2024",35,47,2024-05-30,day,absolute,regex:mdy
+la_2d5fba6a19,2024-05-30,"Feb 6, 2026",307,318,2026-02-06,day,absolute,regex:mdy
+la_2d5fba6a19,2024-05-30,Today,475,480,2024-05-30,day,relative,spacy:DATE
+la_2d5fba6a19,2024-05-30,2024,5205,5209,2024,year,absolute,spacy:DATE
+re_e8e4149b01,2025-10-22,October 2025,114,126,2025-10,month,absolute,regex:my
+re_8475575b7a,2025-11-26,26 November 2025,114,130,2025-11-26,day,absolute,regex:dmy
+la_b8fbaaa1a7,2019-03-04,"March 4, 2019",53,66,2019-03-04,day,absolute,regex:mdy
+la_b8fbaaa1a7,2019-03-04,"Sep 21, 2022",8220,8232,2022-09-21,day,absolute,regex:mdy
+la_b8fbaaa1a7,2019-03-04,"Jun 23, 2022",8294,8306,2022-06-23,day,absolute,regex:mdy
+la_b8fbaaa1a7,2019-03-04,"Jun 9, 2022",8365,8376,2022-06-09,day,absolute,regex:mdy
+la_359738e7b0,2026-01-08,"January 8, 2026",23,38,2026-01-08,day,absolute,regex:mdy
+la_359738e7b0,2026-01-08,today,567,572,2026-01-08,day,relative,spacy:DATE
+la_359738e7b0,2026-01-08,today,926,931,2026-01-08,day,relative,spacy:DATE
+la_359738e7b0,2026-01-08,2026,9446,9450,2026,year,absolute,spacy:DATE
+la_359738e7b0,2026-01-08,"Oct 30, 2026",9581,9593,2026-10-30,day,absolute,regex:mdy
+la_359738e7b0,2026-01-08,"Oct 30, 2026",9629,9641,2026-10-30,day,absolute,regex:mdy
+la_359738e7b0,2026-01-08,"Oct 28, 2026",9719,9731,2026-10-28,day,absolute,regex:mdy
+la_c3086d499c,2026-03-17,"March 17, 2026",35,49,2026-03-17,day,absolute,regex:mdy
+la_c3086d499c,2026-03-17,Today,176,181,2026-03-17,day,relative,spacy:DATE
+la_c3086d499c,2026-03-17,today,4050,4055,2026-03-17,day,relative,spacy:DATE
+la_c3086d499c,2026-03-17,2026,6476,6480,2026,year,absolute,spacy:DATE
+la_c3086d499c,2026-03-17,"Oct 30, 2026",6590,6602,2026-10-30,day,absolute,regex:mdy
+la_c3086d499c,2026-03-17,"Oct 30, 2026",6638,6650,2026-10-30,day,absolute,regex:mdy
+la_c3086d499c,2026-03-17,"Oct 28, 2026",6728,6740,2026-10-28,day,absolute,regex:mdy
+la_bbf31f939c,2023-03-23,"March 23, 2023",17,31,2023-03-23,day,absolute,regex:mdy
+la_bbf31f939c,2023-03-23,Today,2385,2390,2023-03-23,day,relative,spacy:DATE
+la_bbf31f939c,2023-03-23,today,2646,2651,2023-03-23,day,relative,spacy:DATE
+la_bbf31f939c,2023-03-23,Today,3703,3708,2023-03-23,day,relative,spacy:DATE
+la_bbf31f939c,2023-03-23,2023,15663,15667,2023,year,absolute,spacy:DATE
+la_bbf31f939c,2023-03-23,"Mar 13, 2024",16627,16639,2024-03-13,day,absolute,regex:mdy
+la_bbf31f939c,2023-03-23,"Mar 8, 2024",16711,16722,2024-03-08,day,absolute,regex:mdy
+la_bbf31f939c,2023-03-23,"Mar 8, 2024",16782,16793,2024-03-08,day,absolute,regex:mdy
+re_c01b9a7861,2025-07-08,Jul 2025,114,122,2025-07,month,absolute,regex:my
+la_354f2a89c1,2024-12-05,"December 5, 2024",32,48,2024-12-05,day,absolute,regex:mdy
+la_354f2a89c1,2024-12-05,2018,24284,24288,2018,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,early August,26838,26850,2024-08,month,relative,spacy:DATE
+la_354f2a89c1,2024-12-05,September 2024,26863,26877,2024-09,month,absolute,regex:my
+la_354f2a89c1,2024-12-05,October 2024,27090,27102,2024-10,month,absolute,regex:my
+la_354f2a89c1,2024-12-05,December 2024,27118,27131,2024-12,month,absolute,regex:my
+la_354f2a89c1,2024-12-05,December 2024,63025,63038,2024-12,month,absolute,regex:my
+la_354f2a89c1,2024-12-05,2024-12-21,63050,63060,2024-12-21,day,absolute,regex:iso_day
+la_354f2a89c1,2024-12-05,2021,63256,63260,2021,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2021,63421,63425,2021,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2020,63656,63660,2020,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,63880,63884,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2023,64176,64180,2023,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,64219,64223,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024-09,64235,64242,2024-09,month,absolute,regex:iso_month
+la_354f2a89c1,2024-12-05,2022,64498,64502,2022,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,64638,64642,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2020,65422,65426,2020,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,68600,68604,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,69017,69021,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2023,69228,69232,2023,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2023,69427,69431,2023,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,69622,69626,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,69768,69772,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,70017,70021,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2023,70235,70239,2023,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,70394,70398,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2023,70619,70623,2023,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,71021,71025,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,71209,71213,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,71370,71374,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,71533,71537,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,71635,71639,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2023,71720,71724,2023,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024-09-11,71736,71746,2024-09-11,day,absolute,regex:iso_day
+la_354f2a89c1,2024-12-05,2023,72073,72077,2023,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,72291,72295,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,72401,72405,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,Apr. 2016,72713,72722,2016-04,month,absolute,regex:my
+la_354f2a89c1,2024-12-05,2023,72904,72908,2023,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2023,73074,73078,2023,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,73297,73301,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,73454,73458,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2024,73680,73684,2024,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,2021,73826,73830,2021,year,absolute,spacy:DATE
+la_354f2a89c1,2024-12-05,"September 12, 2024",75113,75131,2024-09-12,day,absolute,regex:mdy
+la_70dadf2e6e,2026-02-28,"February 28, 2026",42,59,2026-02-28,day,absolute,regex:mdy
+la_70dadf2e6e,2026-02-28,"March 2, 2026",128,141,2026-03-02,day,absolute,regex:mdy
+la_70dadf2e6e,2026-02-28,1947,942,946,1947,year,absolute,spacy:DATE
+la_70dadf2e6e,2026-02-28,1978,960,964,1978,year,absolute,spacy:DATE
+la_70dadf2e6e,2026-02-28,last week,1734,1743,2026-02-21,day,relative,spacy:DATE
+la_70dadf2e6e,2026-02-28,Yesterday,1841,1850,2026-02-27,day,relative,spacy:DATE
+la_70dadf2e6e,2026-02-28,25 January 2023,4463,4478,2023-01-25,day,absolute,regex:dmy
+la_70dadf2e6e,2026-02-28,1947,4810,4814,1947,year,absolute,spacy:DATE
+la_70dadf2e6e,2026-02-28,1978,4868,4872,1978,year,absolute,spacy:DATE
+la_70dadf2e6e,2026-02-28,today,8819,8824,2026-02-28,day,relative,spacy:DATE
+la_70dadf2e6e,2026-02-28,2026,10047,10051,2026,year,absolute,spacy:DATE
+la_70dadf2e6e,2026-02-28,"Oct 30, 2026",10161,10173,2026-10-30,day,absolute,regex:mdy
+la_70dadf2e6e,2026-02-28,"Oct 30, 2026",10209,10221,2026-10-30,day,absolute,regex:mdy
+la_70dadf2e6e,2026-02-28,"Oct 28, 2026",10299,10311,2026-10-28,day,absolute,regex:mdy
+la_5c157a0f1b,2026-02-27,"February 27, 2026",50,67,2026-02-27,day,absolute,regex:mdy
+la_5c157a0f1b,2026-02-27,today,885,890,2026-02-27,day,relative,spacy:DATE
+la_5c157a0f1b,2026-02-27,2027,3802,3806,2027,year,absolute,spacy:DATE
+la_5c157a0f1b,2026-02-27,2026,4548,4552,2026,year,absolute,spacy:DATE
+la_5c157a0f1b,2026-02-27,"Oct 30, 2026",4675,4687,2026-10-30,day,absolute,regex:mdy
+la_5c157a0f1b,2026-02-27,"Oct 30, 2026",4723,4735,2026-10-30,day,absolute,regex:mdy
+la_5c157a0f1b,2026-02-27,"Oct 28, 2026",4813,4825,2026-10-28,day,absolute,regex:mdy
+la_c486538cb1,2024-05-13,"May 13, 2024",57,69,2024-05-13,day,absolute,regex:mdy
+la_c486538cb1,2024-05-13,Today,706,711,2024-05-13,day,relative,spacy:DATE
+la_c486538cb1,2024-05-13,Today,1019,1024,2024-05-13,day,relative,spacy:DATE
+la_c486538cb1,2024-05-13,today,2152,2157,2024-05-13,day,relative,spacy:DATE
+la_c486538cb1,2024-05-13,today,4171,4176,2024-05-13,day,relative,spacy:DATE
+la_9b042a61ba,2025-09-22,"September 22, 2025",55,73,2025-09-22,day,absolute,regex:mdy
+la_9b042a61ba,2025-09-22,2013,548,552,2013,year,absolute,spacy:DATE
+la_9b042a61ba,2025-09-22,2022,903,907,2022,year,absolute,spacy:DATE
+la_9b042a61ba,2025-09-22,2023,1309,1313,2023,year,absolute,spacy:DATE
+la_9b042a61ba,2025-09-22,"Oct 30, 2026",7868,7880,2026-10-30,day,absolute,regex:mdy
+la_9b042a61ba,2025-09-22,"Oct 30, 2026",7942,7954,2026-10-30,day,absolute,regex:mdy
+la_9b042a61ba,2025-09-22,"Oct 30, 2026",7990,8002,2026-10-30,day,absolute,regex:mdy
+re_017fde5659,2025-04-15,April 2024,112,122,2024-04,month,absolute,regex:my
+la_9bf2135904,2025-09-15,"September 15, 2025",30,48,2025-09-15,day,absolute,regex:mdy
+la_9bf2135904,2025-09-15,three years ago,1335,1350,2022-09-15,day,relative,spacy:DATE
+la_9bf2135904,2025-09-15,January 2024,1887,1899,2024-01,month,absolute,regex:my
+la_9bf2135904,2025-09-15,July 2025,2019,2028,2025-07,month,absolute,regex:my
+la_9bf2135904,2025-09-15,May 2025,2203,2211,2025-05,month,absolute,regex:my
+la_9bf2135904,2025-09-15,2025-09-15,4915,4925,2025-09-15,day,absolute,regex:iso_day
+la_9bf2135904,2025-09-15,2025,4938,4942,2025,year,absolute,spacy:DATE
+la_9bf2135904,2025-09-15,2025,5097,5101,2025,year,absolute,spacy:DATE
+la_9bf2135904,2025-09-15,"Oct 29, 2026",5211,5223,2026-10-29,day,absolute,regex:mdy
+la_9bf2135904,2025-09-15,"Oct 26, 2026",5301,5313,2026-10-26,day,absolute,regex:mdy
+la_9bf2135904,2025-09-15,"Oct 26, 2026",5357,5369,2026-10-26,day,absolute,regex:mdy
+la_9a9d95f5c0,2024-07-10,"July 10, 2024",73,86,2024-07-10,day,absolute,regex:mdy
+la_9a9d95f5c0,2024-07-10,2024,3241,3245,2024,year,absolute,spacy:DATE
+la_483586da1c,2025-03-31,"March 31, 2025",34,48,2025-03-31,day,absolute,regex:mdy
+la_483586da1c,2025-03-31,Today,105,110,2025-03-31,day,relative,spacy:DATE
+la_cfa376d35c,2025-10-06,"October 6, 2025",34,49,2025-10-06,day,absolute,regex:mdy
+la_cfa376d35c,2025-10-06,May,820,823,2025-05,month,relative,spacy:DATE
+la_cfa376d35c,2025-10-06,early August,1085,1097,2025-08,month,relative,spacy:DATE
+la_cfa376d35c,2025-10-06,today,1442,1447,2025-10-06,day,relative,spacy:DATE
+la_cfa376d35c,2025-10-06,July,1475,1479,2025-07,month,relative,spacy:DATE
+la_cfa376d35c,2025-10-06,today,2761,2766,2025-10-06,day,relative,spacy:DATE
+la_cfa376d35c,2025-10-06,today,5210,5215,2025-10-06,day,relative,spacy:DATE
+la_cfa376d35c,2025-10-06,2025,5476,5480,2025,year,absolute,spacy:DATE
+la_cfa376d35c,2025-10-06,"Oct 26, 2026",5557,5569,2026-10-26,day,absolute,regex:mdy
+la_cfa376d35c,2025-10-06,"Oct 22, 2026",5628,5640,2026-10-22,day,absolute,regex:mdy
+la_cfa376d35c,2025-10-06,"Oct 21, 2026",5740,5752,2026-10-21,day,absolute,regex:mdy
+la_5f97ba92d4,2017-02-24,"February 24, 2017",54,71,2017-02-24,day,absolute,regex:mdy
+la_5f97ba92d4,2017-02-24,"Feb 14, 2024",12034,12046,2024-02-14,day,absolute,regex:mdy
+la_5f97ba92d4,2017-02-24,"Jan 31, 2024",12133,12145,2024-01-31,day,absolute,regex:mdy
+la_5f97ba92d4,2017-02-24,"Jan 16, 2024",12233,12245,2024-01-16,day,absolute,regex:mdy
+la_25e1e85d3f,2025-09-24,"September 24, 2025",60,78,2025-09-24,day,absolute,regex:mdy
+la_25e1e85d3f,2025-09-24,2022,647,651,2022,year,absolute,spacy:DATE
+la_25e1e85d3f,2025-09-24,"Oct 30, 2026",8093,8105,2026-10-30,day,absolute,regex:mdy
+la_25e1e85d3f,2025-09-24,"Oct 30, 2026",8167,8179,2026-10-30,day,absolute,regex:mdy
+la_25e1e85d3f,2025-09-24,"Oct 30, 2026",8215,8227,2026-10-30,day,absolute,regex:mdy
+la_b277c65ceb,2017-09-14,"September 14, 2017",31,49,2017-09-14,day,absolute,regex:mdy
+la_b277c65ceb,2017-09-14,"Oct 19, 2022",5707,5719,2022-10-19,day,absolute,regex:mdy
+la_b277c65ceb,2017-09-14,"Jun 23, 2022",5781,5793,2022-06-23,day,absolute,regex:mdy
+la_b277c65ceb,2017-09-14,"Dec 13, 2019",5858,5870,2019-12-13,day,absolute,regex:mdy
+re_61ad6cb8ea,2025-10-02,October 2025,114,126,2025-10,month,absolute,regex:my
+re_751416cd0a,2025-07-01,2024-12-17,3382,3392,2024-12-17,day,absolute,regex:iso_day
+la_10e69babef,2026-04-08,"April 8, 2026",40,53,2026-04-08,day,absolute,regex:mdy
+la_10e69babef,2026-04-08,Today,786,791,2026-04-08,day,relative,spacy:DATE
+la_10e69babef,2026-04-08,2026,4914,4918,2026,year,absolute,spacy:DATE
+la_10e69babef,2026-04-08,"Oct 30, 2026",5038,5050,2026-10-30,day,absolute,regex:mdy
+la_10e69babef,2026-04-08,"Oct 29, 2026",5115,5127,2026-10-29,day,absolute,regex:mdy
+la_10e69babef,2026-04-08,"Oct 29, 2026",5179,5191,2026-10-29,day,absolute,regex:mdy
+pa_25080a8f0d,2026-04-11,today,154,159,2026-04-11,day,relative,spacy:DATE
+la_e3a27050a9,2024-08-08,"August 8, 2024",47,61,2024-08-08,day,absolute,regex:mdy
+la_e3a27050a9,2024-08-08,2010,1606,1610,2010,year,absolute,spacy:DATE
+la_e3a27050a9,2024-08-08,2010,1662,1666,2010,year,absolute,spacy:DATE
+la_e3a27050a9,2024-08-08,2012,1670,1674,2012,year,absolute,spacy:DATE
+la_e3a27050a9,2024-08-08,2023,2137,2141,2023,year,absolute,spacy:DATE
+la_e3a27050a9,2024-08-08,2024,2662,2666,2024,year,absolute,spacy:DATE
+re_c26ed93268,2025-04-10,"April 10th, 2025",112,128,2025-04-10,day,absolute,regex:mdy
+la_861bee6c31,2022-01-27,"January 27, 2022",49,65,2022-01-27,day,absolute,regex:mdy
+la_861bee6c31,2022-01-27,January 2021,9971,9983,2021-01,month,absolute,regex:my
+la_861bee6c31,2022-01-27,2017,10961,10965,2017,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2020,11167,11171,2020,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2021,11264,11268,2021,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2021,11451,11455,2021,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2021,11677,11681,2021,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2021,11956,11960,2021,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2021,12192,12196,2021,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2021,12367,12371,2021,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2021,12578,12582,2021,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2021,12728,12732,2021,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2021,12892,12896,2021,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2021,13107,13111,2021,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2020,13289,13293,2020,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2019,13443,13447,2019,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2020,13653,13657,2020,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2019,13850,13854,2019,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2021,14007,14011,2021,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2020,14169,14173,2020,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2018,14350,14354,2018,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,2020,14485,14489,2020,year,absolute,spacy:DATE
+la_861bee6c31,2022-01-27,"Feb 14, 2024",15424,15436,2024-02-14,day,absolute,regex:mdy
+la_861bee6c31,2022-01-27,"Jan 31, 2024",15523,15535,2024-01-31,day,absolute,regex:mdy
+la_861bee6c31,2022-01-27,"Jan 16, 2024",15623,15635,2024-01-16,day,absolute,regex:mdy

@@ -1,0 +1,2 @@
+doc_id,pub,text,start,end,source,norm,granularity,kind
+arxiv_2610.26679v1,2026-10-19,2026,1438,1442,spacy:DATE,2026,year,absolute

@@ -1,0 +1,78 @@
+doc_id,text,label,start,end,source
+arxiv_2610.26860v1,Qwen3,MODEL_AGENT,1503,1508,rules
+arxiv_2610.26860v1,Kimi K3,MODEL_AGENT,1526,1533,rules
+arxiv_2610.26860v1,+9.9,GPE,1539,1543,spacy
+arxiv_2610.26860v1,GPT-6,MODEL_AGENT,1549,1554,rules
+arxiv_2610.26860v1,GPT-6,MODEL_AGENT,1567,1572,rules
+arxiv_2610.26860v1,Codex,MODEL_AGENT,1648,1653,rules
+arxiv_2610.26860v1,Sketchpad,PERSON,1666,1675,spacy
+arxiv_2610.26848v1,RSI,ORG,271,274,spacy
+arxiv_2610.26848v1,"First-Attempt Performance, Efficiency",ORG,303,340,spacy
+arxiv_2610.26848v1,"Success, Budget and Improvement",ORG,342,373,spacy
+arxiv_2610.26848v1,the Physical Barrel Hypothesis,ORG,523,553,spacy
+arxiv_2610.26847v1,WeAct,PERSON,481,486,spacy
+arxiv_2610.26847v1,Internal Actions,ORG,501,517,spacy
+arxiv_2610.26847v1,LoRA,ORG,565,569,spacy
+arxiv_2610.26847v1,Qwen3,MODEL_AGENT,824,829,rules
+arxiv_2610.26847v1,WeAct,PERSON,839,844,spacy
+arxiv_2610.26847v1,LoRA,ORG,995,999,spacy
+arxiv_2610.26847v1,WeAct,PERSON,1016,1021,spacy
+arxiv_2610.26845v1,Sokoban,ORG,59,66,spacy
+arxiv_2610.26845v1,Agentic Imagination,ORG,303,322,spacy
+arxiv_2610.26845v1,Agima,GPE,324,329,spacy
+arxiv_2610.26845v1,Agima,ORG,424,429,spacy
+arxiv_2610.26845v1,SFT,ORG,783,786,spacy
+arxiv_2610.26845v1,Sokoban,PERSON,1180,1187,spacy
+arxiv_2610.26845v1,Pacman,PERSON,1189,1195,spacy
+arxiv_2610.26845v1,Agima,GPE,1208,1213,spacy
+arxiv_2610.26845v1,SFT,ORG,1282,1285,spacy
+arxiv_2610.26845v1,Sokoban,ORG,1303,1310,spacy
+arxiv_2610.26845v1,Agima,ORG,1312,1317,spacy
+arxiv_2610.26845v1,Agima,GPE,1501,1506,spacy
+arxiv_2610.26845v1,SFT,ORG,1587,1590,spacy
+arxiv_2610.26844v1,AnyGoal,ORG,736,743,spacy
+arxiv_2610.26836v1,USGS,ORG,420,424,spacy
+arxiv_2610.26836v1,GPT-5.1,MODEL_AGENT,680,687,rules
+arxiv_2610.26836v1,GPT-5.2,MODEL_AGENT,692,699,rules
+arxiv_2610.26836v1,Claude Opus 4.6,MODEL_AGENT,744,759,rules
+arxiv_2610.26836v1,Claude Sonnet 4.6,MODEL_AGENT,764,781,rules
+arxiv_2610.26836v1,GPT,ORG,868,871,spacy
+arxiv_2610.26836v1,GPT-5.2,MODEL_AGENT,1206,1213,rules
+arxiv_2610.26836v1,GPT-5.4,MODEL_AGENT,1230,1237,rules
+arxiv_2610.26836v1,GPT,ORG,1471,1474,spacy
+arxiv_2610.26836v1,GPT-5.1,MODEL_AGENT,1487,1494,rules
+arxiv_2610.26836v1,GPT-5.2,MODEL_AGENT,1499,1506,rules
+arxiv_2610.26829v1,Frontier,ORG,95,103,spacy
+arxiv_2610.26828v1,GPT-6,MODEL_AGENT,1499,1504,rules
+arxiv_2610.26828v1,Qwen,MODEL_AGENT,1550,1554,rules
+arxiv_2610.26826v1,RefCraft,ORG,652,660,spacy
+arxiv_2610.26781v1,Nash,ORG,748,752,spacy
+arxiv_2610.26781v1,Nash,GPE,949,953,spacy
+arxiv_2610.26679v1,STEPBENCH-Val,ORG,1384,1397,spacy
+arxiv_2610.26662v1,AllPath,ORG,398,405,spacy
+arxiv_2610.26660v1,Tandem,ORG,891,897,spacy
+arxiv_2610.26660v1,Tandem,ORG,947,953,spacy
+arxiv_2610.26660v1,Tandem,ORG,1278,1284,spacy
+arxiv_2610.26660v1,Tandem,ORG,1352,1358,spacy
+arxiv_2610.26660v1,Snapdragon,ORG,1430,1440,spacy
+arxiv_2610.26660v1,Tandem,ORG,1479,1485,spacy
+arxiv_2610.26636v1,Learning from Interactive Experience and Feedback,ORG,411,460,spacy
+arxiv_2610.26636v1,RELIEF,ORG,555,561,spacy
+arxiv_2610.26632v1,ARC-AGI-3,ORG,843,852,spacy
+arxiv_2610.26632v1,Provider Adapter,ORG,904,920,spacy
+arxiv_2610.26632v1,Standard,ORG,1089,1097,spacy
+arxiv_2610.26568v1,Markov,PERSON,131,137,spacy
+arxiv_2610.26568v1,RPOMDP,ORG,1488,1494,spacy
+arxiv_2610.26568v1,POSG,ORG,1499,1503,spacy
+arxiv_2610.26568v1,POSGs,ORG,1724,1729,spacy
+arxiv_2610.26554v1,BetaMem,ORG,252,259,spacy
+arxiv_2610.26554v1,Qwen3.5,MODEL_AGENT,1112,1119,rules
+arxiv_2610.26554v1,BetaMem,ORG,1152,1159,spacy
+arxiv_2610.26554v1,LoCoMo,ORG,1223,1229,spacy
+arxiv_2610.26554v1,EM-EQA,ORG,1248,1254,spacy
+arxiv_2610.26554v1,Qwen3,MODEL_AGENT,1528,1533,rules
+arxiv_2610.26554v1,EMem-Bench,ORG,1563,1573,spacy
+arxiv_2610.26548v1,DSP,ORG,164,167,spacy
+arxiv_2610.26548v1,LangGraph,MODEL_AGENT,350,359,rules
+arxiv_2610.26548v1,DSP,ORG,555,558,spacy
+arxiv_2610.26548v1,Machine Learning,PERSON,805,821,spacy

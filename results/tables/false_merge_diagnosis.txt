@@ -1,0 +1,9 @@
+pairs: 56  groups: 18  docs: 53  labels: {'N': 56}
+date gap (days): {0: 32, 2: 6, 4: 3, 5: 8, 6: 2, 7: 5}
+same system with the names in the file (hyphen-normalised): 51/56; raw U+2011 in file names: 33/56; generic 'ChatGPT' on either side: 14
+same system with CURRENT extraction (first system): 37/56  -> separated by the name fix alone: 19
+title TF-IDF cosine of these false pairs: median 0.02, 90th pct 0.41, max 0.69
+  a title-similarity gate >= 0.2 would still merge 13/56 of these false pairs
+  a title-similarity gate >= 0.3 would still merge 9/56 of these false pairs
+  a title-similarity gate >= 0.5 would still merge 3/56 of these false pairs
+pairs still merged by the name fix AND a 0.3 title gate: 5

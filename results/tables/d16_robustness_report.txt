@@ -1,0 +1,72 @@
+
+== category ==
+  all          all           n= 217  acc=0.59  macro_f1=0.504
+  source_type  lab_blog      n=  86  acc=0.616  macro_f1=0.413
+  source_type  paper         n= 113  acc=0.575  macro_f1=0.28
+  source_type  release_notes n=  18  acc=0.556  macro_f1=0.539
+  period       2022          n=   4* acc=0.75  macro_f1=0.6
+  period       2023          n=  27  acc=0.593  macro_f1=0.518
+  period       2024          n=  44  acc=0.523  macro_f1=0.316
+  period       2025          n=  67  acc=0.552  macro_f1=0.506
+  period       2026          n=  64  acc=0.688  macro_f1=0.564
+  period       <=2021        n=  11* acc=0.455  macro_f1=0.484
+
+== autonomy_level ==
+  all          all           n= 217  acc=0.562  macro_f1=0.398
+  source_type  lab_blog      n=  86  acc=0.57  macro_f1=0.402
+  source_type  paper         n= 113  acc=0.566  macro_f1=0.254
+  source_type  release_notes n=  18  acc=0.5  macro_f1=0.261
+  period       2022          n=   4* acc=1.0  macro_f1=1.0
+  period       2023          n=  27  acc=0.704  macro_f1=0.432
+  period       2024          n=  44  acc=0.523  macro_f1=0.422
+  period       2025          n=  67  acc=0.522  macro_f1=0.495
+  period       2026          n=  64  acc=0.5  macro_f1=0.319
+  period       <=2021        n=  11* acc=0.818  macro_f1=0.519
+
+== interaction ==
+  all          all           n= 217  acc=0.631  macro_f1=0.512
+  source_type  lab_blog      n=  86  acc=0.64  macro_f1=0.314
+  source_type  paper         n= 113  acc=0.655  macro_f1=0.299
+  source_type  release_notes n=  18  acc=0.444  macro_f1=0.353
+  period       2022          n=   4* acc=1.0  macro_f1=1.0
+  period       2023          n=  27  acc=0.704  macro_f1=0.563
+  period       2024          n=  44  acc=0.682  macro_f1=0.584
+  period       2025          n=  67  acc=0.552  macro_f1=0.38
+  period       2026          n=  64  acc=0.594  macro_f1=0.505
+  period       <=2021        n=  11* acc=0.818  macro_f1=0.3
+
+== has_event(yes/no) ==
+  all          all           n= 395  acc=0.82  f1_yes=0.848
+  source_type  lab_blog      n= 126  acc=0.778  f1_yes=0.857
+  source_type  paper         n= 140  acc=0.829  f1_yes=0.904
+  source_type  release_notes n= 129  acc=0.853  f1_yes=0.095
+  period       2022          n=  13* acc=0.462  f1_yes=0.533
+  period       2023          n=  55  acc=0.727  f1_yes=0.737
+  period       2024          n=  68  acc=0.897  f1_yes=0.921
+  period       2025          n= 107  acc=0.944  f1_yes=0.957
+  period       2026          n= 115  acc=0.843  f1_yes=0.864
+  period       <=2021        n=  37  acc=0.514  f1_yes=0.5
+
+== organization ==
+  all          all           n= 217  P=0.868  R=0.893  F1=0.88
+  source_type  lab_blog      n=  86  P=0.841  R=0.871  F1=0.855
+  source_type  paper         n= 113  
+  source_type  release_notes n=  18  P=1.0  R=1.0  F1=1.0
+  period       2022          n=   4* P=1.0  R=1.0  F1=1.0
+  period       2023          n=  27  P=1.0  R=1.0  F1=1.0
+  period       2024          n=  44  P=1.0  R=1.0  F1=1.0
+  period       2025          n=  67  P=0.692  R=0.75  F1=0.72
+  period       2026          n=  64  P=0.846  R=0.892  F1=0.868
+  period       <=2021        n=  11* P=1.0  R=0.917  F1=0.957
+
+== model_agent ==
+  all          all           n= 217  P=0.785  R=0.59  F1=0.674
+  source_type  lab_blog      n=  86  P=0.738  R=0.512  F1=0.605
+  source_type  paper         n= 113  P=0.797  R=0.6  F1=0.685
+  source_type  release_notes n=  18  P=0.889  R=0.889  F1=0.889
+  period       2022          n=   4* P=0.5  R=0.25  F1=0.333
+  period       2023          n=  27  P=0.909  R=0.741  F1=0.816
+  period       2024          n=  44  P=0.789  R=0.725  F1=0.756
+  period       2025          n=  67  P=0.778  R=0.531  F1=0.631
+  period       2026          n=  64  P=0.773  R=0.541  F1=0.636
+  period       <=2021        n=  11* P=0.571  R=0.444  F1=0.5

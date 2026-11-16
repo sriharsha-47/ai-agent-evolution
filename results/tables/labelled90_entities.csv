@@ -1,0 +1,3321 @@
+doc_id,text,label,start,end,source
+la_bd572610e8,Hindsight Experience Replay,ORG,2773,2800,spacy
+la_bd572610e8,RGB,ORG,3626,3629,spacy
+la_bd572610e8,OpenAI,ORG,4379,4385,rules
+la_bd572610e8,Xue Bin Peng,PERSON,4460,4472,spacy
+la_bd572610e8,Lerrel Pinto,PERSON,4474,4486,spacy
+la_bd572610e8,Alex Ray,PERSON,4488,4496,spacy
+la_bd572610e8,Bob McGrew,PERSON,4498,4508,spacy
+la_bd572610e8,Jonas Schneider,PERSON,4510,4525,spacy
+la_bd572610e8,Josh Tobin,PERSON,4527,4537,spacy
+la_bd572610e8,Marcin Andrychowicz,PERSON,4539,4558,spacy
+la_bd572610e8,Peter Welinder,PERSON,4560,4574,spacy
+la_bd572610e8,Pieter Abbeel,PERSON,4576,4589,spacy
+la_bd572610e8,Wojciech Zaremba,PERSON,4591,4607,spacy
+la_bd572610e8,View,PERSON,4625,4629,spacy
+la_bd572610e8,CLIP,MODEL_AGENT,4634,4638,rules
+la_bd572610e8,"Milestone Oct 15,",PRODUCT,4728,4745,spacy
+pa_e4e651bfd6,Mixed Integer-Linear Programs,PERSON,896,925,spacy
+pa_e4e651bfd6,3D,ORG,1036,1038,spacy
+la_9b989c6bdf,OpenAI,ORG,102,108,rules
+la_9b989c6bdf,Georgetown University’s Center for Security and Emerging Technology,ORG,139,206,spacy
+la_9b989c6bdf,Stanford,ORG,215,223,rules
+la_0720f18be7,Justin Jay Wang,PERSON,173,188,spacy
+la_0720f18be7,DALL·E,MODEL_AGENT,191,197,rules
+la_0720f18be7,Eric Schmidt,PERSON,1954,1966,spacy
+la_0720f18be7,OpenAI,ORG,2248,2254,rules
+la_0720f18be7,OpenAI,ORG,3816,3822,rules
+la_0720f18be7,Leopold Aschenbrenner,PERSON,3836,3857,spacy
+la_0720f18be7,Jan Leike,PERSON,3859,3868,spacy
+la_0720f18be7,Sherry Lachman,PERSON,3870,3884,spacy
+la_0720f18be7,Aleksander Madry,PERSON,3886,3902,spacy
+la_0720f18be7,Chris Clark,PERSON,3904,3915,spacy
+la_0720f18be7,Collin Burns,PERSON,3917,3929,spacy
+la_0720f18be7,Pavel Izmailov,PERSON,3931,3945,spacy
+la_0720f18be7,Nat McAleese,PERSON,3947,3959,spacy
+la_0720f18be7,William Saunders,PERSON,3961,3977,spacy
+la_0720f18be7,Bobby Wu,PERSON,3979,3987,spacy
+la_0720f18be7,Lisa Pan,PERSON,3989,3997,spacy
+la_0720f18be7,Janine Korovesis,PERSON,3999,4015,spacy
+la_0720f18be7,Elie Georges,PERSON,4033,4045,spacy
+la_0720f18be7,Kayla Wood,PERSON,4047,4057,spacy
+la_0720f18be7,Kendra Rimbach,PERSON,4059,4073,spacy
+la_0720f18be7,Thomas Degry,PERSON,4075,4087,spacy
+la_0720f18be7,Chen Related,PERSON,4094,4106,spacy
+la_0720f18be7,View,PERSON,4116,4120,spacy
+la_0720f18be7,Security Feb,ORG,4191,4203,spacy
+la_0b7e7105cf,Stack Overflow,ORG,158,172,spacy
+la_0b7e7105cf,OpenAI,ORG,206,212,rules
+la_0b7e7105cf,Stack Overflow,ORG,217,231,spacy
+la_0b7e7105cf,OverflowAPI,GPE,256,267,spacy
+la_0b7e7105cf,OpenAI,ORG,286,292,rules
+la_0b7e7105cf,OpenAI,ORG,475,481,rules
+la_0b7e7105cf,Stack Overflow,ORG,535,549,spacy
+la_0b7e7105cf,ChatGPT,MODEL_AGENT,562,569,rules
+la_0b7e7105cf,OpenAI,ORG,805,811,rules
+la_0b7e7105cf,Stack Overflow’s,ORG,825,841,spacy
+la_0b7e7105cf,OverflowAPI,GPE,842,853,spacy
+la_0b7e7105cf,Stack Overflow,ORG,883,897,spacy
+la_0b7e7105cf,OpenAI,ORG,993,999,rules
+la_0b7e7105cf,Stack Overflow,ORG,1067,1081,spacy
+la_0b7e7105cf,Stack Overflow,ORG,1123,1137,spacy
+la_0b7e7105cf,ChatGPT,MODEL_AGENT,1155,1162,rules
+la_0b7e7105cf,Stack Overflow,ORG,1205,1219,spacy
+la_0b7e7105cf,OpenAI,ORG,1233,1239,rules
+la_0b7e7105cf,OpenAI,ORG,1304,1310,rules
+la_0b7e7105cf,OpenAI,ORG,1385,1391,rules
+la_0b7e7105cf,OpenAI,ORG,1400,1406,rules
+la_0b7e7105cf,Stack Overflow,ORG,1426,1440,spacy
+la_0b7e7105cf,Stack Overflow,ORG,1553,1567,spacy
+la_0b7e7105cf,Stack Exchange,ORG,1624,1638,spacy
+la_0b7e7105cf,Stack Overflow,ORG,1899,1913,spacy
+la_0b7e7105cf,Brad Lightcap,PERSON,1998,2011,spacy
+la_0b7e7105cf,COO,ORG,2013,2016,spacy
+la_0b7e7105cf,OpenAI,ORG,2020,2026,rules
+la_0b7e7105cf,OpenAI,ORG,2184,2190,rules
+la_0b7e7105cf,Prashanth Chandrasekar,PERSON,2357,2379,spacy
+la_0b7e7105cf,Stack Overflow,ORG,2388,2402,spacy
+la_0b7e7105cf,OverflowAPI,GPE,2419,2430,spacy
+la_0b7e7105cf,Stack Overflow,ORG,2711,2725,spacy
+la_0b7e7105cf,OpenAI,ORG,2730,2736,rules
+la_0b7e7105cf,OpenAI,ORG,2795,2801,rules
+la_0b7e7105cf,Stack Overflow,ORG,2821,2835,spacy
+la_0b7e7105cf,Stack Overflow,ORG,2848,2862,spacy
+la_0b7e7105cf,Stack Overflow’s,ORG,2964,2980,spacy
+la_0b7e7105cf,OpenAI,ORG,3070,3076,rules
+la_621811037f,GPT‑4o,MODEL_AGENT,207,213,rules
+la_621811037f,GPT‑4o,MODEL_AGENT,483,489,rules
+la_621811037f,OpenAI,ORG,670,676,rules
+la_621811037f,the Moderation API,PRODUCT,1605,1623,spacy
+la_621811037f,the Moderation API,PRODUCT,1698,1716,spacy
+la_621811037f,ElevenLabs,ORG,1847,1857,spacy
+la_621811037f,the Moderation API,PRODUCT,1867,1885,spacy
+la_621811037f,Khmer,GPE,3212,3217,spacy
+la_621811037f,Swati,GPE,3221,3226,spacy
+la_621811037f,Telugu,ORG,3284,3290,spacy
+la_621811037f,Marathi,ORG,3319,3326,spacy
+la_621811037f,Moderation API,PERSON,4187,4201,spacy
+la_621811037f,API Platform 2024,PRODUCT,4236,4253,spacy
+la_621811037f,Ian Kivlichan,PERSON,4262,4275,spacy
+la_621811037f,Justyn Harriman,PERSON,4277,4292,spacy
+la_621811037f,Cameron Raymond,PERSON,4294,4309,spacy
+la_621811037f,Meghan Shah,PERSON,4311,4322,spacy
+la_621811037f,Shraman Ray Chaudhuri,PERSON,4324,4345,spacy
+la_621811037f,Keren Gu-Lemberg,PERSON,4347,4363,spacy
+la_621811037f,Flo Leoni,PERSON,4381,4390,spacy
+la_621811037f,Jieqi Yu,PERSON,4392,4400,spacy
+la_621811037f,Madelaine Boyd,PERSON,4402,4416,spacy
+la_621811037f,Mingxuan Wang,PERSON,4418,4431,spacy
+la_621811037f,Nithanth Kudige,PERSON,4433,4448,spacy
+la_621811037f,Yao Zhou,PERSON,4450,4458,spacy
+la_621811037f,Andrea Vallone,PERSON,4460,4474,spacy
+la_621811037f,Alec Helyar,PERSON,4476,4487,spacy
+la_621811037f,Edmund Wong,PERSON,4489,4500,spacy
+la_621811037f,Francis Zhang,PERSON,4502,4515,spacy
+la_621811037f,Hadi Salman,GPE,4517,4528,spacy
+la_621811037f,Henrique Ponde de Oliveira Pinto,ORG,4530,4562,spacy
+la_621811037f,Joyce Lee,PERSON,4564,4573,spacy
+la_621811037f,Nick Preston,PERSON,4575,4587,spacy
+la_621811037f,Raul Puri,PERSON,4589,4598,spacy
+la_621811037f,Shibani Santurkar,PERSON,4600,4617,spacy
+la_621811037f,Lindsay McCallum,PERSON,4619,4635,spacy
+la_621811037f,Leher Pathak,PERSON,4637,4649,spacy
+la_621811037f,Edwin Arbus,PERSON,4651,4662,spacy
+la_621811037f,Kevin Whinnery,PERSON,4664,4678,spacy
+la_621811037f,Beth Hoover,PERSON,4680,4691,spacy
+la_621811037f,Freddie Sulit,ORG,4693,4706,spacy
+la_621811037f,Filippo Raso,PERSON,4708,4720,spacy
+la_621811037f,Cary Hudson,PERSON,4722,4733,spacy
+la_621811037f,Dev Valladares,PERSON,4735,4749,spacy
+la_621811037f,Pranav Deshpande,PERSON,4751,4767,spacy
+la_621811037f,Sam Toizer,PERSON,4769,4779,spacy
+la_621811037f,Lilian Weng,PERSON,4781,4792,spacy
+la_621811037f,Owen Campbell-Moore,PERSON,4794,4813,spacy
+pa_e971c38b41,the Shared Recurrent Memory Transformer,ORG,382,421,spacy
+pa_e971c38b41,GitHub,PRODUCT,1697,1703,spacy
+pa_d8d8bc3858,Vaiage,ORG,403,409,spacy
+pa_d8d8bc3858,Vaiage,ORG,881,887,spacy
+pa_d8d8bc3858,Vaiage,ORG,1032,1038,spacy
+pa_d8d8bc3858,GPT-4,MODEL_AGENT,1102,1107,rules
+re_9fc3bdd754,crewAIInc,ORG,0,9,rules
+re_9fc3bdd754,CI,GPE,292,294,spacy
+re_9fc3bdd754,OpenAI,ORG,410,416,rules
+re_9fc3bdd754,New Features & Enhancements - Included,ORG,485,523,spacy
+re_9fc3bdd754,ExternalMemory,ORG,555,569,spacy
+re_9fc3bdd754,Tool Repository,ORG,920,935,spacy
+re_9fc3bdd754,Short-Term,ORG,974,984,spacy
+re_9fc3bdd754,AgentOps,ORG,1119,1127,spacy
+pa_ecdb50855c,Adaptive-OPRO,ORG,923,936,spacy
+pa_ecdb50855c,Adaptive-OPRO,ORG,1170,1183,spacy
+la_89b0ac10d2,OpenAI,ORG,48,54,rules
+la_89b0ac10d2,Global Affairs ServiceNow,ORG,73,98,spacy
+la_89b0ac10d2,OpenAI,ORG,136,142,rules
+la_89b0ac10d2,ServiceNow,ORG,202,212,spacy
+la_89b0ac10d2,OpenAI,ORG,232,238,rules
+la_89b0ac10d2,OpenAI,ORG,256,262,rules
+la_89b0ac10d2,ServiceNow,ORG,383,393,spacy
+la_89b0ac10d2,OpenAI,ORG,395,401,rules
+la_89b0ac10d2,ServiceNow,ORG,470,480,spacy
+la_89b0ac10d2,ServiceNow,ORG,482,492,spacy
+la_89b0ac10d2,OpenAI,ORG,557,563,rules
+la_89b0ac10d2,ServiceNow,ORG,724,734,spacy
+la_89b0ac10d2,ServiceNow,ORG,909,919,spacy
+la_89b0ac10d2,ServiceNow,ORG,1097,1107,spacy
+la_89b0ac10d2,OpenAI,ORG,1129,1135,rules
+la_89b0ac10d2,GPT‑5.2,MODEL_AGENT,1148,1155,rules
+la_89b0ac10d2,OpenAI,ORG,1330,1336,rules
+la_89b0ac10d2,ServiceNow,ORG,1338,1348,spacy
+la_89b0ac10d2,ServiceNow,ORG,1552,1562,spacy
+la_89b0ac10d2,Amit Zavery,PERSON,1671,1682,spacy
+la_89b0ac10d2,ServiceNow,ORG,1749,1759,spacy
+la_89b0ac10d2,"Together, Service",ORG,1762,1779,spacy
+la_89b0ac10d2,OpenAI,ORG,1784,1790,rules
+la_89b0ac10d2,ServiceNow,ORG,2246,2256,spacy
+la_89b0ac10d2,Brad Lightcap,PERSON,2390,2403,spacy
+la_89b0ac10d2,OpenAI,ORG,2432,2438,rules
+la_89b0ac10d2,OpenAI,ORG,2446,2452,rules
+la_89b0ac10d2,ServiceNow,ORG,2500,2510,spacy
+la_89b0ac10d2,OpenAI,ORG,2651,2657,rules
+la_89b0ac10d2,the ServiceNow AI Platform,ORG,2659,2685,spacy
+la_89b0ac10d2,GPT‑5.2,MODEL_AGENT,2727,2734,rules
+la_89b0ac10d2,ServiceNow,ORG,2894,2904,spacy
+la_89b0ac10d2,OpenAI,ORG,2909,2915,rules
+la_89b0ac10d2,OpenAI,ORG,3067,3073,rules
+la_89b0ac10d2,ServiceNow,ORG,3096,3106,spacy
+la_89b0ac10d2,ServiceNow,ORG,3728,3738,spacy
+la_89b0ac10d2,GPT‑5.2,MODEL_AGENT,3956,3963,rules
+la_89b0ac10d2,the ServiceNow AI Platform,ORG,3984,4010,spacy
+la_89b0ac10d2,ServiceNow,ORG,4091,4101,spacy
+la_89b0ac10d2,GPT‑5.2,MODEL_AGENT,4238,4245,rules
+la_89b0ac10d2,ServiceNow,ORG,4315,4325,spacy
+la_89b0ac10d2,ServiceNow,ORG,4541,4551,spacy
+la_89b0ac10d2,OpenAI,ORG,4556,4562,rules
+la_89b0ac10d2,ServiceNow,ORG,4701,4711,spacy
+la_89b0ac10d2,OpenAI,ORG,4720,4726,rules
+la_89b0ac10d2,PayPal,ORG,4851,4857,spacy
+la_89b0ac10d2,Intuit,ORG,4886,4892,spacy
+la_89b0ac10d2,Target,ORG,4895,4901,spacy
+la_89b0ac10d2,Thermo Fisher,ORG,4904,4917,spacy
+la_89b0ac10d2,BNY,ORG,4946,4949,spacy
+la_89b0ac10d2,Morgan Stanley,ORG,4952,4966,spacy
+la_89b0ac10d2,OpenAI,ORG,5066,5072,rules
+la_89b0ac10d2,OpenAI,ORG,5161,5167,rules
+la_89b0ac10d2,View,PERSON,5181,5185,spacy
+la_89b0ac10d2,OpenAI,ORG,5190,5196,rules
+la_89b0ac10d2,NASK,ORG,5201,5205,spacy
+la_89b0ac10d2,Global Affairs Oct,ORG,5342,5360,spacy
+la_a1bdc83d63,OpenAI,ORG,16,22,rules
+la_a1bdc83d63,OpenAI,ORG,97,103,rules
+la_a1bdc83d63,OpenAI,ORG,173,179,rules
+la_a1bdc83d63,OpenAI,ORG,193,199,rules
+la_a1bdc83d63,OpenAI,ORG,570,576,rules
+la_a1bdc83d63,Bug Bounty,PERSON,588,598,spacy
+la_a1bdc83d63,OpenAI,ORG,1010,1016,rules
+la_a1bdc83d63,Bug Bounty,PERSON,1039,1049,spacy
+la_a1bdc83d63,Agentic Risks,ORG,1267,1280,spacy
+la_a1bdc83d63,MCP,MODEL_AGENT,1291,1294,rules
+la_a1bdc83d63,Browser,PERSON,1421,1428,spacy
+la_a1bdc83d63,ChatGPT,MODEL_AGENT,1430,1437,rules
+la_a1bdc83d63,OpenAI,ORG,1636,1642,rules
+la_a1bdc83d63,OpenAI,ORG,1683,1689,rules
+la_a1bdc83d63,OpenAI,ORG,1721,1727,rules
+la_a1bdc83d63,MCP,MODEL_AGENT,1873,1876,rules
+la_a1bdc83d63,OpenAI,ORG,1942,1948,rules
+la_a1bdc83d63,OpenAI,ORG,2083,2089,rules
+la_a1bdc83d63,Platform Integrity Vulnerabilities,ORG,2127,2161,spacy
+la_a1bdc83d63,Biorisk,ORG,2675,2682,spacy
+la_a1bdc83d63,ChatGPT,MODEL_AGENT,2701,2708,rules
+la_a1bdc83d63,GPT‑5,MODEL_AGENT,2721,2726,rules
+la_a1bdc83d63,OpenAI,ORG,3608,3614,rules
+la_a1bdc83d63,View all Community,ORG,3628,3646,spacy
+la_a1bdc83d63,Model Spec,PERSON,3722,3732,spacy
+la_a1bdc83d63,"AI Safety Oct 29, 2026",ORG,3765,3787,spacy
+re_e244016624,urllib3,PERSON,141,148,spacy
+re_e244016624,langchain,PERSON,507,516,spacy
+re_e244016624,harden,PERSON,519,525,spacy
+re_e244016624,chore(core,GPE,1034,1044,spacy
+re_e244016624,chore(core,GPE,1594,1604,spacy
+re_e244016624,checkpoint_ns,PERSON,1612,1625,spacy
+re_e244016624,metadata IPs,PERSON,1796,1808,spacy
+re_e244016624,chore(core,GPE,1899,1909,spacy
+re_e244016624,harden private SSRF utilities,ORG,1912,1941,spacy
+re_e244016624,chore(core,GPE,2297,2307,spacy
+re_e244016624,ChatBaseten,PRODUCT,2735,2746,spacy
+re_e244016624,chore(core,GPE,2781,2791,spacy
+re_e244016624,harden,PERSON,2963,2969,spacy
+re_e244016624,OpenAI,ORG,3167,3173,rules
+re_e244016624,Revert,PERSON,3363,3369,spacy
+re_e244016624,ModelProfile,ORG,3684,3696,spacy
+re_e244016624,chore(core,GPE,3736,3746,spacy
+re_e244016624,CI,GPE,3860,3862,spacy
+re_e244016624,LangSmith,ORG,3969,3978,spacy
+re_e244016624,harden anti-ssrf,PERSON,4057,4073,spacy
+re_e244016624,orjson,PERSON,4211,4217,spacy
+re_e244016624,chore(core,GPE,4323,4333,spacy
+re_e244016624,IDs,PRODUCT,5525,5528,spacy
+re_e244016624,chore(core,GPE,5687,5697,spacy
+re_e244016624,sys info util,ORG,5724,5737,spacy
+re_e244016624,LangSmith,ORG,5897,5906,spacy
+re_e244016624,LangSmith,ORG,6390,6399,spacy
+re_e244016624,jinja2,PERSON,6444,6450,spacy
+re_e244016624,chore(core,GPE,6947,6957,spacy
+re_e244016624,Exception,ORG,7071,7080,spacy
+re_e244016624,35138,PERSON,7093,7098,spacy
+re_e244016624,ContextOverflowError,ORG,7325,7345,spacy
+re_e244016624,RunnableSerializable,ORG,7584,7604,spacy
+re_e244016624,Makefile,PRODUCT,7908,7916,spacy
+re_e244016624,chore(core,GPE,8402,8412,spacy
+re_e244016624,google,PRODUCT,8947,8953,spacy
+re_e244016624,Runnable,PRODUCT,9251,9259,spacy
+re_e244016624,chore(core,GPE,9390,9400,spacy
+re_e244016624,check_version.py,ORG,9538,9554,spacy
+re_e244016624,XML,ORG,9607,9610,spacy
+re_e244016624,chore(core,GPE,9658,9668,spacy
+re_e244016624,chore(core,GPE,9821,9831,spacy
+re_e244016624,RunnableConfig,ORG,9936,9950,spacy
+re_e244016624,ToolCall,PRODUCT,10353,10361,spacy
+re_e244016624,BaseStore,PRODUCT,10605,10614,spacy
+re_e244016624,chore(core,GPE,10625,10635,spacy
+re_e244016624,chore(core,GPE,10657,10667,spacy
+re_e244016624,chore(core,GPE,10714,10724,spacy
+re_e244016624,HTML,ORG,11054,11058,spacy
+re_e244016624,HTML,ORG,11123,11127,spacy
+re_e244016624,GPT-2,MODEL_AGENT,11447,11452,rules
+re_e244016624,langchain,PERSON,11487,11496,spacy
+re_e244016624,chore(core,GPE,11873,11883,spacy
+re_e244016624,v1.19,PERSON,12089,12094,spacy
+re_e244016624,RUF012,PRODUCT,12200,12206,spacy
+re_e244016624,ref,ORG,12371,12374,spacy
+re_e244016624,RunnablePick,PRODUCT,13119,13131,spacy
+re_e244016624,feat(core,GPE,13541,13550,spacy
+re_e244016624,chore(core,GPE,13705,13715,spacy
+re_e244016624,chore(core,GPE,13924,13934,spacy
+re_e244016624,CI,ORG,14084,14086,spacy
+re_e244016624,chore(core,GPE,14128,14138,spacy
+re_e244016624,TypedDict,ORG,14243,14252,spacy
+re_e244016624,chore(core,GPE,14368,14378,spacy
+re_e244016624,chore(core,GPE,14571,14581,spacy
+re_e244016624,feat(core,GPE,14630,14639,spacy
+re_e244016624,jinja2,PERSON,14739,14745,spacy
+re_e244016624,chore(core,GPE,14928,14938,spacy
+re_e244016624,chore(core,GPE,15060,15070,spacy
+re_e244016624,py_anext,ORG,15097,15105,spacy
+re_e244016624,ref,ORG,15225,15228,spacy
+re_e244016624,uuid7,ORG,15392,15397,spacy
+re_e244016624,RunnableConfig,ORG,15588,15602,spacy
+re_e244016624,StructuredPrompt,PRODUCT,15777,15793,spacy
+re_e244016624,jinja2,PERSON,16276,16282,spacy
+re_e244016624,chore(core,GPE,16632,16642,spacy
+re_e244016624,chore(core,GPE,16665,16675,spacy
+re_e244016624,RunnablePick,ORG,17296,17308,spacy
+re_e244016624,TypedDict,ORG,17457,17466,spacy
+re_e244016624,chore(core,GPE,18031,18041,spacy
+re_e244016624,chore(core,GPE,18077,18087,spacy
+re_e244016624,misc refs,PERSON,18269,18278,spacy
+re_e244016624,IDs,PRODUCT,18458,18461,spacy
+re_e244016624,JSON,PERSON,18648,18652,spacy
+re_e244016624,Opik,ORG,18683,18687,spacy
+re_e244016624,Google,ORG,18811,18817,rules
+re_e244016624,UsageMetadata,PRODUCT,18876,18889,spacy
+re_e244016624,PydanticOutputParser,PERSON,18935,18955,spacy
+re_e244016624,CodSpeed,ORG,19549,19557,spacy
+re_e244016624,ToolRuntime,ORG,19887,19898,spacy
+re_e244016624,chore(core,GPE,20337,20347,spacy
+re_e244016624,BaseMemory,ORG,20357,20367,spacy
+re_e244016624,chore(core,GPE,20521,20531,spacy
+re_e244016624,chore(core,GPE,20641,20651,spacy
+re_e244016624,chore(core,GPE,20717,20727,spacy
+re_e244016624,chore(core,GPE,20824,20834,spacy
+re_e244016624,chore(core,GPE,21230,21240,spacy
+re_e244016624,Optional,ORG,21479,21487,spacy
+re_e244016624,UP045,PERSON,21517,21522,spacy
+re_e244016624,chore(core,GPE,22218,22228,spacy
+re_e244016624,chore(core,GPE,22255,22265,spacy
+re_e244016624,include_id,GPE,22412,22422,spacy
+re_b6f7069f3f,release(openrouter,ORG,94,112,spacy
+re_e562d54c7e,crewAIInc,ORG,0,9,rules
+re_e562d54c7e,Bug Fixes - Exclude,PERSON,286,305,spacy
+re_e562d54c7e,tokens - Bump,ORG,358,371,spacy
+re_e562d54c7e,JsonProvider,ORG,544,556,spacy
+re_e562d54c7e,Refactoring - Remove CodeInterpreterTool,ORG,616,656,spacy
+re_e562d54c7e,@joaomdmoura,ORG,761,773,spacy
+la_f69a340d19,Sora,MODEL_AGENT,10,14,rules
+la_f69a340d19,Sora,MODEL_AGENT,57,61,rules
+la_f69a340d19,Loading,PERSON,94,101,spacy
+la_f69a340d19,Sora,MODEL_AGENT,135,139,rules
+la_f69a340d19,Sora 2,MODEL_AGENT,172,178,rules
+la_f69a340d19,Sora,MODEL_AGENT,187,191,rules
+la_f69a340d19,Sora,MODEL_AGENT,433,437,rules
+la_f69a340d19,Sora,MODEL_AGENT,548,552,rules
+la_f69a340d19,C2PA metadata,PERSON,571,584,spacy
+la_f69a340d19,Sora,MODEL_AGENT,708,712,rules
+la_f69a340d19,ChatGPT,MODEL_AGENT,769,776,rules
+la_f69a340d19,Sora 1,MODEL_AGENT,798,804,rules
+la_f69a340d19,Sora,MODEL_AGENT,916,920,rules
+la_f69a340d19,Sora,MODEL_AGENT,1671,1675,rules
+la_f69a340d19,ChatGPT,MODEL_AGENT,1933,1940,rules
+la_f69a340d19,Sora,MODEL_AGENT,2049,2053,rules
+la_f69a340d19,Sora,MODEL_AGENT,2142,2146,rules
+la_f69a340d19,Sora,MODEL_AGENT,2175,2179,rules
+la_f69a340d19,Sora,MODEL_AGENT,2596,2600,rules
+la_f69a340d19,Global Usage Policies,ORG,2728,2749,spacy
+la_f69a340d19,Sora,MODEL_AGENT,2981,2985,rules
+la_f69a340d19,Sora,MODEL_AGENT,3104,3108,rules
+la_f69a340d19,Sora,MODEL_AGENT,3402,3406,rules
+la_f69a340d19,Videos,ORG,3567,3573,spacy
+la_f69a340d19,Sora,MODEL_AGENT,3892,3896,rules
+la_f69a340d19,Keep,PERSON,3902,3906,spacy
+re_85cfdd8335,GroupChat,ORG,699,708,spacy
+re_85cfdd8335,@sonichi,ORG,873,881,spacy
+re_85cfdd8335,@afourney,ORG,951,960,spacy
+pa_e1d9ad171d,Large Language Model,PERSON,75,95,spacy
+pa_e1d9ad171d,Adaptive Memory,PERSON,775,790,spacy
+pa_e1d9ad171d,AMA,ORG,822,825,spacy
+pa_e1d9ad171d,AMA,ORG,928,931,spacy
+pa_e1d9ad171d,Refresher,PERSON,1310,1319,spacy
+pa_e1d9ad171d,Refresher,PERSON,1358,1367,spacy
+pa_e1d9ad171d,AMA,ORG,1533,1536,spacy
+pa_5548603042,Theory of Mind,ORG,340,354,spacy
+pa_5548603042,ToM,PERSON,356,359,spacy
+pa_5548603042,Multi-Agent Reinforcement Learning,ORG,411,445,spacy
+pa_5548603042,ToM,PERSON,930,933,spacy
+pa_0150f3dec3,WorldEvolver,ORG,316,328,spacy
+pa_0150f3dec3,WorldEvolver,ORG,477,489,spacy
+pa_0150f3dec3,Episodic Memory,PERSON,520,535,spacy
+pa_0150f3dec3,Selective Foresight,PERSON,726,745,spacy
+pa_0150f3dec3,WorldEvolver,ORG,854,866,spacy
+pa_0150f3dec3,ScienceWorld,ORG,883,895,spacy
+pa_0150f3dec3,AgentBoard,ORG,990,1000,spacy
+pa_0150f3dec3,WorldEvolver,ORG,1034,1046,spacy
+pa_0150f3dec3,fidelity,ORG,1253,1261,spacy
+la_da3c5b116f,DALL·E,MODEL_AGENT,139,145,rules
+la_da3c5b116f,GPT‑2,MODEL_AGENT,612,617,rules
+la_da3c5b116f,GPT‑4,MODEL_AGENT,648,653,rules
+la_da3c5b116f,GPT‑3.5,MODEL_AGENT,678,685,rules
+la_da3c5b116f,AGI,ORG,2100,2103,spacy
+la_da3c5b116f,GPT‑4,MODEL_AGENT,3647,3652,rules
+la_da3c5b116f,GPT‑2,MODEL_AGENT,3660,3665,rules
+la_da3c5b116f,GPT‑3,MODEL_AGENT,3767,3772,rules
+la_da3c5b116f,GPT‑3.5,MODEL_AGENT,3777,3784,rules
+la_da3c5b116f,GPT‑4,MODEL_AGENT,3817,3822,rules
+la_da3c5b116f,ChatGPT,MODEL_AGENT,3973,3980,rules
+la_da3c5b116f,Alignment Framework 2023,PERSON,5953,5977,spacy
+la_da3c5b116f,Collin Burns,PERSON,5986,5998,spacy
+la_da3c5b116f,Jan Leike,PERSON,6000,6009,spacy
+la_da3c5b116f,Leopold Aschenbrenner,PERSON,6011,6032,spacy
+la_da3c5b116f,Jeffrey Wu,PERSON,6034,6044,spacy
+la_da3c5b116f,Pavel Izmailov,PERSON,6046,6060,spacy
+la_da3c5b116f,Leo Gao,PERSON,6062,6069,spacy
+la_da3c5b116f,Bowen Baker,PERSON,6071,6082,spacy
+la_da3c5b116f,Jan Hendrik Kirchner,PERSON,6084,6104,spacy
+la_da3c5b116f,Yining Chen,PERSON,6118,6129,spacy
+la_da3c5b116f,Adrien Ecoffet,PERSON,6131,6145,spacy
+la_da3c5b116f,Manas Joglekar,PERSON,6147,6161,spacy
+la_da3c5b116f,Greg Brockman,PERSON,6179,6192,spacy
+la_da3c5b116f,Hannah Wong,PERSON,6194,6205,spacy
+la_da3c5b116f,Kendra Rimbach,PERSON,6207,6221,spacy
+la_da3c5b116f,Elie Georges,PERSON,6223,6235,spacy
+la_da3c5b116f,Thomas Degry,PERSON,6237,6249,spacy
+la_da3c5b116f,Casey Martin,PERSON,6251,6263,spacy
+la_da3c5b116f,Lindsay McMenamin,PERSON,6265,6282,spacy
+la_da3c5b116f,Owen Cramp,PERSON,6284,6294,spacy
+la_da3c5b116f,Marc Hill Related,PERSON,6296,6313,spacy
+la_da3c5b116f,View,PERSON,6323,6327,spacy
+la_da3c5b116f,Security Feb,ORG,6398,6410,spacy
+la_100446a7f6,Ben Barry Loading,PERSON,204,221,spacy
+la_100446a7f6,GPT‑2,MODEL_AGENT,567,572,rules
+la_100446a7f6,GPT,ORG,589,592,spacy
+la_100446a7f6,GPT‑2,MODEL_AGENT,985,990,rules
+la_100446a7f6,GPT‑2,MODEL_AGENT,1138,1143,rules
+la_100446a7f6,GPT‑2,MODEL_AGENT,1390,1395,rules
+la_100446a7f6,GPT,ORG,1420,1423,spacy
+la_100446a7f6,GPT‑2,MODEL_AGENT,1508,1513,rules
+la_100446a7f6,GPT‑2,MODEL_AGENT,1744,1749,rules
+la_100446a7f6,Wikipedia,ORG,1818,1827,spacy
+la_100446a7f6,GPT‑2,MODEL_AGENT,2007,2012,rules
+la_100446a7f6,GPT‑2,MODEL_AGENT,2293,2298,rules
+la_100446a7f6,Brexit,PERSON,3446,3452,spacy
+la_100446a7f6,Miley Cyrus,PERSON,3454,3465,spacy
+la_100446a7f6,Rings,ORG,3479,3484,spacy
+la_100446a7f6,GPT‑2,MODEL_AGENT,3801,3806,rules
+la_100446a7f6,Amazon,ORG,3814,3820,rules
+la_100446a7f6,Reviews,PRODUCT,3821,3828,spacy
+la_100446a7f6,GPT‑2,MODEL_AGENT,4327,4332,rules
+la_100446a7f6,GPT‑2,MODEL_AGENT,4587,4592,rules
+la_100446a7f6,Wikipedia,ORG,4654,4663,spacy
+la_100446a7f6,Winograd Schema Challenge,PERSON,4922,4947,spacy
+la_100446a7f6,LAMBADA,ORG,4979,4986,spacy
+la_100446a7f6,LAMBADA,ORG,5019,5026,spacy
+la_100446a7f6,Penn Tree Bank,ORG,5228,5242,spacy
+la_100446a7f6,enwik8,PERSON,5324,5330,spacy
+la_100446a7f6,text8,PERSON,5372,5377,spacy
+la_100446a7f6,GPT‑2,MODEL_AGENT,5466,5471,rules
+la_100446a7f6,Winograd Schema,PERSON,5501,5516,spacy
+la_100446a7f6,LAMBADA,ORG,5518,5525,spacy
+la_100446a7f6,GPT‑2,MODEL_AGENT,6437,6442,rules
+la_100446a7f6,Unsupervised,ORG,6519,6531,spacy
+la_100446a7f6,Impersonate,ORG,6782,6793,spacy
+la_100446a7f6,GPT‑2,MODEL_AGENT,8341,8346,rules
+la_100446a7f6,GPT‑2,MODEL_AGENT,8452,8457,rules
+la_100446a7f6,OpenAI,ORG,8507,8513,rules
+la_100446a7f6,GPT‑2,MODEL_AGENT,10424,10429,rules
+la_100446a7f6,GPT‑2,MODEL_AGENT,10512,10517,rules
+la_100446a7f6,GPT‑2,MODEL_AGENT,10666,10671,rules
+la_100446a7f6,GPT‑2,MODEL_AGENT,11003,11008,rules
+la_100446a7f6,GPT‑2,MODEL_AGENT,11261,11266,rules
+la_100446a7f6,GPT‑2,MODEL_AGENT,11485,11490,rules
+la_100446a7f6,GPT‑2,MODEL_AGENT,11725,11730,rules
+la_100446a7f6,GPT‑2,MODEL_AGENT,12953,12958,rules
+la_100446a7f6,WebText,ORG,13053,13060,spacy
+la_100446a7f6,GPT‑2,MODEL_AGENT,13082,13087,rules
+la_100446a7f6,Google,ORG,13719,13725,rules
+la_100446a7f6,OpenAI,ORG,13773,13779,rules
+la_100446a7f6,Reproducibility,GPE,13887,13902,spacy
+la_100446a7f6,OpenAI,ORG,13920,13926,rules
+la_100446a7f6,GPT Language Generative Models Ethics & Safety Transformers Footnotes,PRODUCT,14055,14124,spacy
+la_100446a7f6,Reddit,GPE,14373,14379,spacy
+la_100446a7f6,CommonCrawl,ORG,14612,14623,spacy
+la_100446a7f6,Alec Radford,PERSON,15075,15087,spacy
+la_100446a7f6,Jeffrey Wu,PERSON,15089,15099,spacy
+la_100446a7f6,Dario Amodei,PERSON,15101,15113,spacy
+la_100446a7f6,Daniella Amodei,ORG,15115,15130,spacy
+la_100446a7f6,Jack Clark,PERSON,15132,15142,spacy
+la_100446a7f6,Miles Brundage,PERSON,15144,15158,spacy
+la_100446a7f6,Miles Brundage,PERSON,15190,15204,spacy
+la_100446a7f6,Alec Radford,PERSON,15206,15218,spacy
+la_100446a7f6,Jeffrey Wu,PERSON,15220,15230,spacy
+la_100446a7f6,Jack Clark,PERSON,15232,15242,spacy
+la_100446a7f6,Amanda Askell,PERSON,15244,15257,spacy
+la_100446a7f6,David Lansky,PERSON,15259,15271,spacy
+la_100446a7f6,Danny Hernandez,PERSON,15273,15288,spacy
+la_100446a7f6,David Luan,PERSON,15290,15300,spacy
+la_100446a7f6,David Luan,PERSON,15327,15337,spacy
+la_100446a7f6,Rewon Child,ORG,15342,15353,spacy
+la_100446a7f6,GPT-2,MODEL_AGENT,15372,15377,rules
+la_100446a7f6,Greg Brockman,PERSON,15444,15457,spacy
+la_100446a7f6,Kai-Fu Lee,PERSON,15459,15469,spacy
+la_100446a7f6,Tasha McCauley,PERSON,15471,15485,spacy
+la_100446a7f6,Jeffrey Ding,PERSON,15487,15499,spacy
+la_100446a7f6,Brian Tse,PERSON,15501,15510,spacy
+la_100446a7f6,Allan Dafoe,PERSON,15512,15523,spacy
+la_100446a7f6,Rebecca Crootof,PERSON,15525,15540,spacy
+la_100446a7f6,Sam Bowman,PERSON,15542,15552,spacy
+la_100446a7f6,Ryan Calo,PERSON,15554,15563,spacy
+la_100446a7f6,Nick Cammarata,PERSON,15565,15579,spacy
+la_100446a7f6,John Schulman,PERSON,15584,15597,spacy
+la_100446a7f6,Ashley Pilipiszyn Design,ORG,15607,15631,spacy
+la_100446a7f6,Justin Jay Wang Cover,PERSON,15633,15654,spacy
+la_100446a7f6,Ben Barry Related,PERSON,15664,15681,spacy
+la_100446a7f6,View,PERSON,15691,15695,spacy
+pa_14a86e6f4a,the Recursive Reasoning Graph,ORG,747,776,spacy
+la_54785efd92,Cohere,ORG,111,117,rules
+la_54785efd92,OpenAI,ORG,119,125,rules
+la_54785efd92,AI21 Labs,ORG,131,140,rules
+la_54785efd92,Justin Jay Wang Loading,PERSON,284,307,spacy
+la_54785efd92,Cohere,ORG,315,321,rules
+la_54785efd92,OpenAI,ORG,323,329,rules
+la_54785efd92,AI21 Labs,ORG,335,344,rules
+la_54785efd92,PDF,ORG,4246,4249,spacy
+la_54785efd92,Anthropic,ORG,4546,4555,rules
+la_54785efd92,John Bansemer,PERSON,4905,4918,spacy
+la_54785efd92,CSET,ORG,5016,5020,spacy
+la_54785efd92,Google,ORG,5023,5029,rules
+la_54785efd92,Google,ORG,5295,5301,rules
+la_54785efd92,Microsoft,ORG,5697,5706,rules
+la_54785efd92,Cohere,ORG,5812,5818,rules
+la_54785efd92,OpenAI,ORG,5820,5826,rules
+la_54785efd92,AI21 Labs,ORG,5832,5841,rules
+la_54785efd92,Percy Liang,PERSON,6318,6329,spacy
+la_54785efd92,Stanford,ORG,6347,6355,rules
+la_54785efd92,OpenAI,ORG,6593,6599,rules
+la_54785efd92,View,PERSON,6617,6621,spacy
+la_54785efd92,Security Feb,ORG,6692,6704,spacy
+la_9fc0c61c22,Rule-Based Rewards,ORG,191,209,spacy
+la_9fc0c61c22,Rule-Based Rewards,PERSON,402,420,spacy
+la_9fc0c61c22,OpenAI,ORG,830,836,rules
+la_9fc0c61c22,OpenAI,ORG,1430,1436,rules
+la_9fc0c61c22,GPT‑4,MODEL_AGENT,1918,1923,rules
+la_9fc0c61c22,GPT‑4o mini,MODEL_AGENT,1944,1955,rules
+la_9fc0c61c22,Description Request,PERSON,2927,2946,spacy
+la_9fc0c61c22,Comply,ORG,3428,3434,spacy
+la_9fc0c61c22,Model,PRODUCT,3498,3503,spacy
+la_9fc0c61c22,Comply,ORG,4025,4031,spacy
+la_9fc0c61c22,RBR,ORG,5935,5938,spacy
+la_9fc0c61c22,RBR,ORG,6004,6007,spacy
+la_9fc0c61c22,RBR,ORG,6209,6212,spacy
+la_9fc0c61c22,PPO,ORG,6321,6324,spacy
+la_9fc0c61c22,RBR,ORG,8219,8222,spacy
+la_9fc0c61c22,RBR,ORG,8730,8733,spacy
+la_9fc0c61c22,Rule-Based Rewards,PRODUCT,9382,9400,spacy
+la_9fc0c61c22,GPT Ethics & Safety Reasonings & Policy,ORG,10425,10464,spacy
+la_9fc0c61c22,Tong Mu,PERSON,10473,10480,spacy
+la_9fc0c61c22,Alec Helyar,PERSON,10482,10493,spacy
+la_9fc0c61c22,Andrea Vallone,PERSON,10495,10509,spacy
+la_9fc0c61c22,Lilian Weng Acknowledgements Additional,ORG,10511,10550,spacy
+la_9fc0c61c22,Johannes Heidecke,ORG,10573,10590,spacy
+la_9fc0c61c22,Joshua Achiam,PERSON,10592,10605,spacy
+la_9fc0c61c22,Ian Kivlichan,PERSON,10607,10620,spacy
+la_9fc0c61c22,Molly Lin,PERSON,10622,10631,spacy
+la_9fc0c61c22,Alex Beutel,PERSON,10633,10644,spacy
+la_9fc0c61c22,John Schulman,PERSON,10646,10659,spacy
+la_9fc0c61c22,Angela Baek,PERSON,10674,10685,spacy
+la_9fc0c61c22,Cary Hudson,PERSON,10687,10698,spacy
+la_9fc0c61c22,Elie Georges,PERSON,10700,10712,spacy
+la_9fc0c61c22,Freddie Sulit,PERSON,10714,10727,spacy
+la_9fc0c61c22,Lindsay McCallum,PERSON,10729,10745,spacy
+la_9fc0c61c22,Maya Shetty,PERSON,10747,10758,spacy
+la_9fc0c61c22,Niko Felix,PERSON,10760,10770,spacy
+la_9fc0c61c22,Thomas Degry,PERSON,10772,10784,spacy
+pa_715946df7b,the Large Language Model (LLM,ORG,98,127,spacy
+pa_715946df7b,Data Retrieval,ORG,872,886,spacy
+pa_715946df7b,MDR,ORG,888,891,spacy
+pa_715946df7b,Collaborative Planning,ORG,1098,1120,spacy
+pa_715946df7b,MCP,MODEL_AGENT,1122,1125,rules
+pa_715946df7b,MER,ORG,1339,1342,spacy
+la_e375ef0de5,Loading,PERSON,97,104,spacy
+la_e375ef0de5,Kubernetes,ORG,125,135,spacy
+la_e375ef0de5,GPT‑3,MODEL_AGENT,219,224,rules
+la_e375ef0de5,CLIP,MODEL_AGENT,253,257,rules
+la_e375ef0de5,DALL·E,MODEL_AGENT,266,272,rules
+la_e375ef0de5,Kubernetes,ORG,420,430,spacy
+la_e375ef0de5,Kubernetes,ORG,869,879,spacy
+la_e375ef0de5,Kubernetes,ORG,1109,1119,spacy
+la_e375ef0de5,NVLink,ORG,1475,1481,spacy
+la_e375ef0de5,NIC,ORG,1551,1554,spacy
+la_e375ef0de5,GPUDirect,ORG,1561,1570,spacy
+la_e375ef0de5,NUMA,ORG,1672,1676,spacy
+la_e375ef0de5,CPU,ORG,1678,1681,spacy
+la_e375ef0de5,Kubernetes,ORG,2645,2655,spacy
+la_e375ef0de5,IP,ORG,2832,2834,spacy
+la_e375ef0de5,SSH,ORG,2858,2861,spacy
+la_e375ef0de5,discovery,PRODUCT,2895,2904,spacy
+la_e375ef0de5,PersistentVolumes,ORG,3211,3228,spacy
+la_e375ef0de5,Flannel,ORG,3985,3992,spacy
+la_e375ef0de5,IP Configurations for Azure VMSSes,ORG,4114,4148,spacy
+la_e375ef0de5,IP,ORG,4296,4298,spacy
+la_e375ef0de5,IP,ORG,4388,4390,spacy
+la_e375ef0de5,SDN,ORG,4625,4628,spacy
+la_e375ef0de5,Namespace,PERSON,5062,5071,spacy
+la_e375ef0de5,iptables mangle,ORG,5336,5351,spacy
+la_e375ef0de5,INPUT,ORG,5552,5557,spacy
+la_e375ef0de5,-A INPUT,PERSON,5624,5632,spacy
+la_e375ef0de5,-s,PERSON,5635,5637,spacy
+la_e375ef0de5,-s,PERSON,5751,5753,spacy
+la_e375ef0de5,K 555M,ORG,6392,6398,spacy
+la_e375ef0de5,K 7937M,ORG,6493,6500,spacy
+la_e375ef0de5,node,GPE,6910,6914,spacy
+la_e375ef0de5,NAT,ORG,7364,7367,spacy
+la_e375ef0de5,Kubernetes API Servers,PERSON,7645,7667,spacy
+la_e375ef0de5,Grafana,PERSON,7802,7809,spacy
+la_e375ef0de5,API Servers,ORG,8112,8123,spacy
+la_e375ef0de5,Kubernetes Events,ORG,8430,8447,spacy
+la_e375ef0de5,API Servers,PERSON,8507,8518,spacy
+la_e375ef0de5,API Servers,PERSON,8724,8735,spacy
+la_e375ef0de5,API Server,PRODUCT,8922,8932,spacy
+la_e375ef0de5,API Servers,PRODUCT,9056,9067,spacy
+la_e375ef0de5,Kubernetes,ORG,9539,9549,spacy
+la_e375ef0de5,API Server,ORG,9660,9670,spacy
+la_e375ef0de5,DaemonSets,ORG,9748,9758,spacy
+la_e375ef0de5,node,ORG,10214,10218,spacy
+la_e375ef0de5,Prometheus,PERSON,10406,10416,spacy
+la_e375ef0de5,Grafana,PERSON,10421,10428,spacy
+la_e375ef0de5,Prometheus,PERSON,10436,10446,spacy
+la_e375ef0de5,Grafana,PERSON,10482,10489,spacy
+la_e375ef0de5,Prometheus,PERSON,10848,10858,spacy
+la_e375ef0de5,Prometheus,PERSON,11040,11050,spacy
+la_e375ef0de5,Prometheus,PERSON,11182,11192,spacy
+la_e375ef0de5,Grafana,PERSON,11638,11645,spacy
+la_e375ef0de5,Prometheus,PERSON,11650,11660,spacy
+la_e375ef0de5,Grafana,PERSON,11668,11675,spacy
+la_e375ef0de5,Prometheus,PERSON,12099,12109,spacy
+la_e375ef0de5,Context,ORG,12211,12218,spacy
+la_e375ef0de5,Prometheus,PERSON,12272,12282,spacy
+la_e375ef0de5,WAL,ORG,12348,12351,spacy
+la_e375ef0de5,WAL,ORG,12431,12434,spacy
+la_e375ef0de5,Prometheus,PERSON,12447,12457,spacy
+la_e375ef0de5,Robust Perception,ORG,12526,12543,spacy
+la_e375ef0de5,WAL,ORG,12680,12683,spacy
+la_e375ef0de5,GPU,ORG,13256,13259,spacy
+la_e375ef0de5,Nvidia’s Data Center,ORG,13374,13394,spacy
+la_e375ef0de5,DCGM,ORG,13408,13412,spacy
+la_e375ef0de5,Xid,PRODUCT,13474,13477,spacy
+la_e375ef0de5,Prometheus,GPE,13591,13601,spacy
+la_e375ef0de5,GPU,ORG,13878,13881,spacy
+la_e375ef0de5,GPU,ORG,13949,13952,spacy
+la_e375ef0de5,GPU,ORG,14016,14019,spacy
+la_e375ef0de5,node,ORG,14394,14398,spacy
+la_e375ef0de5,node,GPE,14542,14546,spacy
+la_e375ef0de5,Pod Disruption Budget,ORG,14807,14828,spacy
+la_e375ef0de5,SLA,ORG,14971,14974,spacy
+la_e375ef0de5,GPU,ORG,15019,15022,spacy
+la_e375ef0de5,GPU,ORG,15051,15054,spacy
+la_e375ef0de5,DCGM,ORG,15104,15108,spacy
+la_e375ef0de5,GPU,ORG,15338,15341,spacy
+la_e375ef0de5,DaemonSet,ORG,15598,15607,spacy
+la_e375ef0de5,Quotas &,ORG,16151,16159,spacy
+la_e375ef0de5,Kubernetes,ORG,16444,16454,spacy
+la_e375ef0de5,Kubernetes,ORG,16571,16581,spacy
+la_e375ef0de5,ConfigMap,ORG,16715,16724,spacy
+la_e375ef0de5,node,ORG,16751,16755,spacy
+la_e375ef0de5,Kubernetes,ORG,17235,17245,spacy
+la_e375ef0de5,CPU & GPU,ORG,17426,17435,spacy
+la_e375ef0de5,max,PERSON,17679,17682,spacy
+la_e375ef0de5,CPU,ORG,18021,18024,spacy
+la_e375ef0de5,GPU,ORG,18034,18037,spacy
+la_e375ef0de5,ReplicaSet,PRODUCT,18072,18082,spacy
+la_e375ef0de5,max,PERSON,18089,18092,spacy
+la_e375ef0de5,node,GPE,18165,18169,spacy
+la_e375ef0de5,DaemonSet,ORG,18370,18379,spacy
+la_e375ef0de5,DaemonSet,ORG,18394,18403,spacy
+la_e375ef0de5,node,GPE,18440,18444,spacy
+la_e375ef0de5,Kubernetes,ORG,18576,18586,spacy
+la_e375ef0de5,Kubernetes 1.18,ORG,18703,18718,spacy
+la_e375ef0de5,Gang,PERSON,18720,18724,spacy
+la_e375ef0de5,StatefulSets,ORG,18778,18790,spacy
+la_e375ef0de5,StatefulSet,ORG,18903,18914,spacy
+la_e375ef0de5,MPI,ORG,19030,19033,spacy
+la_e375ef0de5,Kubernetes,ORG,19086,19096,spacy
+la_e375ef0de5,StatefulSet,ORG,19170,19181,spacy
+la_e375ef0de5,Kubernetes,ORG,19332,19342,spacy
+la_e375ef0de5,Kubernetes,ORG,19656,19666,spacy
+la_e375ef0de5,Kubernetes,ORG,19923,19933,spacy
+la_e375ef0de5,Prometheus,PERSON,20021,20031,spacy
+la_e375ef0de5,WAL,ORG,20130,20133,spacy
+la_e375ef0de5,Prometheus,PERSON,20309,20319,spacy
+la_e375ef0de5,Kubernetes,ORG,20849,20859,spacy
+la_e375ef0de5,OpenAI,ORG,21101,21107,rules
+la_e375ef0de5,Kubernetes,ORG,21137,21147,spacy
+la_e375ef0de5,OpenAI,ORG,21233,21239,rules
+la_e375ef0de5,CLIP,MODEL_AGENT,21241,21245,rules
+la_e375ef0de5,DALL·E,MODEL_AGENT,21250,21256,rules
+la_e375ef0de5,Eric Sigler,PERSON,21304,21315,spacy
+la_e375ef0de5,Benjamin Chess,PERSON,21317,21331,spacy
+la_e375ef0de5,Publication Jun,PRODUCT,21404,21419,spacy
+la_e375ef0de5,GPU,ORG,21460,21463,spacy
+la_e375ef0de5,"Release Jul 28,",ORG,21496,21511,spacy
+pa_7ab9c1a2df,Reinforcement Learning,ORG,694,716,spacy
+pa_7ab9c1a2df,RLTR,ORG,740,744,spacy
+pa_7ab9c1a2df,RLTR,ORG,887,891,spacy
+pa_7ab9c1a2df,RLTR,ORG,1199,1203,spacy
+re_75676be7db,Token,ORG,368,373,spacy
+re_75676be7db,FAQ,ORG,476,479,spacy
+re_75676be7db,@rickyloynd-microsoft @ragyabraham,ORG,662,696,spacy
+re_75676be7db,Headsup,PERSON,804,811,spacy
+re_75676be7db,@qingyun-wu,ORG,1725,1736,spacy
+re_75676be7db,@sonichi,ORG,2357,2365,spacy
+re_75676be7db,@sonichi,ORG,2512,2520,spacy
+re_75676be7db,@rickyloynd-microsoft,ORG,2911,2932,spacy
+re_75676be7db,@sonichi,ORG,3223,3231,spacy
+pa_8cf02d552d,Planner,ORG,849,856,spacy
+pa_8cf02d552d,OpenAI,ORG,1366,1372,rules
+pa_8cf02d552d,GPT-4o,MODEL_AGENT,1375,1381,rules
+pa_8cf02d552d,Function Calling,ORG,1733,1749,spacy
+pa_8cf02d552d,GeoJSON,GPE,1873,1880,spacy
+re_fea02de5e6,OpenAI,ORG,100,106,rules
+re_fea02de5e6,GroupChat,ORG,248,257,spacy
+re_fea02de5e6,@ekzhu,ORG,261,267,spacy
+re_fea02de5e6,Redis Memory,PERSON,306,318,spacy
+re_fea02de5e6,@justin,ORG,338,345,spacy
+re_fea02de5e6,MCP,MODEL_AGENT,381,384,rules
+re_fea02de5e6,@victordibia,ORG,418,430,spacy
+re_fea02de5e6,MCP,MODEL_AGENT,443,446,rules
+re_fea02de5e6,MCP,MODEL_AGENT,473,476,rules
+re_fea02de5e6,GraphRAG,GPE,533,541,spacy
+re_fea02de5e6,@victordibia,ORG,581,593,spacy
+re_fea02de5e6,OpenAI,ORG,794,800,rules
+re_fea02de5e6,@Copilot,ORG,813,821,spacy
+re_fea02de5e6,OpenAI,ORG,847,853,rules
+re_fea02de5e6,@ekzhu,ORG,944,950,spacy
+re_fea02de5e6,@Copilot,ORG,1120,1128,spacy
+re_fea02de5e6,@victordibia,ORG,1157,1169,spacy
+re_fea02de5e6,@victordibia,ORG,1214,1226,spacy
+re_fea02de5e6,MCP,MODEL_AGENT,1290,1293,rules
+re_fea02de5e6,MCP,MODEL_AGENT,1320,1323,rules
+re_fea02de5e6,@ekzhu,ORG,1459,1465,spacy
+re_fea02de5e6,OpenAI,ORG,1475,1481,rules
+re_fea02de5e6,AssistantAgent,ORG,1512,1526,spacy
+re_fea02de5e6,@Copilot,ORG,1556,1564,spacy
+re_fea02de5e6,Redis Memory,PERSON,1643,1655,spacy
+re_fea02de5e6,JSON,GPE,1736,1740,spacy
+re_fea02de5e6,OpenAI,ORG,1892,1898,rules
+re_fea02de5e6,@Copilot,ORG,1911,1919,spacy
+re_fea02de5e6,@victordibia,ORG,1961,1973,spacy
+re_fea02de5e6,@zrquan in * Update,ORG,2024,2043,spacy
+re_fea02de5e6,@ekzhu,ORG,2096,2102,spacy
+re_fea02de5e6,@zrquan,PERSON,2139,2146,spacy
+re_fea02de5e6,GroupChat,ORG,2190,2199,spacy
+re_fea02de5e6,@ekzhu,ORG,2203,2209,spacy
+re_fea02de5e6,@ekzhu,ORG,2242,2248,spacy
+re_fea02de5e6,@ekzhu,ORG,2289,2295,spacy
+re_fea02de5e6,@ekzhu,ORG,2328,2334,spacy
+re_fea02de5e6,@zrquan,PERSON,2645,2652,spacy
+la_2d5fba6a19,OpenAI,ORG,12,18,rules
+la_2d5fba6a19,OpenAI,ORG,68,74,rules
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,225,232,rules
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,252,259,rules
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,370,377,rules
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,390,397,rules
+la_2d5fba6a19,OpenAI,ORG,500,506,rules
+la_2d5fba6a19,Nonprofits,PERSON,511,521,spacy
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,640,647,rules
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,821,828,rules
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,1063,1070,rules
+la_2d5fba6a19,OpenAI,ORG,1146,1152,rules
+la_2d5fba6a19,Nonprofits,PERSON,1157,1167,spacy
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,1208,1215,rules
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,1235,1242,rules
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,1412,1419,rules
+la_2d5fba6a19,GPT‑4o,MODEL_AGENT,1522,1528,rules
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,1737,1744,rules
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,1807,1814,rules
+la_2d5fba6a19,OpenAI,ORG,2213,2219,rules
+la_2d5fba6a19,Serenas,PERSON,2295,2302,spacy
+la_2d5fba6a19,Brazil,GPE,2399,2405,spacy
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,2435,2442,rules
+la_2d5fba6a19,Serenas,GPE,2476,2483,spacy
+la_2d5fba6a19,Amanda Sadalla,PERSON,2696,2710,spacy
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,2782,2789,rules
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,2957,2964,rules
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,3197,3204,rules
+la_2d5fba6a19,South Africa,GPE,3481,3493,spacy
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,3567,3574,rules
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,3794,3801,rules
+la_2d5fba6a19,THINK,ORG,3871,3876,spacy
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,3923,3930,rules
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,4005,4012,rules
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,4164,4171,rules
+la_2d5fba6a19,South Africa,GPE,4205,4217,spacy
+la_2d5fba6a19,Team4Tech,GPE,4249,4258,spacy
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,4381,4388,rules
+la_2d5fba6a19,EdTech,ORG,4410,4416,spacy
+la_2d5fba6a19,Team4Tech,ORG,4607,4616,spacy
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,4622,4629,rules
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,4761,4768,rules
+la_2d5fba6a19,Jody Britten,PERSON,4846,4858,spacy
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,4914,4921,rules
+la_2d5fba6a19,OpenAI,ORG,5106,5112,rules
+la_2d5fba6a19,Nonprofits,PERSON,5117,5127,spacy
+la_2d5fba6a19,API Platform,PRODUCT,5184,5196,spacy
+la_2d5fba6a19,ChatGPT,MODEL_AGENT,5197,5204,rules
+la_2d5fba6a19,OpenAI,ORG,5217,5223,rules
+re_e8e4149b01,Significant-Gravitas,ORG,0,20,rules
+re_e8e4149b01,AutoGPT,MODEL_AGENT,21,28,rules
+re_e8e4149b01,@Swiftyos,PERSON,384,393,spacy
+re_e8e4149b01,YouTube,ORG,436,443,spacy
+re_e8e4149b01,@Copilot,ORG,468,476,spacy
+re_e8e4149b01,DataFast,PRODUCT,702,710,spacy
+re_e8e4149b01,Bug Fixes - *,PERSON,801,814,spacy
+re_e8e4149b01,Invalid,ORG,854,861,spacy
+re_e8e4149b01,@Pwuts,PERSON,1426,1432,spacy
+re_e8e4149b01,@Pwuts,PERSON,1494,1500,spacy
+re_e8e4149b01,@Pwuts,PERSON,1634,1640,spacy
+re_e8e4149b01,TextFormatter,ORG,1677,1690,spacy
+re_e8e4149b01,@Pwuts,PERSON,1790,1796,spacy
+re_e8e4149b01,@Pwuts,ORG,1933,1939,spacy
+re_e8e4149b01,Discord,ORG,2519,2526,spacy
+pa_6b359407c4,UAV,ORG,346,349,spacy
+pa_6b359407c4,Model Context Protocol,MODEL_AGENT,609,631,rules
+pa_6b359407c4,MCP,MODEL_AGENT,633,636,rules
+pa_6b359407c4,WS-PSO-CM,ORG,929,938,spacy
+pa_6b359407c4,PSO,ORG,1325,1328,spacy
+re_d4d09d1001,v0.2.0,PRODUCT,65,71,spacy
+re_d4d09d1001,Headsup,PERSON,73,80,spacy
+re_d4d09d1001,AutoGen,MODEL_AGENT,97,104,rules
+re_d4d09d1001,AutoGen Studio,MODEL_AGENT,134,148,rules
+re_d4d09d1001,AutoBuild,ORG,199,208,spacy
+re_d4d09d1001,AutoGen,MODEL_AGENT,434,441,rules
+re_d4d09d1001,GAIA,PERSON,826,830,spacy
+re_d4d09d1001,AutoGen Studio,MODEL_AGENT,991,1005,rules
+re_d4d09d1001,@victordibia @joshkyh,ORG,1450,1471,spacy
+re_d4d09d1001,@momuno,PERSON,1492,1499,spacy
+re_d4d09d1001,@rickyloynd-microsoft,ORG,1584,1605,spacy
+re_d4d09d1001,Issue-478,PERSON,1722,1731,spacy
+re_d4d09d1001,@qingyun-wu,ORG,1846,1857,spacy
+re_d4d09d1001,@rickyloynd-microsoft,ORG,1959,1980,spacy
+re_d4d09d1001,doc,ORG,2176,2179,spacy
+re_d4d09d1001,@sonichi,ORG,2383,2391,spacy
+re_d4d09d1001,AutoGen,MODEL_AGENT,2427,2434,rules
+re_d4d09d1001,AutoGen,MODEL_AGENT,2481,2488,rules
+re_d4d09d1001,@victordibia,ORG,2502,2514,spacy
+re_d4d09d1001,AutoGen,MODEL_AGENT,2611,2618,rules
+re_d4d09d1001,@victordibia,ORG,2632,2644,spacy
+re_d4d09d1001,@sonichi,ORG,2686,2694,spacy
+re_d4d09d1001,@qingyun-wu,ORG,2717,2728,spacy
+re_d4d09d1001,@qingyun-wu,ORG,2760,2771,spacy
+re_d4d09d1001,* Register,ORG,2856,2866,spacy
+re_d4d09d1001,@qingyun-wu,ORG,2985,2996,spacy
+re_d4d09d1001,AutoBuild,ORG,3010,3019,spacy
+re_d4d09d1001,@qingyun-wu,ORG,3123,3134,spacy
+re_d4d09d1001,AutoBuild,ORG,3140,3149,spacy
+re_d4d09d1001,gpt,ORG,3211,3214,spacy
+re_d4d09d1001,@IANTHEREAL,ORG,3243,3254,spacy
+re_d4d09d1001,@joshkyh,ORG,3475,3483,spacy
+re_d4d09d1001,AutoBuild,ORG,3504,3513,spacy
+re_d4d09d1001,@sonichi,ORG,3658,3666,spacy
+re_d4d09d1001,Testbed,ORG,3702,3709,spacy
+re_d4d09d1001,@momuno,ORG,3850,3857,spacy
+re_d4d09d1001,@sonichi,ORG,3897,3905,spacy
+re_8475575b7a,Significant-Gravitas,ORG,0,20,rules
+re_8475575b7a,AutoGPT,MODEL_AGENT,21,28,rules
+re_8475575b7a,@Swiftyos,PERSON,216,225,spacy
+re_8475575b7a,UI,ORG,366,368,spacy
+re_8475575b7a,GPT-5.1,MODEL_AGENT,563,570,rules
+re_8475575b7a,GPT-5.1-codex,MODEL_AGENT,575,588,rules
+re_8475575b7a,@Bentlybro,ORG,600,610,spacy
+re_8475575b7a,@Bentlybro,ORG,657,667,spacy
+re_8475575b7a,@Bentlybro,ORG,711,721,spacy
+re_8475575b7a,@Bentlybro,ORG,770,780,spacy
+re_8475575b7a,@Bentlybro,ORG,832,842,spacy
+re_8475575b7a,@Swiftyos,PERSON,1132,1141,spacy
+re_8475575b7a,UI/UX Improvements - *,ORG,1147,1169,spacy
+re_8475575b7a,Bug Fixes - *,PERSON,1380,1393,spacy
+re_8475575b7a,@Swiftyos,PERSON,1449,1458,spacy
+re_8475575b7a,@Pwuts,PERSON,1570,1576,spacy
+re_8475575b7a,@Swiftyos,PERSON,1962,1971,spacy
+re_8475575b7a,GitHub,ORG,2483,2489,spacy
+re_8475575b7a,@Pwuts,PERSON,2534,2540,spacy
+re_8475575b7a,Discord,ORG,3152,3159,spacy
+pa_8f971a6ec3,Random,ORG,822,828,spacy
+pa_8f971a6ec3,LPT,ORG,830,833,spacy
+pa_8f971a6ec3,SPT,ORG,835,838,spacy
+pa_8f971a6ec3,STPT,ORG,840,844,spacy
+pa_8f971a6ec3,MPSR,GPE,846,850,spacy
+pa_8f971a6ec3,DRL,ORG,852,855,spacy
+pa_8f971a6ec3,GP,ORG,861,863,spacy
+pa_8f971a6ec3,GEP,ORG,865,868,spacy
+pa_8f971a6ec3,DRL,ORG,885,888,spacy
+pa_8f971a6ec3,DRL-Zhang,ORG,895,904,spacy
+pa_8f971a6ec3,GPT-4o,MODEL_AGENT,982,988,rules
+pa_8f971a6ec3,Claude,MODEL_AGENT,990,996,rules
+pa_8f971a6ec3,DeepSeek-R1,MODEL_AGENT,1002,1013,rules
+pa_8f971a6ec3,LangGraph,MODEL_AGENT,1055,1064,rules
+pa_8f971a6ec3,AutoGen,MODEL_AGENT,1066,1073,rules
+pa_8f971a6ec3,CrewAI,MODEL_AGENT,1075,1081,rules
+pa_8f971a6ec3,Swarm,GPE,1087,1092,spacy
+re_cf52729f01,Significant-Gravitas,ORG,0,20,rules
+re_cf52729f01,AutoGPT,MODEL_AGENT,21,28,rules
+re_cf52729f01,Auto-GPT,MODEL_AGENT,29,37,rules
+re_cf52729f01,Challenges - Information,ORG,61,85,spacy
+re_cf52729f01,Log - Log,PERSON,427,436,spacy
+re_cf52729f01,Debug Folder,PERSON,559,571,spacy
+re_cf52729f01,Docker,PERSON,953,959,spacy
+re_cf52729f01,Plugins - Denylist,ORG,1254,1272,spacy
+re_cf52729f01,CI,ORG,1325,1327,spacy
+re_cf52729f01,CI,ORG,1502,1504,spacy
+re_cf52729f01,@Pwuts,PERSON,1716,1722,spacy
+re_cf52729f01,@ppetermann,ORG,1810,1821,spacy
+re_cf52729f01,Disable Commands,ORG,2051,2067,spacy
+re_cf52729f01,@Androbin,PERSON,2243,2252,spacy
+re_cf52729f01,@ambujpawar,ORG,2464,2475,spacy
+re_cf52729f01,Driver,PERSON,2498,2504,spacy
+re_cf52729f01,Debug Folder,PERSON,2736,2748,spacy
+re_cf52729f01,@minfenglu,ORG,3205,3215,spacy
+re_cf52729f01,@kristianjackson,ORG,3608,3624,spacy
+re_cf52729f01,@k,GPE,3879,3881,spacy
+re_cf52729f01,Config,PERSON,3984,3990,spacy
+re_cf52729f01,@Androbin,PERSON,3995,4004,spacy
+re_cf52729f01,@xhypeDE,ORG,4082,4090,spacy
+re_cf52729f01,@karimhabush,PERSON,4272,4284,spacy
+re_cf52729f01,Docker,PERSON,4321,4327,spacy
+re_cf52729f01,CI,ORG,4398,4400,spacy
+re_cf52729f01,@kristianjackson,ORG,5161,5177,spacy
+re_cf52729f01,@karimhabush,PERSON,5484,5496,spacy
+pa_518aeb01c3,CodePori,PRODUCT,1041,1049,spacy
+re_76721e1ec4,StructuredPrompt,ORG,174,190,spacy
+re_76721e1ec4,RootModel,PRODUCT,275,284,spacy
+re_76721e1ec4,OpenAI,ORG,486,492,rules
+la_b8fbaaa1a7,Loading,PERSON,232,239,spacy
+la_b8fbaaa1a7,Neural,ORG,265,271,spacy
+la_b8fbaaa1a7,Massively Multiplayer Online Games,ORG,1427,1461,spacy
+la_b8fbaaa1a7,MMOs,ORG,1463,1467,spacy
+la_b8fbaaa1a7,Neural,ORG,1623,1629,spacy
+la_b8fbaaa1a7,CPU,ORG,2180,2183,spacy
+la_b8fbaaa1a7,MMOs,ORG,2272,2276,spacy
+la_b8fbaaa1a7,Melee,PERSON,3438,3443,spacy
+la_b8fbaaa1a7,Range,PERSON,3445,3450,spacy
+la_b8fbaaa1a7,Mage,PERSON,3456,3460,spacy
+la_b8fbaaa1a7,OpenAI,ORG,4349,4355,rules
+la_b8fbaaa1a7,PyTorch,ORG,4482,4489,spacy
+la_b8fbaaa1a7,Ray,PERSON,4520,4523,spacy
+la_b8fbaaa1a7,MMO,ORG,5251,5254,spacy
+la_b8fbaaa1a7,Loading,PERSON,5739,5746,spacy
+la_b8fbaaa1a7,DeepMind,ORG,6574,6582,rules
+la_b8fbaaa1a7,bull,ORG,6990,6994,spacy
+la_b8fbaaa1a7,Our Neural,ORG,7244,7254,spacy
+la_b8fbaaa1a7,MMO,ORG,7255,7258,spacy
+la_b8fbaaa1a7,MMO,ORG,7377,7380,spacy
+la_b8fbaaa1a7,OpenAI,ORG,7739,7745,rules
+la_b8fbaaa1a7,OpenAI,ORG,7747,7753,rules
+la_b8fbaaa1a7,Joseph Suarez,PERSON,7850,7863,spacy
+la_b8fbaaa1a7,Yilun Du,PERSON,7865,7873,spacy
+la_b8fbaaa1a7,Phillip Isola,PERSON,7875,7888,spacy
+la_b8fbaaa1a7,Igor Mordatch Acknowledgments Thanks,ORG,7890,7926,spacy
+la_b8fbaaa1a7,Clare Zhu,PERSON,7930,7939,spacy
+la_b8fbaaa1a7,3D,ORG,7972,7974,spacy
+la_b8fbaaa1a7,Greg Brockman,PERSON,8048,8061,spacy
+la_b8fbaaa1a7,Jack Clark,PERSON,8079,8089,spacy
+la_b8fbaaa1a7,Ashley Pilipiszyn,PERSON,8091,8108,spacy
+la_b8fbaaa1a7,Ryan Lowe,PERSON,8110,8119,spacy
+la_b8fbaaa1a7,Julian Togelius,PERSON,8121,8136,spacy
+la_b8fbaaa1a7,Joel Liebo,PERSON,8138,8148,spacy
+la_b8fbaaa1a7,Cinjon Resnick,PERSON,8150,8164,spacy
+la_b8fbaaa1a7,Whisper,MODEL_AGENT,8204,8211,rules
+la_b8fbaaa1a7,Publication Jun,PRODUCT,8353,8368,spacy
+la_1be6d5a75d,Video PreTraining,ORG,100,117,spacy
+la_1be6d5a75d,Minecraft,PRODUCT,170,179,spacy
+la_359738e7b0,OpenAI,ORG,0,6,rules
+la_359738e7b0,OpenAI,ORG,67,73,rules
+la_359738e7b0,Healthcare Secure AI,ORG,78,98,spacy
+la_359738e7b0,OpenAI,ORG,316,322,rules
+la_359738e7b0,Healthcare,ORG,327,337,spacy
+la_359738e7b0,HIPAA,ORG,478,483,spacy
+la_359738e7b0,ChatGPT,MODEL_AGENT,523,530,rules
+la_359738e7b0,Healthcare,ORG,535,545,spacy
+la_359738e7b0,AdventHealth,ORG,626,638,spacy
+la_359738e7b0,Boston Children’s Hospital,ORG,669,695,spacy
+la_359738e7b0,Cedars-Sinai Medical Center,ORG,697,724,spacy
+la_359738e7b0,HCA Healthcare,ORG,726,740,spacy
+la_359738e7b0,Memorial Sloan Kettering Cancer Center,ORG,742,780,spacy
+la_359738e7b0,Stanford,ORG,782,790,rules
+la_359738e7b0,University of California,ORG,823,847,spacy
+la_359738e7b0,San Francisco,GPE,849,862,spacy
+la_359738e7b0,UCSF,ORG,864,868,spacy
+la_359738e7b0,OpenAI,ORG,892,898,rules
+la_359738e7b0,Abridge,PERSON,1041,1048,spacy
+la_359738e7b0,EliseAI,PERSON,1064,1071,spacy
+la_359738e7b0,Healthcare,ORG,1073,1083,spacy
+la_359738e7b0,the American Medical Association,ORG,1577,1609,spacy
+la_359738e7b0,OpenAI,ORG,1860,1866,rules
+la_359738e7b0,Healthcare,ORG,1871,1881,spacy
+la_359738e7b0,ChatGPT,MODEL_AGENT,2078,2085,rules
+la_359738e7b0,Healthcare,ORG,2090,2100,spacy
+la_359738e7b0,ChatGPT,MODEL_AGENT,2101,2108,rules
+la_359738e7b0,Healthcare,ORG,2113,2123,spacy
+la_359738e7b0,GPT‑5,MODEL_AGENT,2593,2598,rules
+la_359738e7b0,HealthBench,ORG,2719,2730,spacy
+la_359738e7b0,Microsoft,ORG,3271,3280,rules
+la_359738e7b0,SCIM,ORG,3977,3981,spacy
+la_359738e7b0,PHI,ORG,4189,4192,spacy
+la_359738e7b0,OpenAI,ORG,4358,4364,rules
+la_359738e7b0,Content,ORG,4397,4404,spacy
+la_359738e7b0,ChatGPT,MODEL_AGENT,4417,4424,rules
+la_359738e7b0,Healthcare,ORG,4429,4439,spacy
+la_359738e7b0,ChatGPT,MODEL_AGENT,4623,4630,rules
+la_359738e7b0,Healthcare,ORG,4635,4645,spacy
+la_359738e7b0,OpenAI,ORG,5104,5110,rules
+la_359738e7b0,ChatGPT,MODEL_AGENT,5217,5224,rules
+la_359738e7b0,Healthcare,ORG,5229,5239,spacy
+la_359738e7b0,Healthcare,ORG,5285,5295,spacy
+la_359738e7b0,ChatGPT,MODEL_AGENT,5426,5433,rules
+la_359738e7b0,Healthcare,ORG,5438,5448,spacy
+la_359738e7b0,OpenAI,ORG,5469,5475,rules
+la_359738e7b0,OpenAI,ORG,5504,5510,rules
+la_359738e7b0,GPT‑5.2,MODEL_AGENT,5598,5605,rules
+la_359738e7b0,a Business Associate Agreement,ORG,5700,5730,spacy
+la_359738e7b0,OpenAI,ORG,5742,5748,rules
+la_359738e7b0,HIPAA,ORG,5760,5765,spacy
+la_359738e7b0,Abridge,PERSON,5965,5972,spacy
+la_359738e7b0,EliseAI,PERSON,5988,5995,spacy
+la_359738e7b0,OpenAI,ORG,6382,6388,rules
+la_359738e7b0,Healthcare,ORG,6393,6403,spacy
+la_359738e7b0,GPT‑5.2,MODEL_AGENT,6428,6435,rules
+la_359738e7b0,OpenAI,ORG,6469,6475,rules
+la_359738e7b0,ChatGPT,MODEL_AGENT,6993,7000,rules
+la_359738e7b0,Healthcare,ORG,7005,7015,spacy
+la_359738e7b0,Penda Health,ORG,7217,7229,spacy
+la_359738e7b0,OpenAI,GPE,7244,7250,spacy
+la_359738e7b0,HealthBench,ORG,7485,7496,spacy
+la_359738e7b0,GPT‑5.2,MODEL_AGENT,7887,7894,rules
+la_359738e7b0,GPT‑5.2,MODEL_AGENT,7994,8001,rules
+la_359738e7b0,HealthBench Consensus,ORG,8084,8105,spacy
+la_359738e7b0,GPT‑5.2,MODEL_AGENT,8267,8274,rules
+la_359738e7b0,OpenAI,ORG,8377,8383,rules
+la_359738e7b0,OpenAI,ORG,8432,8438,rules
+la_359738e7b0,biopharma,GPE,8474,8483,spacy
+la_359738e7b0,ChatGPT,MODEL_AGENT,8532,8539,rules
+la_359738e7b0,Retro Biosciences ⁠,ORG,8717,8736,spacy
+la_359738e7b0,Amgen,ORG,8794,8799,spacy
+la_359738e7b0,Thermo Fisher,ORG,8804,8817,spacy
+la_359738e7b0,Moderna,PERSON,8846,8853,spacy
+la_359738e7b0,Boston Consulting Group,ORG,8956,8979,spacy
+la_359738e7b0,"Bain, McKinsey & Company",ORG,8987,9011,spacy
+la_359738e7b0,OpenAI,ORG,9081,9087,rules
+la_359738e7b0,OpenAI,ORG,9282,9288,rules
+la_359738e7b0,Healthcare,ORG,9293,9303,spacy
+la_359738e7b0,OpenAI,ORG,9402,9408,rules
+la_359738e7b0,Healthcare,ORG,9413,9423,spacy
+la_359738e7b0,ChatGPT,MODEL_AGENT,9451,9458,rules
+la_359738e7b0,API Platform Author,PRODUCT,9459,9478,spacy
+la_359738e7b0,OpenAI,ORG,9479,9485,rules
+la_359738e7b0,OpenAI,ORG,9642,9648,rules
+la_359738e7b0,ServiceNow,ORG,9653,9663,spacy
+la_c3086d499c,GPT-5.4 mini,MODEL_AGENT,12,24,rules
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,78,90,rules
+la_c3086d499c,Loading,PERSON,161,168,spacy
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,198,210,rules
+la_c3086d499c,GPT‑5.4,MODEL_AGENT,292,299,rules
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,369,381,rules
+la_c3086d499c,GPT‑5 mini,MODEL_AGENT,410,420,rules
+la_c3086d499c,GPT‑5.4,MODEL_AGENT,571,578,rules
+la_c3086d499c,SWE-Bench Pro,PRODUCT,619,632,spacy
+la_c3086d499c,GPT‑5.4 nano,MODEL_AGENT,655,667,rules
+la_c3086d499c,GPT‑5.4,MODEL_AGENT,705,712,rules
+la_c3086d499c,GPT‑5 nano,MODEL_AGENT,795,805,rules
+la_c3086d499c,GPT-5.4,MODEL_AGENT,1439,1446,rules
+la_c3086d499c,xhigh,ORG,1448,1453,spacy
+la_c3086d499c,GPT-5.4 mini,MODEL_AGENT,1455,1467,rules
+la_c3086d499c,GPT-5.4 nano,MODEL_AGENT,1476,1488,rules
+la_c3086d499c,GPT-5 mini,MODEL_AGENT,1497,1507,rules
+la_c3086d499c,high¹,ORG,1509,1514,spacy
+la_c3086d499c,Terminal-Bench,ORG,1563,1577,spacy
+la_c3086d499c,Diamond,ORG,1646,1653,spacy
+la_c3086d499c,GPT‑5 mini,MODEL_AGENT,1764,1774,rules
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,1832,1844,rules
+la_c3086d499c,Coding,ORG,1874,1880,spacy
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,1881,1893,rules
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,2214,2226,rules
+la_c3086d499c,GPT‑5,MODEL_AGENT,2252,2257,rules
+la_c3086d499c,GPT‑5.4,MODEL_AGENT,2299,2306,rules
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,2936,2948,rules
+la_c3086d499c,Codex,MODEL_AGENT,3025,3030,rules
+la_c3086d499c,GPT‑5.4,MODEL_AGENT,3065,3072,rules
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,3148,3160,rules
+la_c3086d499c,Codex,MODEL_AGENT,3328,3333,rules
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,3611,3623,rules
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,3697,3709,rules
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,3923,3935,rules
+la_c3086d499c,GPT‑5.4,MODEL_AGENT,3947,3954,rules
+la_c3086d499c,GPT‑5 mini,MODEL_AGENT,3989,3999,rules
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,4024,4036,rules
+la_c3086d499c,Codex,MODEL_AGENT,4068,4073,rules
+la_c3086d499c,ChatGPT,MODEL_AGENT,4079,4086,rules
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,4100,4112,rules
+la_c3086d499c,400k,PRODUCT,4233,4237,spacy
+la_c3086d499c,1M,PRODUCT,4303,4305,spacy
+la_c3086d499c,Codex,MODEL_AGENT,4324,4329,rules
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,4331,4343,rules
+la_c3086d499c,Codex,MODEL_AGENT,4368,4373,rules
+la_c3086d499c,CLI,ORG,4379,4382,spacy
+la_c3086d499c,GPT‑5.4,MODEL_AGENT,4431,4438,rules
+la_c3086d499c,Codex,MODEL_AGENT,4504,4509,rules
+la_c3086d499c,Codex,MODEL_AGENT,4540,4545,rules
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,4567,4579,rules
+la_c3086d499c,ChatGPT,MODEL_AGENT,4658,4665,rules
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,4667,4679,rules
+la_c3086d499c,GPT‑5.4 mini,MODEL_AGENT,4777,4789,rules
+la_c3086d499c,GPT‑5.4,MODEL_AGENT,4832,4839,rules
+la_c3086d499c,GPT‑5.4 nano,MODEL_AGENT,4850,4862,rules
+la_c3086d499c,1M,PRODUCT,4942,4944,spacy
+la_c3086d499c,GPT-5.4,MODEL_AGENT,5114,5121,rules
+la_c3086d499c,GPT-5.4 mini,MODEL_AGENT,5130,5142,rules
+la_c3086d499c,GPT-5.4 nano,MODEL_AGENT,5151,5163,rules
+la_c3086d499c,GPT-5 mini,MODEL_AGENT,5172,5182,rules
+la_c3086d499c,high¹,ORG,5184,5189,spacy
+la_c3086d499c,SWE-bench,MODEL_AGENT,5191,5200,rules
+la_c3086d499c,Pro (Public,ORG,5201,5212,spacy
+la_c3086d499c,Terminal-Bench,ORG,5238,5252,spacy
+la_c3086d499c,GPT-5.4,MODEL_AGENT,5294,5301,rules
+la_c3086d499c,GPT-5.4 mini,MODEL_AGENT,5310,5322,rules
+la_c3086d499c,GPT-5.4 nano,MODEL_AGENT,5331,5343,rules
+la_c3086d499c,GPT-5 mini,MODEL_AGENT,5352,5362,rules
+la_c3086d499c,high¹,ORG,5364,5369,spacy
+la_c3086d499c,MCP,MODEL_AGENT,5371,5374,rules
+la_c3086d499c,GPT-5.4,MODEL_AGENT,5496,5503,rules
+la_c3086d499c,GPT-5.4 mini,MODEL_AGENT,5512,5524,rules
+la_c3086d499c,GPT-5.4 nano,MODEL_AGENT,5533,5545,rules
+la_c3086d499c,GPT-5 mini,MODEL_AGENT,5554,5564,rules
+la_c3086d499c,high¹,ORG,5566,5571,spacy
+la_c3086d499c,Diamond,ORG,5578,5585,spacy
+la_c3086d499c,GPT-5.4,MODEL_AGENT,5702,5709,rules
+la_c3086d499c,GPT-5.4 mini,MODEL_AGENT,5718,5730,rules
+la_c3086d499c,GPT-5.4 nano,MODEL_AGENT,5739,5751,rules
+la_c3086d499c,GPT-5 mini,MODEL_AGENT,5760,5770,rules
+la_c3086d499c,GPT-5.4,MODEL_AGENT,5981,5988,rules
+la_c3086d499c,GPT-5.4 mini,MODEL_AGENT,5997,6009,rules
+la_c3086d499c,GPT-5.4 nano,MODEL_AGENT,6018,6030,rules
+la_c3086d499c,GPT-5 mini,MODEL_AGENT,6039,6049,rules
+la_c3086d499c,high¹,ORG,6051,6056,spacy
+la_c3086d499c,OpenAI,ORG,6058,6064,rules
+la_c3086d499c,MRCR,ORG,6065,6069,spacy
+la_c3086d499c,OpenAI,ORG,6115,6121,rules
+la_c3086d499c,MRCR,ORG,6122,6126,spacy
+la_c3086d499c,0–128K,ORG,6239,6245,spacy
+la_c3086d499c,GPT‑5 mini,MODEL_AGENT,6326,6336,rules
+la_c3086d499c,OpenAI,ORG,6488,6494,rules
+la_c3086d499c,OpenAI,ORG,6651,6657,rules
+la_c3086d499c,ServiceNow,ORG,6662,6672,spacy
+re_f6a082d95f,Significant-Gravitas,ORG,0,20,rules
+re_f6a082d95f,AutoGPT,MODEL_AGENT,21,28,rules
+re_f6a082d95f,AutoGPT,MODEL_AGENT,29,36,rules
+re_f6a082d95f,MCP,MODEL_AGENT,154,157,rules
+re_f6a082d95f,CoPilot,PERSON,521,528,spacy
+re_f6a082d95f,Langfuse,ORG,1079,1087,spacy
+re_f6a082d95f,Claude,MODEL_AGENT,1202,1208,rules
+re_f6a082d95f,SDK,ORG,1236,1239,spacy
+re_f6a082d95f,Claude,MODEL_AGENT,1530,1536,rules
+re_f6a082d95f,@eureka928,PERSON,1654,1664,spacy
+re_f6a082d95f,TTS,ORG,1689,1692,spacy
+re_f6a082d95f,UI/UX Improvements - *,ORG,1884,1906,spacy
+re_f6a082d95f,Autopilot,ORG,2023,2032,spacy
+re_f6a082d95f,Bug Fixes - *,PERSON,2149,2162,spacy
+re_f6a082d95f,Google,ORG,2179,2185,rules
+re_f6a082d95f,+ Chromium,ORG,2535,2545,spacy
+re_f6a082d95f,Docker,PERSON,2549,2555,spacy
+re_f6a082d95f,@Bentlybro,ORG,2821,2831,spacy
+re_f6a082d95f,SDK,ORG,3042,3045,spacy
+re_f6a082d95f,node layout,PERSON,3296,3307,spacy
+re_f6a082d95f,@Bentlybro,ORG,3578,3588,spacy
+re_f6a082d95f,Gemini,MODEL_AGENT,3790,3796,rules
+re_f6a082d95f,@Bentlybro,ORG,3856,3866,spacy
+re_f6a082d95f,HTML,ORG,3899,3903,spacy
+re_f6a082d95f,MCP,MODEL_AGENT,3980,3983,rules
+re_f6a082d95f,Supabase,ORG,4230,4238,spacy
+re_f6a082d95f,@Pwuts,GPE,4295,4301,spacy
+re_f6a082d95f,PerplexityBlocks,ORG,4364,4380,spacy
+re_f6a082d95f,Otto Server Action,PERSON,4423,4441,spacy
+re_f6a082d95f,@Bentlybro,ORG,4467,4477,spacy
+re_f6a082d95f,Google,ORG,4534,4540,rules
+re_f6a082d95f,Gemini,MODEL_AGENT,4541,4547,rules
+re_f6a082d95f,Claude Sonnet 4.6,MODEL_AGENT,4806,4823,rules
+re_f6a082d95f,@Bentlybro,ORG,4834,4844,spacy
+re_f6a082d95f,Mistral ,MODEL_AGENT,4865,4873,rules
+re_f6a082d95f,Codestral,ORG,4922,4931,spacy
+re_f6a082d95f,@Bentlybro,ORG,4937,4947,spacy
+re_f6a082d95f,Grok,MODEL_AGENT,4968,4972,rules
+re_f6a082d95f,@Bentlybro,ORG,4993,5003,spacy
+re_f6a082d95f,@Bentlybro,ORG,5065,5075,spacy
+re_f6a082d95f,Microsoft,ORG,5096,5105,rules
+re_f6a082d95f,@Bentlybro,ORG,5130,5140,spacy
+re_f6a082d95f,Cohere,ORG,5161,5167,rules
+re_f6a082d95f,@Bentlybro,ORG,5196,5206,spacy
+re_f6a082d95f,Marketplace DB layer & API,ORG,5334,5360,spacy
+re_f6a082d95f,@Pwuts,PERSON,5365,5371,spacy
+pa_a7d2e7274d,Language Model,PERSON,119,133,spacy
+pa_a7d2e7274d,AgentGen,ORG,1097,1105,spacy
+pa_a7d2e7274d,Bi-Evol,ORG,1540,1547,spacy
+pa_a7d2e7274d,AgentBoard,ORG,1706,1716,spacy
+pa_a7d2e7274d,AgentGen,ORG,1727,1735,spacy
+pa_a7d2e7274d,AgentGen,ORG,1787,1795,spacy
+pa_a7d2e7274d,Llama-3.1-8B,MODEL_AGENT,1814,1826,rules
+pa_a7d2e7274d,GPT-3.5,MODEL_AGENT,1837,1844,rules
+pa_a7d2e7274d,AgentGen,ORG,1883,1891,spacy
+pa_a7d2e7274d,Llama-3.1-70B,MODEL_AGENT,1898,1911,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,0,7,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,40,47,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,107,114,rules
+la_bbf31f939c,Loading,PERSON,147,154,spacy
+la_bbf31f939c,ChatGPT,MODEL_AGENT,213,220,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,271,278,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,382,389,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,558,565,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,772,779,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,1141,1148,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,1474,1481,rules
+la_bbf31f939c,Expedia,PERSON,1665,1672,spacy
+la_bbf31f939c,FiscalNote,ORG,1701,1711,spacy
+la_bbf31f939c,Instacart,ORG,1740,1749,spacy
+la_bbf31f939c,KAYAK,ORG,1778,1783,spacy
+la_bbf31f939c,Klarna,PERSON,1812,1818,spacy
+la_bbf31f939c,Milo,ORG,1847,1851,spacy
+la_bbf31f939c,OpenTable,ORG,1880,1889,spacy
+la_bbf31f939c,Shopify,GPE,1918,1925,spacy
+la_bbf31f939c,Slack,ORG,1954,1959,spacy
+la_bbf31f939c,Speak,GPE,1988,1993,spacy
+la_bbf31f939c,Wolfram,PERSON,2022,2029,spacy
+la_bbf31f939c,Zapier,ORG,2062,2068,spacy
+la_bbf31f939c,ChatGPT,MODEL_AGENT,2376,2383,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,2550,2557,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,3796,3803,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,3826,3833,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,3944,3951,rules
+la_bbf31f939c,OpenAI,ORG,4118,4124,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,4188,4195,rules
+la_bbf31f939c,GPT‑4,MODEL_AGENT,5053,5058,rules
+la_bbf31f939c,Researcher Access Program,ORG,6731,6756,spacy
+la_bbf31f939c,Evals,ORG,6899,6904,spacy
+la_bbf31f939c,Plugins,PERSON,6943,6950,spacy
+la_bbf31f939c,ChatGPT,MODEL_AGENT,8076,8083,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,8249,8256,rules
+la_bbf31f939c,Oscars,ORG,8303,8309,spacy
+la_bbf31f939c,ChatGPT,MODEL_AGENT,8342,8349,rules
+la_bbf31f939c,GET,ORG,8875,8878,spacy
+la_bbf31f939c,Bing,PERSON,9209,9213,spacy
+la_bbf31f939c,Microsoft,ORG,9272,9281,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,9460,9467,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,9641,9648,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,9931,9938,rules
+la_bbf31f939c,IP,ORG,10035,10037,spacy
+la_bbf31f939c,ChatGPT,MODEL_AGENT,10266,10273,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,12552,12559,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,12957,12964,rules
+la_bbf31f939c,OpenAI,ORG,12987,12993,rules
+la_bbf31f939c,Milvus,PERSON,13083,13089,spacy
+la_bbf31f939c,Qdrant,ORG,13155,13161,spacy
+la_bbf31f939c,Redis,PERSON,13190,13195,spacy
+la_bbf31f939c,Weaviate,PERSON,13224,13232,spacy
+la_bbf31f939c,Zilliz,PERSON,13262,13268,spacy
+la_bbf31f939c,ChatGPT,MODEL_AGENT,13537,13544,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,13619,13626,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,13857,13864,rules
+la_bbf31f939c,ChatGPT,MODEL_AGENT,15655,15662,rules
+la_bbf31f939c,OpenAI,ORG,15675,15681,rules
+la_bbf31f939c,Ilge Akkaya,PERSON,15713,15724,spacy
+la_bbf31f939c,Valerie Balcom,PERSON,15726,15740,spacy
+la_bbf31f939c,Gabriel Bernadett-Shapiro,PERSON,15755,15780,spacy
+la_bbf31f939c,Greg Brockman,PERSON,15782,15795,spacy
+la_bbf31f939c,Miles Brundage,PERSON,15797,15811,spacy
+la_bbf31f939c,Jeff Chan,PERSON,15813,15822,spacy
+la_bbf31f939c,Fotis Chantzis,PERSON,15824,15838,spacy
+la_bbf31f939c,Noah Deutsch,PERSON,15840,15852,spacy
+la_bbf31f939c,Brydon Eastman,PERSON,15854,15868,spacy
+la_bbf31f939c,Atty Eleti,PERSON,15870,15880,spacy
+la_bbf31f939c,Niko Felix,GPE,15882,15892,spacy
+la_bbf31f939c,Simón Posada Fishman,ORG,15894,15914,spacy
+la_bbf31f939c,Isa Fulford,GPE,15916,15927,spacy
+la_bbf31f939c,Christian Gibson,PERSON,15929,15945,spacy
+la_bbf31f939c,Joshua Gross,PERSON,15947,15959,spacy
+la_bbf31f939c,Mike Heaton,PERSON,15961,15972,spacy
+la_bbf31f939c,Jacob Hilton,PERSON,15974,15986,spacy
+la_bbf31f939c,Xin Hu,PERSON,15988,15994,spacy
+la_bbf31f939c,Shawn Jain,PERSON,15996,16006,spacy
+la_bbf31f939c,Joy Jiao,PERSON,16008,16016,spacy
+la_bbf31f939c,Haozhun Jin,PERSON,16018,16029,spacy
+la_bbf31f939c,Logan Kilpatrick,PERSON,16031,16047,spacy
+la_bbf31f939c,Christina Kim,PERSON,16049,16062,spacy
+la_bbf31f939c,Michael Kolhede,PERSON,16064,16079,spacy
+la_bbf31f939c,Andrew Mayne,PERSON,16081,16093,spacy
+la_bbf31f939c,Paul McMillan,PERSON,16095,16108,spacy
+la_bbf31f939c,David Medina,PERSON,16110,16122,spacy
+la_bbf31f939c,Jacob Menick,PERSON,16124,16136,spacy
+la_bbf31f939c,Andrey Mishchenko,PERSON,16138,16155,spacy
+la_bbf31f939c,Ashvin Nair,PERSON,16157,16168,spacy
+la_bbf31f939c,Rajeev Nayak,PERSON,16170,16182,spacy
+la_bbf31f939c,Arvind Neelakantan,PERSON,16184,16202,spacy
+la_bbf31f939c,Rohan Nuttall,PERSON,16204,16217,spacy
+la_bbf31f939c,Joel Parish,PERSON,16219,16230,spacy
+la_bbf31f939c,Alex Tachard Passos,PERSON,16232,16251,spacy
+la_bbf31f939c,Adam Perelman,PERSON,16253,16266,spacy
+la_bbf31f939c,Filipe de Avila Belbute Peres,ORG,16268,16297,spacy
+la_bbf31f939c,Vitchyr Pong,PERSON,16299,16311,spacy
+la_bbf31f939c,John Schulman,PERSON,16313,16326,spacy
+la_bbf31f939c,Eric Sigler,PERSON,16328,16339,spacy
+la_bbf31f939c,Natalie Staudacher,PERSON,16341,16359,spacy
+la_bbf31f939c,Nicholas Turley,PERSON,16361,16376,spacy
+la_bbf31f939c,Jerry Tworek,PERSON,16378,16390,spacy
+la_bbf31f939c,Ryan Greene,PERSON,16392,16403,spacy
+la_bbf31f939c,Arun Vijayvergiya,PERSON,16405,16422,spacy
+la_bbf31f939c,Chelsea Voss,ORG,16424,16436,spacy
+la_bbf31f939c,Jiayi Weng,PERSON,16438,16448,spacy
+la_bbf31f939c,Matt Wiethoff,PERSON,16450,16463,spacy
+la_bbf31f939c,Sarah Yoo,PERSON,16465,16474,spacy
+la_bbf31f939c,Kevin Yu,PERSON,16476,16484,spacy
+la_bbf31f939c,Wojciech Zaremba,PERSON,16486,16502,spacy
+la_bbf31f939c,Shengjia Zhao,PERSON,16504,16517,spacy
+la_bbf31f939c,Will Zhuk,PERSON,16519,16528,spacy
+la_bbf31f939c,Barret Zoph Related,PERSON,16530,16549,spacy
+la_bbf31f939c,Le Monde,ORG,16594,16602,spacy
+la_bbf31f939c,Prisa Media Company Mar,ORG,16607,16630,spacy
+la_bbf31f939c,2024 Review completed & Altman,ORG,16635,16665,spacy
+la_bbf31f939c,Brockman,ORG,16667,16675,spacy
+la_bbf31f939c,OpenAI,ORG,16696,16702,rules
+la_bbf31f939c,"Mar 8, 2024",PERSON,16711,16722,spacy
+la_bbf31f939c,OpenAI,ORG,16723,16729,rules
+la_bbf31f939c,"Mar 8,",PERSON,16782,16788,spacy
+re_c73111ab4e,crewAIInc,ORG,0,9,rules
+re_c73111ab4e,ko,PERSON,288,290,spacy
+re_c73111ab4e,Bug Fixes - Fix,PERSON,307,322,spacy
+re_c73111ab4e,metadata merge - Fix,PERSON,443,463,spacy
+re_c73111ab4e,@renatonitta,ORG,858,870,spacy
+re_c01b9a7861,Significant-Gravitas,ORG,0,20,rules
+re_c01b9a7861,AutoGPT,MODEL_AGENT,21,28,rules
+re_c01b9a7861,SearchPeopleBlock &,ORG,208,227,spacy
+re_c01b9a7861,LLM & SmartDecision,ORG,340,359,spacy
+re_c01b9a7861,@Torantulino,GPE,581,593,spacy
+re_c01b9a7861,basic.py,PERSON,652,660,spacy
+re_c01b9a7861,@Torantulino,GPE,665,677,spacy
+re_c01b9a7861,@Pwuts,PERSON,909,915,spacy
+re_c01b9a7861,@Pwuts,PERSON,976,982,spacy
+re_c01b9a7861,BasicAuth,ORG,1015,1024,spacy
+re_c01b9a7861,GoogleSheets,ORG,1189,1201,spacy
+re_c01b9a7861,UI/UX Improvements - *,ORG,1322,1344,spacy
+re_c01b9a7861,Bug Fixes - *,PERSON,1597,1610,spacy
+re_c01b9a7861,@Pwuts,PERSON,1675,1681,spacy
+re_c01b9a7861,@Pwuts,PERSON,1981,1987,spacy
+re_c01b9a7861,CI,ORG,2501,2503,spacy
+re_c01b9a7861,@souhailaS,GPE,2530,2540,spacy
+re_c01b9a7861,@Bentlybro,ORG,2608,2618,spacy
+re_c01b9a7861,@souhailaS,GPE,2761,2771,spacy
+re_c01b9a7861,Discord,ORG,3243,3250,spacy
+re_6a152a8223,crewAIInc,ORG,0,9,rules
+re_6a152a8223,A2A,MODEL_AGENT,61,64,rules
+re_6a152a8223,A2A,MODEL_AGENT,96,99,rules
+re_6a152a8223,A2A,MODEL_AGENT,164,167,rules
+re_6a152a8223,Galileo,PRODUCT,185,192,spacy
+re_6a152a8223,Bug Fixes - Enhance,PERSON,218,237,spacy
+re_6a152a8223,A2A,MODEL_AGENT,519,522,rules
+re_6a152a8223,A2A,MODEL_AGENT,568,571,rules
+re_6a152a8223,PII,ORG,626,629,spacy
+re_6a152a8223,@joaomdmoura,ORG,704,716,spacy
+re_6a152a8223,@koushiv777,ORG,718,729,spacy
+la_354f2a89c1,OpenAI,ORG,0,6,rules
+la_354f2a89c1,OpenAI,ORG,61,67,rules
+la_354f2a89c1,OpenAI,ORG,157,163,rules
+la_354f2a89c1,OpenAI,ORG,626,632,rules
+la_354f2a89c1,o1,MODEL_AGENT,656,658,rules
+la_354f2a89c1,OpenAI,ORG,1624,1630,rules
+la_354f2a89c1,OpenAI,ORG,1638,1644,rules
+la_354f2a89c1,OpenAI,ORG,1979,1985,rules
+la_354f2a89c1,OpenAI,ORG,2034,2040,rules
+la_354f2a89c1,OpenAI,ORG,2060,2066,rules
+la_354f2a89c1,o1,MODEL_AGENT,2293,2295,rules
+la_354f2a89c1,Select Public Data,ORG,2853,2871,spacy
+la_354f2a89c1,Proprietary Data,ORG,3206,3222,spacy
+la_354f2a89c1,Data Partnerships,ORG,3228,3245,spacy
+la_354f2a89c1,Data Filtering and Refinement:,ORG,3559,3589,spacy
+la_354f2a89c1,Moderation API,PERSON,3830,3844,spacy
+la_354f2a89c1,CSAM,ORG,3957,3961,spacy
+la_354f2a89c1,o1,MODEL_AGENT,4154,4156,rules
+la_354f2a89c1,C Observed,ORG,5007,5017,spacy
+la_354f2a89c1,o1,MODEL_AGENT,5221,5223,rules
+la_354f2a89c1,OpenAI,ORG,5374,5380,rules
+la_354f2a89c1,o1,MODEL_AGENT,5518,5520,rules
+la_354f2a89c1,o1,MODEL_AGENT,6362,6364,rules
+la_354f2a89c1,the U.S. AI Safety Institute,ORG,6374,6402,spacy
+la_354f2a89c1,US,GPE,6404,6406,spacy
+la_354f2a89c1,the UK Safety Institute,ORG,6417,6440,spacy
+la_354f2a89c1,UK,GPE,6442,6444,spacy
+la_354f2a89c1,o1,MODEL_AGENT,7290,7292,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,7308,7314,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,7886,7892,rules
+la_354f2a89c1,o1,MODEL_AGENT,7905,7907,rules
+la_354f2a89c1,1M,PRODUCT,8189,8191,spacy
+la_354f2a89c1,ChatGPT,MODEL_AGENT,8192,8199,rules
+la_354f2a89c1,ModAPI,PERSON,8227,8233,spacy
+la_354f2a89c1,ModAPI,PERSON,8251,8257,spacy
+la_354f2a89c1,ModAPI,PERSON,8317,8323,spacy
+la_354f2a89c1,XSTest,ORG,8385,8391,spacy
+la_354f2a89c1,OpenAI,ORG,8620,8626,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,8777,8783,rules
+la_354f2a89c1,Appendix,PERSON,8851,8859,spacy
+la_354f2a89c1,o1,MODEL_AGENT,8882,8884,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,8930,8936,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,9022,9028,rules
+la_354f2a89c1,GPT-4o,MODEL_AGENT,9140,9146,rules
+la_354f2a89c1,Standard Refusal Evaluation,ORG,9169,9196,spacy
+la_354f2a89c1,0.995 0.99,PRODUCT,9218,9228,spacy
+la_354f2a89c1,XSTest,ORG,9375,9381,spacy
+la_354f2a89c1,0.924,ORG,9400,9405,spacy
+la_354f2a89c1,Appendix,PERSON,9762,9770,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,9986,9992,rules
+la_354f2a89c1,Multimodal Refusal Evaluation,ORG,9996,10025,spacy
+la_354f2a89c1,o1,MODEL_AGENT,10136,10138,rules
+la_354f2a89c1,ChatGPT,MODEL_AGENT,10440,10447,rules
+la_354f2a89c1,Jailbreak Augmented Examples: Applies,ORG,10454,10491,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,10987,10993,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,11093,11099,rules
+la_354f2a89c1,StrongReject,ORG,11131,11143,spacy
+la_354f2a89c1,Jailbreak Evaluations,ORG,11156,11177,spacy
+la_354f2a89c1,GPT-4o,MODEL_AGENT,11178,11184,rules
+la_354f2a89c1,GPT-4o,MODEL_AGENT,11245,11251,rules
+la_354f2a89c1,o1,MODEL_AGENT,11373,11375,rules
+la_354f2a89c1,o1,MODEL_AGENT,11549,11551,rules
+la_354f2a89c1,o1,MODEL_AGENT,11659,11661,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,12095,12101,rules
+la_354f2a89c1,o1,MODEL_AGENT,12107,12109,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,12122,12128,rules
+la_354f2a89c1,Hallucination Evaluations Dataset Metric,ORG,12292,12332,spacy
+la_354f2a89c1,GPT-4o,MODEL_AGENT,12333,12339,rules
+la_354f2a89c1,GPT-4o-mini,MODEL_AGENT,12354,12365,rules
+la_354f2a89c1,0.47 0.42 0.09 0.07,PRODUCT,12397,12416,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,12667,12673,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,12721,12727,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,12914,12920,rules
+la_354f2a89c1,BBQ,ORG,12948,12951,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,13042,13048,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,13092,13098,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,13182,13188,rules
+la_354f2a89c1,o1,MODEL_AGENT,13315,13317,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,13406,13412,rules
+la_354f2a89c1,o1,MODEL_AGENT,13566,13568,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,13635,13641,rules
+la_354f2a89c1,BBQ Evaluation,ORG,13741,13755,spacy
+la_354f2a89c1,GPT-4o,MODEL_AGENT,13771,13777,rules
+la_354f2a89c1,GPT-4o-mini,MODEL_AGENT,13792,13803,rules
+la_354f2a89c1,Ambiguous Questions,PERSON,13812,13831,spacy
+la_354f2a89c1,0.94 0.91 0.94 Ambiguous Questions P,PRODUCT,13907,13943,spacy
+la_354f2a89c1,0.05 0.37 0.13 0.08,PRODUCT,13980,13999,spacy
+la_354f2a89c1,Tamkin,ORG,14155,14161,spacy
+la_354f2a89c1,al,PERSON,14166,14168,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,14720,14726,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,14972,14978,rules
+la_354f2a89c1,o1,MODEL_AGENT,14986,14988,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,15016,15022,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,15110,15116,rules
+la_354f2a89c1,Appendix,PERSON,15131,15139,spacy
+la_354f2a89c1,the Instruction Hierarchy,ORG,16016,16041,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,16205,16211,rules
+la_354f2a89c1,GPT-4o,MODEL_AGENT,16499,16505,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,17174,17180,rules
+la_354f2a89c1,0.95 Tutor,PRODUCT,17222,17232,spacy
+la_354f2a89c1,Password Protection Evaluation,ORG,17579,17609,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,17610,17616,rules
+la_354f2a89c1,Phrase,ORG,17620,17626,spacy
+la_354f2a89c1,Password,ORG,17711,17719,spacy
+la_354f2a89c1,0.85 1 Password,PRODUCT,17746,17761,spacy
+la_354f2a89c1,o1,MODEL_AGENT,17869,17871,rules
+la_354f2a89c1,ChatGPT,MODEL_AGENT,18525,18532,rules
+la_354f2a89c1,OpenAI,ORG,18607,18613,rules
+la_354f2a89c1,o1,MODEL_AGENT,18874,18876,rules
+la_354f2a89c1,RLHF,ORG,19216,19220,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,19746,19752,rules
+la_354f2a89c1,ChatGPT,MODEL_AGENT,20040,20047,rules
+la_354f2a89c1,ChatGPT,MODEL_AGENT,20127,20134,rules
+la_354f2a89c1,CoT Deception,ORG,20210,20223,spacy
+la_354f2a89c1,Content,ORG,21980,21987,spacy
+la_354f2a89c1,China,GPE,22038,22043,spacy
+la_354f2a89c1,CoT Chain,ORG,23240,23249,spacy
+la_354f2a89c1,Imaging Systems,ORG,24236,24251,spacy
+la_354f2a89c1,Souza,PERSON,24254,24259,spacy
+la_354f2a89c1,R. F.,PERSON,24277,24282,spacy
+la_354f2a89c1,ChatGPT,MODEL_AGENT,25304,25311,rules
+la_354f2a89c1,OpenAI,ORG,26407,26413,rules
+la_354f2a89c1,o1,MODEL_AGENT,26507,26509,rules
+la_354f2a89c1,the Red Teaming Network,ORG,27472,27495,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,27580,27586,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,28005,28011,rules
+la_354f2a89c1,Comparison of Safety Ratings Comparison,ORG,28575,28614,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,28630,28636,rules
+la_354f2a89c1,Cohen’s,PERSON,28658,28665,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,28779,28785,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,29188,29194,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,29687,29693,rules
+la_354f2a89c1,OpenAI,ORG,29792,29798,rules
+la_354f2a89c1,OpenAI,ORG,30101,30107,rules
+la_354f2a89c1,Gray Swan,PERSON,30126,30135,spacy
+la_354f2a89c1,o1,MODEL_AGENT,30148,30150,rules
+la_354f2a89c1,OpenAI,ORG,30677,30683,rules
+la_354f2a89c1,OpenAI,ORG,31249,31255,rules
+la_354f2a89c1,ASR,ORG,31302,31305,spacy
+la_354f2a89c1,Apollo Research Apollo Research,ORG,31577,31608,spacy
+la_354f2a89c1,o1,MODEL_AGENT,31732,31734,rules
+la_354f2a89c1,Apollo,ORG,31850,31856,spacy
+la_354f2a89c1,Apollo Research’s,ORG,32054,32071,spacy
+la_354f2a89c1,Apollo Research,ORG,32104,32119,spacy
+la_354f2a89c1,Apollo,ORG,32328,32334,spacy
+la_354f2a89c1,Apollo,ORG,33259,33265,spacy
+la_354f2a89c1,Apollo Research’s,ORG,33411,33428,spacy
+la_354f2a89c1,Apollo Research,ORG,33612,33627,spacy
+la_354f2a89c1,Findings,PERSON,33772,33780,spacy
+la_354f2a89c1,Apollo Research,ORG,33873,33888,spacy
+la_354f2a89c1,Appendix,PERSON,34046,34054,spacy
+la_354f2a89c1,Apollo Research,ORG,34766,34781,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,35706,35712,rules
+la_354f2a89c1,GPT-4o,MODEL_AGENT,36317,36323,rules
+la_354f2a89c1,GPT-4o,MODEL_AGENT,36324,36330,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,36381,36387,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,36571,36577,rules
+la_354f2a89c1,Pre-Mitigation,ORG,36583,36597,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,36643,36649,rules
+la_354f2a89c1,Post-Mitigation,ORG,36714,36729,spacy
+la_354f2a89c1,MakeMePay,GPE,36852,36861,spacy
+la_354f2a89c1,MakeMePay,GPE,37043,37052,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,37514,37520,rules
+la_354f2a89c1,GPT-4o,MODEL_AGENT,37941,37947,rules
+la_354f2a89c1,GPT-4o,MODEL_AGENT,37948,37954,rules
+la_354f2a89c1,Pre-Mitigation,ORG,37964,37978,spacy
+la_354f2a89c1,Post-Mitigation,ORG,37989,38004,spacy
+la_354f2a89c1,Pre-Mitigation,ORG,38018,38032,spacy
+la_354f2a89c1,Post-Mitigation,ORG,38046,38061,spacy
+la_354f2a89c1,Pre-Mitigation,ORG,38067,38081,spacy
+la_354f2a89c1,Post-Mitigation,ORG,38087,38102,spacy
+la_354f2a89c1,Post-Mitigation,ORG,38362,38377,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,38589,38595,rules
+la_354f2a89c1,Post-Mitigation,ORG,38623,38638,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,39990,39996,rules
+la_354f2a89c1,GPT-4o,MODEL_AGENT,40012,40018,rules
+la_354f2a89c1,Success Rate,ORG,40019,40031,spacy
+la_354f2a89c1,o1,MODEL_AGENT,40064,40066,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,40110,40116,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,40128,40134,rules
+la_354f2a89c1,OpenAI,ORG,40450,40456,rules
+la_354f2a89c1,Scorecard Model Autonomy Low Summary,PERSON,40460,40496,spacy
+la_354f2a89c1,OpenAI,ORG,40978,40984,rules
+la_354f2a89c1,OpenAI,ORG,41141,41147,rules
+la_354f2a89c1,OpenAI,ORG,41257,41263,rules
+la_354f2a89c1,SWE-bench,MODEL_AGENT,41276,41285,rules
+la_354f2a89c1,Verified Real,ORG,41286,41299,spacy
+la_354f2a89c1,GitHub,ORG,41352,41358,spacy
+la_354f2a89c1,MLE-Bench Real,ORG,41563,41577,spacy
+la_354f2a89c1,Kaggle,PERSON,41642,41648,spacy
+la_354f2a89c1,OpenAI,ORG,41728,41734,rules
+la_354f2a89c1,OpenAI,ORG,41833,41839,rules
+la_354f2a89c1,OpenAI,ORG,41979,41985,rules
+la_354f2a89c1,OpenAI,ORG,42032,42038,rules
+la_354f2a89c1,Post-Mitigation,ORG,42687,42702,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,42718,42724,rules
+la_354f2a89c1,MCQ,ORG,42735,42738,spacy
+la_354f2a89c1,SWE-bench,MODEL_AGENT,42784,42793,rules
+la_354f2a89c1,SWE-bench,MODEL_AGENT,42803,42812,rules
+la_354f2a89c1,SWE-bench,MODEL_AGENT,42869,42878,rules
+la_354f2a89c1,SWE-bench,MODEL_AGENT,43025,43034,rules
+la_354f2a89c1,Agentless,ORG,43419,43428,spacy
+la_354f2a89c1,OpenAI,ORG,43799,43805,rules
+la_354f2a89c1,SWE-bench,MODEL_AGENT,44019,44028,rules
+la_354f2a89c1,Pre-Mitigation,ORG,44057,44071,spacy
+la_354f2a89c1,SWE-bench,MODEL_AGENT,44114,44123,rules
+la_354f2a89c1,Verified,ORG,44124,44132,spacy
+la_354f2a89c1,Post-Mitigation,ORG,44147,44162,spacy
+la_354f2a89c1,ARA,ORG,44379,44382,spacy
+la_354f2a89c1,GPU,ORG,44905,44908,spacy
+la_354f2a89c1,Ranger,PERSON,45147,45153,spacy
+la_354f2a89c1,HTML,ORG,45254,45258,spacy
+la_354f2a89c1,Mistral 7B,MODEL_AGENT,45649,45659,rules
+la_354f2a89c1,Docker,ORG,45663,45669,spacy
+la_354f2a89c1,Docker,ORG,45691,45697,spacy
+la_354f2a89c1,OpenAI,ORG,45764,45770,rules
+la_354f2a89c1,POST,ORG,45911,45915,spacy
+la_354f2a89c1,GPU,ORG,46248,46251,spacy
+la_354f2a89c1,NVIDIA,ORG,46260,46266,rules
+la_354f2a89c1,GPU,ORG,46267,46270,spacy
+la_354f2a89c1,Docker,PERSON,46295,46301,spacy
+la_354f2a89c1,Agentic Tasks Primary,ORG,46320,46341,spacy
+la_354f2a89c1,Abbreviated instructions Environment,ORG,46347,46383,spacy
+la_354f2a89c1,OpenAI,ORG,46384,46390,rules
+la_354f2a89c1,API Proxy,PERSON,46391,46400,spacy
+la_354f2a89c1,Bitcoin,PERSON,46571,46578,spacy
+la_354f2a89c1,Mistral 7B,MODEL_AGENT,46613,46623,rules
+la_354f2a89c1,Docker Build,ORG,46627,46639,spacy
+la_354f2a89c1,Docker,PERSON,46642,46648,spacy
+la_354f2a89c1,GPU Register,PERSON,46678,46690,spacy
+la_354f2a89c1,GPU,ORG,46754,46757,spacy
+la_354f2a89c1,Agentic,PERSON,46956,46963,spacy
+la_354f2a89c1,Ranger,ORG,46984,46990,spacy
+la_354f2a89c1,Agentic,PERSON,47013,47020,spacy
+la_354f2a89c1,Post-Mitigation,ORG,47230,47245,spacy
+la_354f2a89c1,ChatGPT,MODEL_AGENT,47301,47308,rules
+la_354f2a89c1,OpenAI,ORG,47412,47418,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,47456,47462,rules
+la_354f2a89c1,Docker,PERSON,47633,47639,spacy
+la_354f2a89c1,Mistral 7B,MODEL_AGENT,47829,47839,rules
+la_354f2a89c1,Developed,PERSON,47923,47932,spacy
+la_354f2a89c1,MLE,ORG,47959,47962,spacy
+la_354f2a89c1,Kaggle,PERSON,48010,48016,spacy
+la_354f2a89c1,GPU,ORG,48171,48174,spacy
+la_354f2a89c1,Kaggle,GPE,48210,48216,spacy
+la_354f2a89c1,Kaggle,PERSON,48394,48400,spacy
+la_354f2a89c1,MLE,ORG,48556,48559,spacy
+la_354f2a89c1,o1,MODEL_AGENT,48980,48982,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,49014,49020,rules
+la_354f2a89c1,Post-Mitigation,ORG,49084,49099,spacy
+la_354f2a89c1,MLE-Bench,ORG,49139,49148,spacy
+la_354f2a89c1,Pre-Mitigation,ORG,49253,49267,spacy
+la_354f2a89c1,Post-Mitigation,ORG,49284,49299,spacy
+la_354f2a89c1,o1,MODEL_AGENT,49526,49528,rules
+la_354f2a89c1,MMLU,GPE,49551,49555,spacy
+la_354f2a89c1,GPT‑4,MODEL_AGENT,49657,49662,rules
+la_354f2a89c1,Azure Translate,ORG,49708,49723,spacy
+la_354f2a89c1,Yoruba,GPE,49878,49884,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,49924,49930,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,49936,49942,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,50062,50068,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,50103,50109,rules
+la_354f2a89c1,the Simple Evals GitHub repository H,ORG,50185,50221,spacy
+la_354f2a89c1,GPT-4o,MODEL_AGENT,50280,50286,rules
+la_354f2a89c1,GPT-4o-mini,MODEL_AGENT,50295,50306,rules
+la_354f2a89c1,Brazil,GPE,50820,50826,spacy
+la_354f2a89c1,OpenAI,ORG,51002,51008,rules
+la_354f2a89c1,OpenAI,ORG,51467,51473,rules
+la_354f2a89c1,Appendix Detailed,PERSON,51886,51903,spacy
+la_354f2a89c1,Metric,PERSON,52024,52030,spacy
+la_354f2a89c1,GPT-4o,MODEL_AGENT,52031,52037,rules
+la_354f2a89c1,0.96 0.99,PRODUCT,52155,52164,spacy
+la_354f2a89c1,1.00 0.99,PRODUCT,52175,52184,spacy
+la_354f2a89c1,1.00 1.00 1.00 1.00 1.00,PRODUCT,52320,52344,spacy
+la_354f2a89c1,1.00 1.00 1.00,PRODUCT,52382,52396,spacy
+la_354f2a89c1,1.00 1.00 1.00 1.00 1.00,PRODUCT,52412,52436,spacy
+la_354f2a89c1,1.00 0.99,PRODUCT,52478,52487,spacy
+la_354f2a89c1,1.00 0.98 1.00,PRODUCT,52518,52532,spacy
+la_354f2a89c1,1.00 1.00 1.00 1.00 1.00,PRODUCT,52629,52653,spacy
+la_354f2a89c1,1.00 1.00 1.00 1.00,PRODUCT,52744,52763,spacy
+la_354f2a89c1,GPT-4o,MODEL_AGENT,52802,52808,rules
+la_354f2a89c1,the Challenging Refusal Evaluation,ORG,53073,53107,spacy
+la_354f2a89c1,Metric,PERSON,53130,53136,spacy
+la_354f2a89c1,GPT-4o,MODEL_AGENT,53137,53143,rules
+la_354f2a89c1,XSTest,ORG,53426,53432,spacy
+la_354f2a89c1,Metric,PERSON,53457,53463,spacy
+la_354f2a89c1,GPT-4o,MODEL_AGENT,53464,53470,rules
+la_354f2a89c1,Definitions,ORG,53493,53504,spacy
+la_354f2a89c1,1.00,PRODUCT,53505,53509,spacy
+la_354f2a89c1,1.00 1.00,PRODUCT,53515,53524,spacy
+la_354f2a89c1,Figurative Language,PRODUCT,53525,53544,spacy
+la_354f2a89c1,Homonyms 1.00 1.00 1.00 1.00 Discr,PRODUCT,53603,53637,spacy
+la_354f2a89c1,0.96,ORG,53659,53663,spacy
+la_354f2a89c1,Discr,PERSON,53674,53679,spacy
+la_354f2a89c1,Metric,PERSON,53970,53976,spacy
+la_354f2a89c1,GPT-4o,MODEL_AGENT,53977,53983,rules
+la_354f2a89c1,0.910 Overall,ORG,54417,54430,spacy
+la_354f2a89c1,Multimodal Refusal Evaluations - Text and,ORG,54487,54528,spacy
+la_354f2a89c1,Image Input,PERSON,54529,54540,spacy
+la_354f2a89c1,Metric,PERSON,54563,54569,spacy
+la_354f2a89c1,GPT-4o,MODEL_AGENT,54570,54576,rules
+la_354f2a89c1,GPT-4o,MODEL_AGENT,54761,54767,rules
+la_354f2a89c1,1.00 1.00 1.00,PRODUCT,54888,54902,spacy
+la_354f2a89c1,StrongReject,ORG,54903,54915,spacy
+la_354f2a89c1,Apollo Research,ORG,55008,55023,spacy
+la_354f2a89c1,Table 24,PRODUCT,55056,55064,spacy
+la_354f2a89c1,Apollo Research,ORG,55091,55106,spacy
+la_354f2a89c1,Apollo Research’s,ORG,55690,55707,spacy
+la_354f2a89c1,SmartCity Solutions,ORG,55829,55848,spacy
+la_354f2a89c1,Linux,PRODUCT,56179,56184,spacy
+la_354f2a89c1,SmartCity Solutions,ORG,56536,56555,spacy
+la_354f2a89c1,Linux,PRODUCT,56732,56737,spacy
+la_354f2a89c1,Apollo Research,ORG,56931,56946,spacy
+la_354f2a89c1,Apollo Research,ORG,57147,57162,spacy
+la_354f2a89c1,QuantBench Contextual,ORG,59278,59299,spacy
+la_354f2a89c1,Preparedness,PERSON,59344,59356,spacy
+la_354f2a89c1,Cybersecurity,ORG,59461,59474,spacy
+la_354f2a89c1,Model Autonomy,PERSON,59497,59511,spacy
+la_354f2a89c1,QuantBench,ORG,59565,59575,spacy
+la_354f2a89c1,QuantBench Pass Rate,ORG,60612,60632,spacy
+la_354f2a89c1,o1,MODEL_AGENT,60733,60735,rules
+la_354f2a89c1,Post-Mitigation,ORG,60758,60773,spacy
+la_354f2a89c1,QuantBench MCQ,ORG,60827,60841,spacy
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,60883,60889,rules
+la_354f2a89c1,Alice,PERSON,60921,60926,spacy
+la_354f2a89c1,Bob,PERSON,60931,60934,spacy
+la_354f2a89c1,Alice,PERSON,60954,60959,spacy
+la_354f2a89c1,Bob,PERSON,61036,61039,spacy
+la_354f2a89c1,Alice,PRODUCT,61106,61111,spacy
+la_354f2a89c1,Alice,PERSON,61129,61134,spacy
+la_354f2a89c1,Bob,PERSON,61194,61197,spacy
+la_354f2a89c1,N,ORG,61354,61355,spacy
+la_354f2a89c1,Bob,PERSON,61690,61693,spacy
+la_354f2a89c1,N,ORG,61728,61729,spacy
+la_354f2a89c1,Alice,PERSON,61735,61740,spacy
+la_354f2a89c1,Bob,PERSON,61745,61748,spacy
+la_354f2a89c1,Bob,PERSON,61830,61833,spacy
+la_354f2a89c1,Bias,PERSON,62015,62019,spacy
+la_354f2a89c1,Race Coef,PERSON,62112,62121,spacy
+la_354f2a89c1,Overall Avg,PERSON,62133,62144,spacy
+la_354f2a89c1,Coef,GPE,62146,62150,spacy
+la_354f2a89c1,ExplicitDiscrimination 4o-mini,PRODUCT,62152,62182,spacy
+la_354f2a89c1,GPT-4o,MODEL_AGENT,62231,62237,rules
+la_354f2a89c1,0.53 0.28,PRODUCT,62330,62339,spacy
+la_354f2a89c1,GPT-4o,MODEL_AGENT,62368,62374,rules
+la_354f2a89c1,GPT‑4o,MODEL_AGENT,62668,62674,rules
+la_354f2a89c1,Reasonings & Policy Ethics & Safety System Cards,ORG,62730,62778,spacy
+la_354f2a89c1,M. Joglekar,PERSON,62804,62815,spacy
+la_354f2a89c1,E. Wallace,PERSON,62817,62827,spacy
+la_354f2a89c1,S. Jain,PERSON,62829,62836,spacy
+la_354f2a89c1,B. Barak,PERSON,62838,62846,spacy
+la_354f2a89c1,A. Heylar,PERSON,62848,62857,spacy
+la_354f2a89c1,R. Dias,PERSON,62859,62866,spacy
+la_354f2a89c1,A. Vallone,PERSON,62868,62878,spacy
+la_354f2a89c1,H. Ren,PERSON,62880,62886,spacy
+la_354f2a89c1,J. Wei,PERSON,62888,62894,spacy
+la_354f2a89c1,H. W. Chung,PERSON,62896,62907,spacy
+la_354f2a89c1,S. Toyer,PERSON,62909,62917,spacy
+la_354f2a89c1,J. Heidecke,ORG,62919,62930,spacy
+la_354f2a89c1,A. Beutel,PERSON,62932,62941,spacy
+la_354f2a89c1,A. Glaese,PERSON,62947,62956,spacy
+la_354f2a89c1,A. Chen,PERSON,63076,63083,spacy
+la_354f2a89c1,V. Padmakumar,PERSON,63096,63109,spacy
+la_354f2a89c1,J. Phang,PERSON,63111,63119,spacy
+la_354f2a89c1,J. Thompson,PERSON,63121,63132,spacy
+la_354f2a89c1,P. M. Htut,PERSON,63134,63144,spacy
+la_354f2a89c1,S. R. Bowman,PERSON,63150,63162,spacy
+la_354f2a89c1,T. Gebru,ORG,63278,63286,spacy
+la_354f2a89c1,A. McMillan-Major,PERSON,63288,63305,spacy
+la_354f2a89c1,S. Shmitchell,PERSON,63311,63324,spacy
+la_354f2a89c1,J. Maynez,PERSON,63509,63518,spacy
+la_354f2a89c1,S. Narayan,PERSON,63520,63530,spacy
+la_354f2a89c1,B. Bohnet,PERSON,63532,63541,spacy
+la_354f2a89c1,R. McDonald,PERSON,63547,63558,spacy
+la_354f2a89c1,M. Aitchison,PERSON,63675,63687,spacy
+la_354f2a89c1,E. Catt,PERSON,63689,63696,spacy
+la_354f2a89c1,S. Cogan,PERSON,63698,63706,spacy
+la_354f2a89c1,A. Kaskasoli,PERSON,63708,63720,spacy
+la_354f2a89c1,V. Krakovna,PERSON,63722,63733,spacy
+la_354f2a89c1,D. Lindner,PERSON,63735,63745,spacy
+la_354f2a89c1,M. Rahtz,PERSON,63747,63755,spacy
+la_354f2a89c1,Y. Assael,PERSON,63757,63766,spacy
+la_354f2a89c1,S. Hodkinson,PERSON,63768,63780,spacy
+la_354f2a89c1,al.,PERSON,63785,63788,spacy
+la_354f2a89c1,S. Farquhar,GPE,63901,63912,spacy
+la_354f2a89c1,B. Garfinkel,GPE,63914,63926,spacy
+la_354f2a89c1,J. Whittlestone,PERSON,63939,63954,spacy
+la_354f2a89c1,J. Leung,PERSON,63956,63964,spacy
+la_354f2a89c1,D. Kokotajlo,PERSON,63966,63978,spacy
+la_354f2a89c1,N. Marchal,PERSON,63980,63990,spacy
+la_354f2a89c1,M. Anderljung,PERSON,63992,64005,spacy
+la_354f2a89c1,N. Kolt,PERSON,64007,64014,spacy
+la_354f2a89c1,L. Ho,PERSON,64016,64021,spacy
+la_354f2a89c1,S. Avin,PERSON,64036,64043,spacy
+la_354f2a89c1,W. Hawkins,PERSON,64045,64055,spacy
+la_354f2a89c1,B. Kim,PERSON,64057,64063,spacy
+la_354f2a89c1,I. Gabriel,PERSON,64065,64075,spacy
+la_354f2a89c1,V. Bolina,PERSON,64077,64086,spacy
+la_354f2a89c1,J. Clark,PERSON,64088,64096,spacy
+la_354f2a89c1,Y. Bengio,PERSON,64098,64107,spacy
+la_354f2a89c1,P. Christiano,PERSON,64109,64122,spacy
+la_354f2a89c1,A. Dafoe,PERSON,64128,64136,spacy
+la_354f2a89c1,OpenAI,ORG,64184,64190,rules
+la_354f2a89c1,L. Lovitt,PERSON,64262,64271,spacy
+la_354f2a89c1,J. Kernion,PERSON,64273,64283,spacy
+la_354f2a89c1,A. Askell,PERSON,64285,64294,spacy
+la_354f2a89c1,Y. Bai,PERSON,64296,64302,spacy
+la_354f2a89c1,S. Kadavath,PERSON,64304,64315,spacy
+la_354f2a89c1,B. Mann,PERSON,64317,64324,spacy
+la_354f2a89c1,E. Perez,PERSON,64326,64334,spacy
+la_354f2a89c1,N. Schiefer,PERSON,64336,64347,spacy
+la_354f2a89c1,K. Ndousse,PERSON,64349,64359,spacy
+la_354f2a89c1,al.,PERSON,64364,64367,spacy
+la_354f2a89c1,W. H. Deng,PERSON,64527,64537,spacy
+la_354f2a89c1,Z. C. Lipton,PERSON,64539,64551,spacy
+la_354f2a89c1,H. Heidari,PERSON,64557,64567,spacy
+la_354f2a89c1,S. Avin,PERSON,64660,64667,spacy
+la_354f2a89c1,J. Wang,PERSON,64669,64676,spacy
+la_354f2a89c1,H. Belfield,PERSON,64678,64689,spacy
+la_354f2a89c1,G. Krueger,PERSON,64691,64701,spacy
+la_354f2a89c1,G. Hadfield,PERSON,64703,64714,spacy
+la_354f2a89c1,H. Khlaaf,PERSON,64716,64725,spacy
+la_354f2a89c1,J. Yang,PERSON,64727,64734,spacy
+la_354f2a89c1,H. Toner,PERSON,64736,64744,spacy
+la_354f2a89c1,R. Fong,PERSON,64746,64753,spacy
+la_354f2a89c1,T. Maharaj,PERSON,64755,64765,spacy
+la_354f2a89c1,P. W. Koh,PERSON,64767,64776,spacy
+la_354f2a89c1,S. Hooker,ORG,64778,64787,spacy
+la_354f2a89c1,J. Leung,PERSON,64789,64797,spacy
+la_354f2a89c1,A. Trask,PERSON,64799,64807,spacy
+la_354f2a89c1,E. Bluemke,PERSON,64809,64819,spacy
+la_354f2a89c1,J. Lebensold,PERSON,64821,64833,spacy
+la_354f2a89c1,M. Koren,PERSON,64847,64855,spacy
+la_354f2a89c1,T. Ryffel,PERSON,64857,64866,spacy
+la_354f2a89c1,J. Rubinovitz,PERSON,64868,64881,spacy
+la_354f2a89c1,T. Besiroglu,PERSON,64883,64895,spacy
+la_354f2a89c1,F. Carugati,GPE,64897,64908,spacy
+la_354f2a89c1,J. Clark,PERSON,64910,64918,spacy
+la_354f2a89c1,P. Eckersley,PERSON,64920,64932,spacy
+la_354f2a89c1,S. de Haas,PERSON,64934,64944,spacy
+la_354f2a89c1,M. Johnson,PERSON,64946,64956,spacy
+la_354f2a89c1,B. Laurie,PERSON,64958,64967,spacy
+la_354f2a89c1,A. Ingerman,PERSON,64969,64980,spacy
+la_354f2a89c1,I. Krawczuk,GPE,64982,64993,spacy
+la_354f2a89c1,A. Askell,PERSON,64995,65004,spacy
+la_354f2a89c1,R. Cammarota,PERSON,65006,65018,spacy
+la_354f2a89c1,A. Lohn,PERSON,65020,65027,spacy
+la_354f2a89c1,D. Krueger,PERSON,65029,65039,spacy
+la_354f2a89c1,C. Stix,PERSON,65041,65048,spacy
+la_354f2a89c1,P. Henderson,PERSON,65050,65062,spacy
+la_354f2a89c1,L. Graham,PERSON,65064,65073,spacy
+la_354f2a89c1,B. Martin,PERSON,65086,65095,spacy
+la_354f2a89c1,E. Seger,PERSON,65097,65105,spacy
+la_354f2a89c1,N. Zilberman,PERSON,65107,65119,spacy
+la_354f2a89c1,Seán Ó hÉigeartaigh,PERSON,65121,65140,spacy
+la_354f2a89c1,F. Kroeger,GPE,65142,65152,spacy
+la_354f2a89c1,G. Sastry,PERSON,65154,65163,spacy
+la_354f2a89c1,R. Kagan,PERSON,65165,65173,spacy
+la_354f2a89c1,A. Weller,PERSON,65175,65184,spacy
+la_354f2a89c1,B. Tse,PERSON,65186,65192,spacy
+la_354f2a89c1,P. Scharre,GPE,65215,65225,spacy
+la_354f2a89c1,A. Herbert-Voss,PERSON,65227,65242,spacy
+la_354f2a89c1,M. Rasser,PERSON,65244,65253,spacy
+la_354f2a89c1,S. Sodhani,PERSON,65255,65265,spacy
+la_354f2a89c1,C. Flynn,PERSON,65267,65275,spacy
+la_354f2a89c1,T. K. Gilbert,PERSON,65277,65290,spacy
+la_354f2a89c1,L. Dyer,PERSON,65292,65299,spacy
+la_354f2a89c1,S. Khan,PERSON,65301,65308,spacy
+la_354f2a89c1,Y. Bengio,PERSON,65310,65319,spacy
+la_354f2a89c1,M. Anderljung,PERSON,65325,65338,spacy
+la_354f2a89c1,OpenAI,ORG,65431,65437,rules
+la_354f2a89c1,J. Achiam,PERSON,65439,65448,spacy
+la_354f2a89c1,S. Adler,PERSON,65450,65458,spacy
+la_354f2a89c1,S. Agarwal,ORG,65460,65470,spacy
+la_354f2a89c1,L. Ahmad,PERSON,65472,65480,spacy
+la_354f2a89c1,I. Akkaya,PERSON,65482,65491,spacy
+la_354f2a89c1,F. L. Aleman,PERSON,65493,65505,spacy
+la_354f2a89c1,D. Almeida,ORG,65507,65517,spacy
+la_354f2a89c1,J. Altenschmidt,PERSON,65519,65534,spacy
+la_354f2a89c1,S. Altman,ORG,65536,65545,spacy
+la_354f2a89c1,S. Anadkat,PERSON,65547,65557,spacy
+la_354f2a89c1,R. Avila,PERSON,65559,65567,spacy
+la_354f2a89c1,I. Babuschkin,PERSON,65569,65582,spacy
+la_354f2a89c1,S. Balaji,ORG,65584,65593,spacy
+la_354f2a89c1,V. Balcom,PERSON,65595,65604,spacy
+la_354f2a89c1,P. Baltescu,PERSON,65606,65617,spacy
+la_354f2a89c1,H. Bao,PERSON,65619,65625,spacy
+la_354f2a89c1,J. Belgum,PERSON,65640,65649,spacy
+la_354f2a89c1,I. Bello,PERSON,65651,65659,spacy
+la_354f2a89c1,J. Berdine,PERSON,65661,65671,spacy
+la_354f2a89c1,G. Bernadett-Shapiro,PERSON,65673,65693,spacy
+la_354f2a89c1,C. Berner,PERSON,65695,65704,spacy
+la_354f2a89c1,L. Bogdonoff,PERSON,65706,65718,spacy
+la_354f2a89c1,O. Boiko,PERSON,65720,65728,spacy
+la_354f2a89c1,M. Boyd,PERSON,65730,65737,spacy
+la_354f2a89c1,Brakman,PERSON,65745,65752,spacy
+la_354f2a89c1,G. Brockman,PERSON,65754,65765,spacy
+la_354f2a89c1,T. Brooks,PERSON,65767,65776,spacy
+la_354f2a89c1,M. Brundage,PERSON,65778,65789,spacy
+la_354f2a89c1,T. Cai,PERSON,65802,65808,spacy
+la_354f2a89c1,R. Campbell,PERSON,65810,65821,spacy
+la_354f2a89c1,A. Cann,PERSON,65823,65830,spacy
+la_354f2a89c1,B. Carey,PERSON,65832,65840,spacy
+la_354f2a89c1,C. Carlson,PERSON,65842,65852,spacy
+la_354f2a89c1,R. Carmichael,PERSON,65854,65867,spacy
+la_354f2a89c1,B. Chan,PERSON,65869,65876,spacy
+la_354f2a89c1,C. Chang,PERSON,65878,65886,spacy
+la_354f2a89c1,F. Chantzis,PERSON,65888,65899,spacy
+la_354f2a89c1,D. Chen,PERSON,65901,65908,spacy
+la_354f2a89c1,S. Chen,PERSON,65910,65917,spacy
+la_354f2a89c1,R. Chen,PERSON,65919,65926,spacy
+la_354f2a89c1,J. Chen,PERSON,65928,65935,spacy
+la_354f2a89c1,M. Chen,PERSON,65937,65944,spacy
+la_354f2a89c1,C. Cho,PERSON,65956,65962,spacy
+la_354f2a89c1,C. Chu,PERSON,65964,65970,spacy
+la_354f2a89c1,H. W. Chung,PERSON,65972,65983,spacy
+la_354f2a89c1,D. Cummings,GPE,65985,65996,spacy
+la_354f2a89c1,J. Currier,PERSON,65998,66008,spacy
+la_354f2a89c1,Y. Dai,PERSON,66010,66016,spacy
+la_354f2a89c1,C. Decareaux,PERSON,66018,66030,spacy
+la_354f2a89c1,T. Degry,PERSON,66032,66040,spacy
+la_354f2a89c1,N. Deutsch,PERSON,66042,66052,spacy
+la_354f2a89c1,D. Deville,PERSON,66054,66064,spacy
+la_354f2a89c1,Dohan,GPE,66078,66083,spacy
+la_354f2a89c1,S. Dowling,PERSON,66085,66095,spacy
+la_354f2a89c1,S. Dunning,PERSON,66097,66107,spacy
+la_354f2a89c1,A. Ecoffet,PERSON,66109,66119,spacy
+la_354f2a89c1,T. Eloundou,PERSON,66131,66142,spacy
+la_354f2a89c1,D. Farhi,PERSON,66144,66152,spacy
+la_354f2a89c1,L. Fedus,PERSON,66154,66162,spacy
+la_354f2a89c1,N. Felix,GPE,66164,66172,spacy
+la_354f2a89c1,S. P. Fishman,PERSON,66174,66187,spacy
+la_354f2a89c1,J. Forte,PERSON,66189,66197,spacy
+la_354f2a89c1,I. Fulford,PERSON,66199,66209,spacy
+la_354f2a89c1,L. Gao,PERSON,66211,66217,spacy
+la_354f2a89c1,E. Georges,PERSON,66219,66229,spacy
+la_354f2a89c1,C. Gibson,PERSON,66231,66240,spacy
+la_354f2a89c1,V. Goel,PERSON,66242,66249,spacy
+la_354f2a89c1,T. Gogineni,PERSON,66251,66262,spacy
+la_354f2a89c1,R. Gontijo-Lopes,PERSON,66272,66288,spacy
+la_354f2a89c1,J. Gordon,PERSON,66290,66299,spacy
+la_354f2a89c1,M. Grafstein,PERSON,66301,66313,spacy
+la_354f2a89c1,S. Gray,PERSON,66315,66322,spacy
+la_354f2a89c1,R. Greene,PERSON,66324,66333,spacy
+la_354f2a89c1,J. Gross,PERSON,66335,66343,spacy
+la_354f2a89c1,S. S. Gu,PERSON,66345,66353,spacy
+la_354f2a89c1,Y. Guo,PERSON,66355,66361,spacy
+la_354f2a89c1,C. Hallacy,PERSON,66363,66373,spacy
+la_354f2a89c1,J. Han,PERSON,66375,66381,spacy
+la_354f2a89c1,J. Harris,PERSON,66383,66392,spacy
+la_354f2a89c1,Y. He,PERSON,66394,66399,spacy
+la_354f2a89c1,M. Heaton,PERSON,66401,66410,spacy
+la_354f2a89c1,J. Heidecke,ORG,66412,66423,spacy
+la_354f2a89c1,C. Hesse,PERSON,66425,66433,spacy
+la_354f2a89c1,A. Hickey,GPE,66435,66444,spacy
+la_354f2a89c1,W. Hickey,PERSON,66446,66455,spacy
+la_354f2a89c1,B. Houghton,PERSON,66471,66482,spacy
+la_354f2a89c1,K. Hsu,PERSON,66484,66490,spacy
+la_354f2a89c1,S. Hu,PERSON,66492,66497,spacy
+la_354f2a89c1,X. Hu,PERSON,66499,66504,spacy
+la_354f2a89c1,J. Huizinga,GPE,66506,66517,spacy
+la_354f2a89c1,S. Jain,PERSON,66519,66526,spacy
+la_354f2a89c1,S. Jain,PERSON,66528,66535,spacy
+la_354f2a89c1,J. Jang,PERSON,66537,66544,spacy
+la_354f2a89c1,A. Jiang,PERSON,66546,66554,spacy
+la_354f2a89c1,R. Jiang,PERSON,66556,66564,spacy
+la_354f2a89c1,H. Jin,PERSON,66566,66572,spacy
+la_354f2a89c1,D. Jin,PERSON,66574,66580,spacy
+la_354f2a89c1,S. Jomoto,PERSON,66582,66591,spacy
+la_354f2a89c1,B. Jonn,GPE,66593,66600,spacy
+la_354f2a89c1,H. Jun,PERSON,66602,66608,spacy
+la_354f2a89c1,T. Kaftan,PERSON,66610,66619,spacy
+la_354f2a89c1,Łukasz Kaiser,GPE,66621,66634,spacy
+la_354f2a89c1,A. Kamali,PERSON,66636,66645,spacy
+la_354f2a89c1,I. Kanitscheider,PERSON,66647,66663,spacy
+la_354f2a89c1,N. S. Keskar,PERSON,66665,66677,spacy
+la_354f2a89c1,T. Khan,PERSON,66679,66686,spacy
+la_354f2a89c1,L. Kilpatrick,PERSON,66688,66701,spacy
+la_354f2a89c1,J. W. Kim,PERSON,66703,66712,spacy
+la_354f2a89c1,C. Kim,PERSON,66714,66720,spacy
+la_354f2a89c1,Y. Kim,PERSON,66722,66728,spacy
+la_354f2a89c1,J. H. Kirchner,PERSON,66730,66744,spacy
+la_354f2a89c1,J. Kiros,PERSON,66746,66754,spacy
+la_354f2a89c1,M. Knight,PERSON,66756,66765,spacy
+la_354f2a89c1,D. Kokotajlo,PERSON,66767,66779,spacy
+la_354f2a89c1,Łukasz Kondraciuk,GPE,66781,66798,spacy
+la_354f2a89c1,A. Kondrich,GPE,66800,66811,spacy
+la_354f2a89c1,A. Konstantinidis,PERSON,66813,66830,spacy
+la_354f2a89c1,K. Kosic,PERSON,66832,66840,spacy
+la_354f2a89c1,G. Krueger,PERSON,66842,66852,spacy
+la_354f2a89c1,V. Kuo,PERSON,66854,66860,spacy
+la_354f2a89c1,M. Lampe,PERSON,66862,66870,spacy
+la_354f2a89c1,I. Lan,PERSON,66872,66878,spacy
+la_354f2a89c1,T. Lee,PERSON,66880,66886,spacy
+la_354f2a89c1,J. Leike,PERSON,66888,66896,spacy
+la_354f2a89c1,J. Leung,PERSON,66898,66906,spacy
+la_354f2a89c1,D. Levy,PERSON,66908,66915,spacy
+la_354f2a89c1,C. M. Li,PERSON,66917,66925,spacy
+la_354f2a89c1,R. Lim,PERSON,66927,66933,spacy
+la_354f2a89c1,M. Lin,PERSON,66935,66941,spacy
+la_354f2a89c1,S. Lin,PERSON,66943,66949,spacy
+la_354f2a89c1,M. Litwin,PERSON,66951,66960,spacy
+la_354f2a89c1,T. Lopez,PERSON,66962,66970,spacy
+la_354f2a89c1,R. Lowe,PERSON,66972,66979,spacy
+la_354f2a89c1,P. Lue,PERSON,66981,66987,spacy
+la_354f2a89c1,A. Makanju,PERSON,66989,66999,spacy
+la_354f2a89c1,S. Manning,PERSON,67015,67025,spacy
+la_354f2a89c1,T. Markov,PERSON,67027,67036,spacy
+la_354f2a89c1,Y. Markovski,PERSON,67038,67050,spacy
+la_354f2a89c1,B. Martin,PERSON,67052,67061,spacy
+la_354f2a89c1,K. Mayer,PERSON,67063,67071,spacy
+la_354f2a89c1,A. Mayne,PERSON,67073,67081,spacy
+la_354f2a89c1,B. McGrew,PERSON,67083,67092,spacy
+la_354f2a89c1,S. M. McKinney,PERSON,67094,67108,spacy
+la_354f2a89c1,C. McLeavey,ORG,67110,67121,spacy
+la_354f2a89c1,P. McMillan,PERSON,67123,67134,spacy
+la_354f2a89c1,J. McNeil,PERSON,67136,67145,spacy
+la_354f2a89c1,Medina,GPE,67150,67156,spacy
+la_354f2a89c1,A. Mehta,PERSON,67158,67166,spacy
+la_354f2a89c1,J. Menick,PERSON,67168,67177,spacy
+la_354f2a89c1,L. Metz,PERSON,67179,67186,spacy
+la_354f2a89c1,A. Mishchenko,PERSON,67188,67201,spacy
+la_354f2a89c1,P. Mishkin,PERSON,67203,67213,spacy
+la_354f2a89c1,V. Monaco,PERSON,67215,67224,spacy
+la_354f2a89c1,E. Morikawa,PERSON,67226,67237,spacy
+la_354f2a89c1,D. Mossing,PERSON,67239,67249,spacy
+la_354f2a89c1,T. Mu,PERSON,67251,67256,spacy
+la_354f2a89c1,O. Murk,PERSON,67269,67276,spacy
+la_354f2a89c1,D. Mély,PERSON,67278,67285,spacy
+la_354f2a89c1,A. Nair,PERSON,67287,67294,spacy
+la_354f2a89c1,R. Nakano,PERSON,67296,67305,spacy
+la_354f2a89c1,R. Nayak,PERSON,67307,67315,spacy
+la_354f2a89c1,R. Ngo,PERSON,67333,67339,spacy
+la_354f2a89c1,H. Noh,PERSON,67341,67347,spacy
+la_354f2a89c1,L. Ouyang,PERSON,67349,67358,spacy
+la_354f2a89c1,J. Pachocki,PERSON,67372,67383,spacy
+la_354f2a89c1,J. Palermo,PERSON,67395,67405,spacy
+la_354f2a89c1,G. Parascandolo,PERSON,67422,67437,spacy
+la_354f2a89c1,J. Parish,PERSON,67439,67448,spacy
+la_354f2a89c1,E. Parparita,PERSON,67450,67462,spacy
+la_354f2a89c1,M. Pavlov,ORG,67475,67484,spacy
+la_354f2a89c1,A. Peng,PERSON,67486,67493,spacy
+la_354f2a89c1,A. Perelman,PERSON,67495,67506,spacy
+la_354f2a89c1,F. de Avila Belbute Peres,ORG,67508,67533,spacy
+la_354f2a89c1,M. Petrov,PERSON,67535,67544,spacy
+la_354f2a89c1,H. P. de Oliveira Pinto,PERSON,67546,67569,spacy
+la_354f2a89c1,Michael,PERSON,67571,67578,spacy
+la_354f2a89c1,V. H. Pong,PERSON,67601,67611,spacy
+la_354f2a89c1,T. Powell,PERSON,67613,67622,spacy
+la_354f2a89c1,A. Power,ORG,67624,67632,spacy
+la_354f2a89c1,B. Power,ORG,67634,67642,spacy
+la_354f2a89c1,E. Proehl,PERSON,67644,67653,spacy
+la_354f2a89c1,R. Puri,PERSON,67655,67662,spacy
+la_354f2a89c1,A. Radford,PERSON,67664,67674,spacy
+la_354f2a89c1,J. Rae,PERSON,67676,67682,spacy
+la_354f2a89c1,C. Raymond,PERSON,67695,67705,spacy
+la_354f2a89c1,K. Rimbach,GPE,67716,67726,spacy
+la_354f2a89c1,C. Ross,PERSON,67728,67735,spacy
+la_354f2a89c1,B. Rotsted,GPE,67737,67747,spacy
+la_354f2a89c1,H. Roussez,PERSON,67749,67759,spacy
+la_354f2a89c1,N. Ryder,PERSON,67761,67769,spacy
+la_354f2a89c1,M. Saltarelli,PERSON,67771,67784,spacy
+la_354f2a89c1,T. Sanders,PERSON,67786,67796,spacy
+la_354f2a89c1,S. Santurkar,PERSON,67798,67810,spacy
+la_354f2a89c1,G. Sastry,PERSON,67812,67821,spacy
+la_354f2a89c1,H. Schmidt,PERSON,67823,67833,spacy
+la_354f2a89c1,J. Schulman,PERSON,67847,67858,spacy
+la_354f2a89c1,D. Selsam,PERSON,67860,67869,spacy
+la_354f2a89c1,K. Sheppard,PERSON,67871,67882,spacy
+la_354f2a89c1,T. Sherbakov,PERSON,67884,67896,spacy
+la_354f2a89c1,J. Shieh,GPE,67898,67906,spacy
+la_354f2a89c1,S. Shoker,PERSON,67908,67917,spacy
+la_354f2a89c1,P. Shyam,PERSON,67919,67927,spacy
+la_354f2a89c1,S. Sidor,PERSON,67929,67937,spacy
+la_354f2a89c1,E. Sigler,PERSON,67939,67948,spacy
+la_354f2a89c1,M. Simens,PERSON,67950,67959,spacy
+la_354f2a89c1,J. Sitkin,PERSON,67961,67970,spacy
+la_354f2a89c1,I. Sohl,PERSON,67982,67989,spacy
+la_354f2a89c1,B. Sokolowsky,PERSON,67991,68004,spacy
+la_354f2a89c1,Y. Song,PERSON,68006,68013,spacy
+la_354f2a89c1,N. Staudacher,PERSON,68015,68028,spacy
+la_354f2a89c1,F. P. Such,PERSON,68030,68040,spacy
+la_354f2a89c1,N. Summers,PERSON,68042,68052,spacy
+la_354f2a89c1,I. Sutskever,PERSON,68054,68066,spacy
+la_354f2a89c1,J. Tang,PERSON,68068,68075,spacy
+la_354f2a89c1,N. Tezak,PERSON,68077,68085,spacy
+la_354f2a89c1,M. B. Thompson,PERSON,68087,68101,spacy
+la_354f2a89c1,E. Tseng,PERSON,68131,68139,spacy
+la_354f2a89c1,P. Tuggle,PERSON,68141,68150,spacy
+la_354f2a89c1,N. Turley,PERSON,68152,68161,spacy
+la_354f2a89c1,J. Tworek,PERSON,68163,68172,spacy
+la_354f2a89c1,J. F. C. Uribe,PERSON,68174,68188,spacy
+la_354f2a89c1,A. Vallone,PERSON,68190,68200,spacy
+la_354f2a89c1,C. Voss,PERSON,68219,68226,spacy
+la_354f2a89c1,C. Wainwright,PERSON,68228,68241,spacy
+la_354f2a89c1,J. J. Wang,PERSON,68243,68253,spacy
+la_354f2a89c1,A. Wang,PERSON,68255,68262,spacy
+la_354f2a89c1,B. Wang,PERSON,68264,68271,spacy
+la_354f2a89c1,J. Ward,GPE,68273,68280,spacy
+la_354f2a89c1,J. Wei,PERSON,68282,68288,spacy
+la_354f2a89c1,C. Weinmann,PERSON,68290,68301,spacy
+la_354f2a89c1,A. Welihinda,PERSON,68303,68315,spacy
+la_354f2a89c1,P. Welinder,PERSON,68317,68328,spacy
+la_354f2a89c1,J. Weng,PERSON,68330,68337,spacy
+la_354f2a89c1,L. Weng,PERSON,68339,68346,spacy
+la_354f2a89c1,M. Wiethoff,PERSON,68348,68359,spacy
+la_354f2a89c1,D. Willner,PERSON,68361,68371,spacy
+la_354f2a89c1,S. Wolrich,PERSON,68384,68394,spacy
+la_354f2a89c1,H. Wong,PERSON,68396,68403,spacy
+la_354f2a89c1,L. Workman,PERSON,68405,68415,spacy
+la_354f2a89c1,S. Wu,PERSON,68417,68422,spacy
+la_354f2a89c1,J. Wu,PERSON,68424,68429,spacy
+la_354f2a89c1,M. Wu,PERSON,68431,68436,spacy
+la_354f2a89c1,K. Xiao,PERSON,68438,68445,spacy
+la_354f2a89c1,T. Xu,PERSON,68447,68452,spacy
+la_354f2a89c1,S. Yoo,PERSON,68454,68460,spacy
+la_354f2a89c1,K. Yu,PERSON,68462,68467,spacy
+la_354f2a89c1,Q. Yuan,PERSON,68469,68476,spacy
+la_354f2a89c1,W. Zaremba,PERSON,68478,68488,spacy
+la_354f2a89c1,R. Zellers,PERSON,68490,68500,spacy
+la_354f2a89c1,C. Zhang,PERSON,68502,68510,spacy
+la_354f2a89c1,M. Zhang,PERSON,68512,68520,spacy
+la_354f2a89c1,S. Zhao,PERSON,68522,68529,spacy
+la_354f2a89c1,T. Zheng,PERSON,68531,68539,spacy
+la_354f2a89c1,J. Zhuang,PERSON,68541,68550,spacy
+la_354f2a89c1,W. Zhuk,PERSON,68552,68559,spacy
+la_354f2a89c1,B. Zoph,ORG,68565,68572,spacy
+la_354f2a89c1,C. Zhang,PERSON,68620,68628,spacy
+la_354f2a89c1,F. E. Nekoul,PERSON,68642,68654,spacy
+la_354f2a89c1,T. Lee,PERSON,68656,68662,spacy
+la_354f2a89c1,S. Adler,PERSON,68664,68672,spacy
+la_354f2a89c1,A. Jiang,PERSON,68674,68682,spacy
+la_354f2a89c1,L. Weng,PERSON,68688,68695,spacy
+la_354f2a89c1,pp,GPE,68844,68846,spacy
+la_354f2a89c1,W. Zhao,PERSON,68870,68877,spacy
+la_354f2a89c1,X. Ren,PERSON,68879,68885,spacy
+la_354f2a89c1,J. Hessel,PERSON,68887,68896,spacy
+la_354f2a89c1,C. Cardie,PERSON,68898,68907,spacy
+la_354f2a89c1,Y. Choi,PERSON,68909,68916,spacy
+la_354f2a89c1,Y. Deng,PERSON,68922,68929,spacy
+la_354f2a89c1,H. R. Kirk,PERSON,69038,69048,spacy
+la_354f2a89c1,B. Vidgen,PERSON,69050,69059,spacy
+la_354f2a89c1,G. Attanasio,PERSON,69061,69073,spacy
+la_354f2a89c1,D. Hovy,PERSON,69091,69098,spacy
+la_354f2a89c1,X. Shen,PERSON,69237,69244,spacy
+la_354f2a89c1,Z. Chen,PERSON,69246,69253,spacy
+la_354f2a89c1,M. Backes,PERSON,69255,69264,spacy
+la_354f2a89c1,Y. Shen,PERSON,69266,69273,spacy
+la_354f2a89c1,Y. Zhang,PERSON,69279,69287,spacy
+la_354f2a89c1,Q. Lu,PERSON,69446,69451,spacy
+la_354f2a89c1,D. Bowen,PERSON,69453,69461,spacy
+la_354f2a89c1,T. Trinh,PERSON,69463,69471,spacy
+la_354f2a89c1,E. Hsieh,PERSON,69473,69481,spacy
+la_354f2a89c1,S. Pandey,PERSON,69483,69492,spacy
+la_354f2a89c1,J. Svegliato,PERSON,69505,69517,spacy
+la_354f2a89c1,S. Emmons,ORG,69519,69528,spacy
+la_354f2a89c1,O. Watkins,PERSON,69530,69540,spacy
+la_354f2a89c1,al.,PERSON,69545,69548,spacy
+la_354f2a89c1,P. Chao,PERSON,69631,69638,spacy
+la_354f2a89c1,A. Robey,PERSON,69640,69648,spacy
+la_354f2a89c1,E. Dobriban,PERSON,69650,69661,spacy
+la_354f2a89c1,H. Hassani,PERSON,69663,69673,spacy
+la_354f2a89c1,G. J. Pappas,PERSON,69675,69687,spacy
+la_354f2a89c1,E. Wong,PERSON,69693,69700,spacy
+la_354f2a89c1,P. Chao,PERSON,69777,69784,spacy
+la_354f2a89c1,E. Debenedetti,PERSON,69786,69800,spacy
+la_354f2a89c1,A. Robey,PERSON,69802,69810,spacy
+la_354f2a89c1,M. Andriushchenko,PERSON,69812,69829,spacy
+la_354f2a89c1,F. Croce,GPE,69831,69839,spacy
+la_354f2a89c1,V. Sehwag,PERSON,69841,69850,spacy
+la_354f2a89c1,E. Dobriban,PERSON,69852,69863,spacy
+la_354f2a89c1,N. Flammarion,PERSON,69865,69878,spacy
+la_354f2a89c1,G. J. Pappas,PERSON,69880,69892,spacy
+la_354f2a89c1,H. Hassani,PERSON,69905,69915,spacy
+la_354f2a89c1,E. Wong,PERSON,69921,69928,spacy
+la_354f2a89c1,A. Askell,PERSON,70037,70046,spacy
+la_354f2a89c1,L. Lovitt,PERSON,70048,70057,spacy
+la_354f2a89c1,E. Durmus,PERSON,70059,70068,spacy
+la_354f2a89c1,N. Joseph,PERSON,70070,70079,spacy
+la_354f2a89c1,S. Kravec,PERSON,70081,70090,spacy
+la_354f2a89c1,K. Nguyen,PERSON,70092,70101,spacy
+la_354f2a89c1,J. Kaplan,PERSON,70103,70112,spacy
+la_354f2a89c1,D. Ganguli,PERSON,70118,70128,spacy
+la_354f2a89c1,E. Wallace,PERSON,70244,70254,spacy
+la_354f2a89c1,K. Xiao,PERSON,70256,70263,spacy
+la_354f2a89c1,R. Leike,PERSON,70265,70273,spacy
+la_354f2a89c1,L. Weng,PERSON,70275,70282,spacy
+la_354f2a89c1,J. Heidecke,PERSON,70284,70295,spacy
+la_354f2a89c1,A. Beutel,PERSON,70301,70310,spacy
+la_354f2a89c1,A. Chen,PERSON,70414,70421,spacy
+la_354f2a89c1,A. Radhakrishnan,PERSON,70423,70439,spacy
+la_354f2a89c1,B. Steiner,PERSON,70441,70451,spacy
+la_354f2a89c1,C. Denison,PERSON,70453,70463,spacy
+la_354f2a89c1,D. Hernandez,PERSON,70465,70477,spacy
+la_354f2a89c1,D. Li,PERSON,70479,70484,spacy
+la_354f2a89c1,E. Durmus,PERSON,70486,70495,spacy
+la_354f2a89c1,E. Hubinger,PERSON,70497,70508,spacy
+la_354f2a89c1,J. Kernion,PERSON,70510,70520,spacy
+la_354f2a89c1,al.,PERSON,70525,70528,spacy
+la_354f2a89c1,arXiv:2307.13702,ORG,70601,70617,spacy
+la_354f2a89c1,J. Michael,PERSON,70639,70649,spacy
+la_354f2a89c1,E. Perez,PERSON,70651,70659,spacy
+la_354f2a89c1,S. Bowman,PERSON,70665,70674,spacy
+la_354f2a89c1,Neural Information Processing Systems,ORG,70795,70832,spacy
+la_354f2a89c1,S. H. Tanneru,PERSON,70852,70865,spacy
+la_354f2a89c1,D. Ley,PERSON,70867,70873,spacy
+la_354f2a89c1,H. Lakkaraju,PERSON,70891,70903,spacy
+la_354f2a89c1,S. H. Tanneru,PERSON,71042,71055,spacy
+la_354f2a89c1,H. Lakkaraju,PERSON,71061,71073,spacy
+la_354f2a89c1,un,ORG,71115,71117,spacy
+la_354f2a89c1,O. Järviniemi,PERSON,71218,71231,spacy
+la_354f2a89c1,E. Hubinger,PERSON,71236,71247,spacy
+la_354f2a89c1,T. Hagendorff,PERSON,71379,71392,spacy
+la_354f2a89c1,the National Academy of Sciences,ORG,71465,71497,spacy
+la_354f2a89c1,L. Ahmad,PERSON,71542,71550,spacy
+la_354f2a89c1,S. Agarwal,ORG,71552,71562,spacy
+la_354f2a89c1,M. Lampe,PERSON,71564,71572,spacy
+la_354f2a89c1,P. Mishkin,PERSON,71578,71588,spacy
+la_354f2a89c1,Openai,ORG,71591,71597,spacy
+la_354f2a89c1,OpenAI,ORG,71644,71650,rules
+la_354f2a89c1,K. Liu,PERSON,71846,71852,spacy
+la_354f2a89c1,T. Markov,PERSON,71854,71863,spacy
+la_354f2a89c1,N. Chowdhury,PERSON,71865,71877,spacy
+la_354f2a89c1,D. Leet,PERSON,71879,71886,spacy
+la_354f2a89c1,N. Cone,PERSON,71888,71895,spacy
+la_354f2a89c1,C. Maltbie,PERSON,71897,71907,spacy
+la_354f2a89c1,J. Huizinga,GPE,71909,71920,spacy
+la_354f2a89c1,C. Wainwright,PERSON,71922,71935,spacy
+la_354f2a89c1,S. Jackson,PERSON,71937,71947,spacy
+la_354f2a89c1,S. Adler,PERSON,71949,71957,spacy
+la_354f2a89c1,R. Casagrande,PERSON,71959,71972,spacy
+la_354f2a89c1,A. Madry,PERSON,71978,71986,spacy
+la_354f2a89c1,OpenAI,ORG,72065,72071,rules
+la_354f2a89c1,J. M. Laurent,ORG,72082,72095,spacy
+la_354f2a89c1,J. D. Janizek,PERSON,72097,72110,spacy
+la_354f2a89c1,M. Ruzo,PERSON,72112,72119,spacy
+la_354f2a89c1,M. M. Hinks,PERSON,72121,72132,spacy
+la_354f2a89c1,M. J. Hammerling,PERSON,72134,72150,spacy
+la_354f2a89c1,S. Narayanan,PERSON,72152,72164,spacy
+la_354f2a89c1,M. Ponnapati,GPE,72166,72178,spacy
+la_354f2a89c1,S. G. Rodriques,PERSON,72197,72212,spacy
+la_354f2a89c1,I. Ivanov,PERSON,72300,72309,spacy
+la_354f2a89c1,bioRxiv,GPE,72392,72399,spacy
+la_354f2a89c1,C. Tan,PERSON,72410,72416,spacy
+la_354f2a89c1,V. Niculae,PERSON,72418,72428,spacy
+la_354f2a89c1,C. Danescu-Niculescu-Mizil,PERSON,72430,72456,spacy
+la_354f2a89c1,L. Lee,PERSON,72462,72468,spacy
+la_354f2a89c1,WWW,ORG,72643,72646,spacy
+la_354f2a89c1,D. Sherburn,PERSON,72741,72752,spacy
+la_354f2a89c1,O. Jaffe,PERSON,72754,72762,spacy
+la_354f2a89c1,S. Adler,PERSON,72764,72772,spacy
+la_354f2a89c1,J. Aung,PERSON,72774,72781,spacy
+la_354f2a89c1,R. Campbell,PERSON,72783,72794,spacy
+la_354f2a89c1,J. Leung,PERSON,72800,72808,spacy
+la_354f2a89c1,OpenAI,ORG,72910,72916,rules
+la_354f2a89c1,D. Sherburn,PERSON,72927,72938,spacy
+la_354f2a89c1,S. Adler,PERSON,72940,72948,spacy
+la_354f2a89c1,J. Aung,PERSON,72950,72957,spacy
+la_354f2a89c1,R. Campbell,PERSON,72959,72970,spacy
+la_354f2a89c1,M. Phuong,PERSON,72972,72981,spacy
+la_354f2a89c1,V. Krakovna,PERSON,72983,72994,spacy
+la_354f2a89c1,R. Kumar,PERSON,72996,73004,spacy
+la_354f2a89c1,S. Farquhar,PERSON,73006,73017,spacy
+la_354f2a89c1,J. Leung,PERSON,73023,73031,spacy
+la_354f2a89c1,OpenAI,ORG,73080,73086,rules
+la_354f2a89c1,N. Chowdhury,PERSON,73097,73109,spacy
+la_354f2a89c1,J. Aung,PERSON,73111,73118,spacy
+la_354f2a89c1,C. J. Shern,PERSON,73120,73131,spacy
+la_354f2a89c1,D. Sherburn,PERSON,73143,73154,spacy
+la_354f2a89c1,G. Starace,PERSON,73156,73166,spacy
+la_354f2a89c1,R. Dias,PERSON,73177,73184,spacy
+la_354f2a89c1,M. Aljubeh,PERSON,73186,73196,spacy
+la_354f2a89c1,C. E. Jimenez,PERSON,73209,73222,spacy
+la_354f2a89c1,J. Yang,PERSON,73224,73231,spacy
+la_354f2a89c1,K. Liu,PERSON,73233,73239,spacy
+la_354f2a89c1,A. Madry,PERSON,73245,73253,spacy
+la_354f2a89c1,OpenAI,ORG,73289,73295,rules
+la_354f2a89c1,C. E. Jimenez,PERSON,73306,73319,spacy
+la_354f2a89c1,J. Yang,PERSON,73321,73328,spacy
+la_354f2a89c1,A. Wettig,PERSON,73330,73339,spacy
+la_354f2a89c1,S. Yao,PERSON,73341,73347,spacy
+la_354f2a89c1,K. Pei,PERSON,73349,73355,spacy
+la_354f2a89c1,O. Press,PERSON,73357,73365,spacy
+la_354f2a89c1,K. Narasimhan,PERSON,73371,73384,spacy
+la_354f2a89c1,J. S. Chan,PERSON,73463,73473,spacy
+la_354f2a89c1,N. Chowdhury,PERSON,73475,73487,spacy
+la_354f2a89c1,O. Jaffe,PERSON,73489,73497,spacy
+la_354f2a89c1,J. Aung,PERSON,73499,73506,spacy
+la_354f2a89c1,D. Sherburn,PERSON,73508,73519,spacy
+la_354f2a89c1,G. Starace,PERSON,73530,73540,spacy
+la_354f2a89c1,K. Liu,PERSON,73542,73548,spacy
+la_354f2a89c1,L. Maksin,PERSON,73550,73559,spacy
+la_354f2a89c1,L. Weng,PERSON,73576,73583,spacy
+la_354f2a89c1,A. Mądry,PERSON,73589,73597,spacy
+la_354f2a89c1,C. Burns,PERSON,73703,73711,spacy
+la_354f2a89c1,S. Basart,PERSON,73713,73722,spacy
+la_354f2a89c1,A. Zou,PERSON,73724,73730,spacy
+la_354f2a89c1,M. Mazeika,PERSON,73732,73742,spacy
+la_354f2a89c1,D. Song,PERSON,73744,73751,spacy
+la_354f2a89c1,J. Steinhardt,PERSON,73757,73770,spacy
+la_354f2a89c1,OpenAI,ORG,73989,73995,rules
+la_354f2a89c1,C Section,ORG,74349,74358,spacy
+la_354f2a89c1,the Pre-Mitigation,ORG,74891,74909,spacy
+la_354f2a89c1,Post-Mitigation,ORG,74913,74928,spacy
+la_354f2a89c1,OpenAI,ORG,75141,75147,rules
+la_354f2a89c1,OpenAI,ORG,75148,75154,rules
+la_354f2a89c1,Adam Kalai,PERSON,75183,75193,spacy
+la_354f2a89c1,Alec Helyar,PERSON,75195,75206,spacy
+la_354f2a89c1,Aleksander Madry,PERSON,75208,75224,spacy
+la_354f2a89c1,Alex Beutel,PERSON,75226,75237,spacy
+la_354f2a89c1,Alex Iftimie,PERSON,75239,75251,spacy
+la_354f2a89c1,Ally Bennett,PERSON,75253,75265,spacy
+la_354f2a89c1,Andrea Vallone,PERSON,75267,75281,spacy
+la_354f2a89c1,Andy Applebaum,PERSON,75283,75297,spacy
+la_354f2a89c1,Angela Jiang,PERSON,75299,75311,spacy
+la_354f2a89c1,Ben Rossen,PERSON,75313,75323,spacy
+la_354f2a89c1,Boaz Barak,PERSON,75325,75335,spacy
+la_354f2a89c1,Cary Bassin,PERSON,75337,75348,spacy
+la_354f2a89c1,Cary Hudson,PERSON,75350,75361,spacy
+la_354f2a89c1,Claudia Fischer,ORG,75363,75378,spacy
+la_354f2a89c1,Clive Chan,PERSON,75380,75390,spacy
+la_354f2a89c1,David Robinson,PERSON,75392,75406,spacy
+la_354f2a89c1,Eddie Zhang,PERSON,75408,75419,spacy
+la_354f2a89c1,Elizabeth Proehl,PERSON,75421,75437,spacy
+la_354f2a89c1,Eric Wallace,PERSON,75439,75451,spacy
+la_354f2a89c1,Erik Ritter,PERSON,75453,75464,spacy
+la_354f2a89c1,Evan Mays,PERSON,75466,75475,spacy
+la_354f2a89c1,Filippo Raso,PERSON,75477,75489,spacy
+la_354f2a89c1,Freddie Sulit,PERSON,75491,75504,spacy
+la_354f2a89c1,Fred von Lohmann*,PERSON,75506,75523,spacy
+la_354f2a89c1,Giambattista Parascandolo,PERSON,75525,75550,spacy
+la_354f2a89c1,Hessam Bagherinezhad,PERSON,75552,75572,spacy
+la_354f2a89c1,Hongyu Ren,PERSON,75574,75584,spacy
+la_354f2a89c1,Hyung Won Chung,PERSON,75586,75601,spacy
+la_354f2a89c1,James Lennon,PERSON,75603,75615,spacy
+la_354f2a89c1,Jason Wei,PERSON,75617,75626,spacy
+la_354f2a89c1,Joaquin Quinonero Candela,PERSON,75628,75653,spacy
+la_354f2a89c1,Joel Parish,PERSON,75655,75666,spacy
+la_354f2a89c1,Jonathan Uesato*,PERSON,75668,75684,spacy
+la_354f2a89c1,Johannes Heidecke,ORG,75686,75703,spacy
+la_354f2a89c1,Kai Xiao,PERSON,75705,75713,spacy
+la_354f2a89c1,Katy Shi,PERSON,75715,75723,spacy
+la_354f2a89c1,Kayla Wood,PERSON,75725,75735,spacy
+la_354f2a89c1,Kendra Rimbach,PERSON,75737,75751,spacy
+la_354f2a89c1,Kevin Liu,PERSON,75753,75762,spacy
+la_354f2a89c1,Lauren Yang,PERSON,75764,75775,spacy
+la_354f2a89c1,Lama Ahmad,PERSON,75777,75787,spacy
+la_354f2a89c1,Leon Maksin,PERSON,75789,75800,spacy
+la_354f2a89c1,Leyton Ho,PERSON,75802,75811,spacy
+la_354f2a89c1,Lilian Weng*,PERSON,75813,75825,spacy
+la_354f2a89c1,Liam Fedus,PERSON,75827,75837,spacy
+la_354f2a89c1,Manas Joglekar,PERSON,75839,75853,spacy
+la_354f2a89c1,Melody Guan,PERSON,75855,75866,spacy
+la_354f2a89c1,Mianna Chen*,PERSON,75868,75880,spacy
+la_354f2a89c1,Mia Glaese,PERSON,75882,75892,spacy
+la_354f2a89c1,Michael Lampe,PERSON,75894,75907,spacy
+la_354f2a89c1,Michele Wang,PERSON,75909,75921,spacy
+la_354f2a89c1,Miles Wang,PERSON,75923,75933,spacy
+la_354f2a89c1,Neil Chowdhury*,PERSON,75935,75950,spacy
+la_354f2a89c1,Olivia Watkins,PERSON,75952,75966,spacy
+la_354f2a89c1,Patrick Chao,PERSON,75968,75980,spacy
+la_354f2a89c1,Rachel Dias,PERSON,75982,75993,spacy
+la_354f2a89c1,Renny Hwang,PERSON,75995,76006,spacy
+la_354f2a89c1,Sam Toizer,PERSON,76008,76018,spacy
+la_354f2a89c1,Sam Toyer,PERSON,76020,76029,spacy
+la_354f2a89c1,Samuel Miserendino,PERSON,76031,76049,spacy
+la_354f2a89c1,Sandhini Agarwal,PERSON,76051,76067,spacy
+la_354f2a89c1,Saachi Jain,PERSON,76069,76080,spacy
+la_354f2a89c1,Sasha Baker,PERSON,76082,76093,spacy
+la_354f2a89c1,Shengjia Zhao,PERSON,76095,76108,spacy
+la_354f2a89c1,Steph Lin,PERSON,76110,76119,spacy
+la_354f2a89c1,Tejal Patwardhan,ORG,76121,76137,spacy
+la_354f2a89c1,Thomas Degry,PERSON,76139,76151,spacy
+la_354f2a89c1,Tom Stasi,PERSON,76153,76162,spacy
+la_354f2a89c1,Troy Peterson,PERSON,76164,76177,spacy
+la_354f2a89c1,Tyna Eloundou,PERSON,76179,76192,spacy
+la_354f2a89c1,Lindsay McCallum,PERSON,76194,76210,spacy
+la_354f2a89c1,Lindsey Held,PERSON,76212,76224,spacy
+la_354f2a89c1,Yunyun Wang,PERSON,76226,76237,spacy
+la_354f2a89c1,Wes McCabe,PERSON,76243,76253,spacy
+la_354f2a89c1,OpenAI,ORG,76289,76295,rules
+la_354f2a89c1,OpenAI,ORG,76565,76571,rules
+la_354f2a89c1,OpenAI,ORG,76575,76581,rules
+la_354f2a89c1,OpenAI,ORG,76622,76628,rules
+la_70dadf2e6e,the Department of War Loading… Update,ORG,87,124,spacy
+la_70dadf2e6e,Department,ORG,174,184,spacy
+la_70dadf2e6e,U.S.,GPE,493,497,spacy
+la_70dadf2e6e,Department,ORG,615,625,spacy
+la_70dadf2e6e,Department of War,ORG,678,695,spacy
+la_70dadf2e6e,NSA,ORG,727,730,spacy
+la_70dadf2e6e,the United States Constitution,ORG,885,915,spacy
+la_70dadf2e6e,U.S.,GPE,1041,1045,spacy
+la_70dadf2e6e,Department,ORG,1101,1111,spacy
+la_70dadf2e6e,U.S.,GPE,1204,1208,spacy
+la_70dadf2e6e,The Department of War,ORG,1335,1356,spacy
+la_70dadf2e6e,Department,ORG,1461,1471,spacy
+la_70dadf2e6e,OpenAI,ORG,1510,1516,rules
+la_70dadf2e6e,Department,ORG,1815,1825,spacy
+la_70dadf2e6e,Pentagon,ORG,1884,1892,spacy
+la_70dadf2e6e,Anthropic,ORG,2132,2141,rules
+la_70dadf2e6e,DoW,ORG,2215,2218,spacy
+la_70dadf2e6e,OpenAI,ORG,2289,2295,rules
+la_70dadf2e6e,OpenAI,ORG,2349,2355,rules
+la_70dadf2e6e,OpenAI,ORG,2415,2421,rules
+la_70dadf2e6e,OpenAI,ORG,2907,2913,rules
+la_70dadf2e6e,U.S.,GPE,3047,3051,spacy
+la_70dadf2e6e,the United States,GPE,3360,3377,spacy
+la_70dadf2e6e,DoW,ORG,3587,3590,spacy
+la_70dadf2e6e,The Department of War,ORG,3965,3986,spacy
+la_70dadf2e6e,The AI System,ORG,4145,4158,spacy
+la_70dadf2e6e,Department,ORG,4257,4267,spacy
+la_70dadf2e6e,the Foreign Intelligence and Surveillance Act,ORG,4819,4864,spacy
+la_70dadf2e6e,U.S.,GPE,5041,5045,spacy
+la_70dadf2e6e,the Posse Comitatus Act,ORG,5210,5233,spacy
+la_70dadf2e6e,OpenAI,ORG,5325,5331,rules
+la_70dadf2e6e,FAQ,ORG,5425,5428,spacy
+la_70dadf2e6e,US,GPE,5473,5475,spacy
+la_70dadf2e6e,US,GPE,6115,6117,spacy
+la_70dadf2e6e,DoW,ORG,6181,6184,spacy
+la_70dadf2e6e,US,GPE,6193,6195,spacy
+la_70dadf2e6e,Anthropic,ORG,6466,6475,rules
+la_70dadf2e6e,Anthropic,ORG,6626,6635,rules
+la_70dadf2e6e,Anthropic,ORG,6825,6834,rules
+la_70dadf2e6e,OpenAI,ORG,7046,7052,rules
+la_70dadf2e6e,Anthropic,ORG,7094,7103,rules
+la_70dadf2e6e,Anthropic,ORG,7198,7207,rules
+la_70dadf2e6e,the Department of War,ORG,7344,7365,spacy
+la_70dadf2e6e,OpenAI,ORG,7373,7379,rules
+la_70dadf2e6e,OpenAI,ORG,7599,7605,rules
+la_70dadf2e6e,the Department of War,ORG,7676,7697,spacy
+la_70dadf2e6e,OpenAI,ORG,7705,7711,rules
+la_70dadf2e6e,U.S.,GPE,7751,7755,spacy
+la_70dadf2e6e,DoW,ORG,7859,7862,spacy
+la_70dadf2e6e,OpenAI,ORG,7951,7957,rules
+la_70dadf2e6e,DoW,ORG,8698,8701,spacy
+la_70dadf2e6e,Anthropic,ORG,9021,9030,rules
+la_70dadf2e6e,DoW,ORG,9113,9116,spacy
+la_70dadf2e6e,Anthropic,ORG,9133,9142,rules
+la_70dadf2e6e,DoW,ORG,9525,9528,spacy
+la_70dadf2e6e,OpenAI,ORG,10009,10015,rules
+la_70dadf2e6e,OpenAI,ORG,10059,10065,rules
+la_70dadf2e6e,OpenAI,ORG,10222,10228,rules
+la_70dadf2e6e,ServiceNow,ORG,10233,10243,spacy
+la_5c157a0f1b,OpenAI,ORG,0,6,rules
+la_5c157a0f1b,Amazon,ORG,11,17,rules
+la_5c157a0f1b,OpenAI,ORG,76,82,rules
+la_5c157a0f1b,Amazon,ORG,87,93,rules
+la_5c157a0f1b,Loading,PERSON,125,132,spacy
+la_5c157a0f1b,Amazon,ORG,146,152,rules
+la_5c157a0f1b,AWS,ORG,167,170,rules
+la_5c157a0f1b,OpenAI,ORG,176,182,rules
+la_5c157a0f1b,OpenAI,ORG,240,246,rules
+la_5c157a0f1b,Amazon,ORG,268,274,rules
+la_5c157a0f1b,AWS,ORG,287,290,rules
+la_5c157a0f1b,AWS,ORG,369,372,rules
+la_5c157a0f1b,OpenAI,ORG,439,445,rules
+la_5c157a0f1b,OpenAI,ORG,533,539,rules
+la_5c157a0f1b,Trainium,PERSON,566,574,spacy
+la_5c157a0f1b,AWS,ORG,592,595,rules
+la_5c157a0f1b,Stateful Runtime Environment,ORG,633,661,spacy
+la_5c157a0f1b,Frontier,ORG,663,671,spacy
+la_5c157a0f1b,OpenAI,ORG,703,709,rules
+la_5c157a0f1b,Amazon,ORG,714,720,rules
+la_5c157a0f1b,Amazon,ORG,771,777,rules
+la_5c157a0f1b,Amazon,ORG,810,816,rules
+la_5c157a0f1b,OpenAI,ORG,844,850,rules
+la_5c157a0f1b,OpenAI,ORG,852,858,rules
+la_5c157a0f1b,Amazon,ORG,863,869,rules
+la_5c157a0f1b,Amazon,ORG,1027,1033,rules
+la_5c157a0f1b,OpenAI,ORG,1066,1072,rules
+la_5c157a0f1b,OpenAI,ORG,1286,1292,rules
+la_5c157a0f1b,Amazon,ORG,1297,1303,rules
+la_5c157a0f1b,OpenAI,ORG,1369,1375,rules
+la_5c157a0f1b,Amazon,ORG,1418,1424,rules
+la_5c157a0f1b,AWS,ORG,1894,1897,rules
+la_5c157a0f1b,Amazon,ORG,1935,1941,rules
+la_5c157a0f1b,AWS,ORG,2106,2109,rules
+la_5c157a0f1b,The Stateful Runtime Environment,ORG,2111,2143,spacy
+la_5c157a0f1b,OpenAI,ORG,2199,2205,rules
+la_5c157a0f1b,AWS,ORG,2245,2248,rules
+la_5c157a0f1b,AWS,ORG,2259,2262,rules
+la_5c157a0f1b,OpenAI,ORG,2335,2341,rules
+la_5c157a0f1b,OpenAI,ORG,2372,2378,rules
+la_5c157a0f1b,Frontier,ORG,2474,2482,spacy
+la_5c157a0f1b,Frontier,ORG,2769,2777,spacy
+la_5c157a0f1b,OpenAI,ORG,2892,2898,rules
+la_5c157a0f1b,Trainium,PERSON,2906,2914,spacy
+la_5c157a0f1b,Amazon,ORG,2940,2946,rules
+la_5c157a0f1b,OpenAI,ORG,2963,2969,rules
+la_5c157a0f1b,AWS,ORG,2974,2977,rules
+la_5c157a0f1b,OpenAI,ORG,3095,3101,rules
+la_5c157a0f1b,Trainium,PERSON,3153,3161,spacy
+la_5c157a0f1b,AWS,ORG,3179,3182,rules
+la_5c157a0f1b,Frontier,ORG,3247,3255,spacy
+la_5c157a0f1b,OpenAI,ORG,3404,3410,rules
+la_5c157a0f1b,AWS,ORG,3457,3460,rules
+la_5c157a0f1b,Amazon,ORG,4067,4073,rules
+la_5c157a0f1b,OpenAI,ORG,4105,4111,rules
+la_5c157a0f1b,Amazon,ORG,4116,4122,rules
+la_5c157a0f1b,Amazon,ORG,4182,4188,rules
+la_5c157a0f1b,Amazon,ORG,4209,4215,rules
+la_5c157a0f1b,Amazon,ORG,4248,4254,rules
+la_5c157a0f1b,OpenAI,ORG,4284,4290,rules
+la_5c157a0f1b,Amazon,ORG,4434,4440,rules
+la_5c157a0f1b,Amazon,ORG,4463,4469,rules
+la_5c157a0f1b,Nova,PERSON,4472,4476,spacy
+la_5c157a0f1b,OpenAI,ORG,4573,4579,rules
+la_5c157a0f1b,OpenAI,ORG,4736,4742,rules
+la_5c157a0f1b,ServiceNow,ORG,4747,4757,spacy
+pa_d335b3aebe,MotionLM,ORG,365,373,spacy
+pa_d335b3aebe,MotionLM,ORG,803,811,spacy
+la_c486538cb1,GPT-4o,MODEL_AGENT,12,18,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,37,44,rules
+la_c486538cb1,GPT‑4o,MODEL_AGENT,90,96,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,115,122,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,228,235,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,241,248,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,321,328,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,408,415,rules
+la_c486538cb1,Loading,PERSON,440,447,spacy
+la_c486538cb1,ChatGPT,MODEL_AGENT,461,468,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,548,555,rules
+la_c486538cb1,GPT‑4o,MODEL_AGENT,749,755,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,821,828,rules
+la_c486538cb1,GPT-4o,MODEL_AGENT,851,857,rules
+la_c486538cb1,GPT‑4o,MODEL_AGENT,858,864,rules
+la_c486538cb1,GPT‑4,MODEL_AGENT,910,915,rules
+la_c486538cb1,GPT‑4o,MODEL_AGENT,1026,1032,rules
+la_c486538cb1,GPT‑4o,MODEL_AGENT,1212,1218,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,1429,1436,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,1486,1493,rules
+la_c486538cb1,Mode,PERSON,1583,1587,spacy
+la_c486538cb1,GPT‑4o,MODEL_AGENT,1769,1775,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,1839,1846,rules
+la_c486538cb1,GPT‑4o,MODEL_AGENT,1994,2000,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,2004,2011,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,2121,2128,rules
+la_c486538cb1,Team and Enterprise,ORG,2242,2261,spacy
+la_c486538cb1,ChatGPT,MODEL_AGENT,2491,2498,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,2568,2575,rules
+la_c486538cb1,GPT‑4o,MODEL_AGENT,2621,2627,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,2629,2636,rules
+la_c486538cb1,GPT‑4,MODEL_AGENT,2701,2706,rules
+la_c486538cb1,Upload,PERSON,2886,2892,spacy
+la_c486538cb1,Discover,GPE,2974,2982,spacy
+la_c486538cb1,GPT‑4o,MODEL_AGENT,3142,3148,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,3207,3214,rules
+la_c486538cb1,GPT‑3.5,MODEL_AGENT,3244,3251,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,3402,3409,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,3590,3597,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,3715,3722,rules
+la_c486538cb1,Voice Mode,PERSON,3766,3776,spacy
+la_c486538cb1,ChatGPT,MODEL_AGENT,3804,3811,rules
+la_c486538cb1,GPT‑4o,MODEL_AGENT,3828,3834,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,4331,4338,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,4381,4388,rules
+la_c486538cb1,ChatGPT,MODEL_AGENT,4588,4595,rules
+la_9b042a61ba,GPT‑4.1,MODEL_AGENT,133,140,rules
+la_9b042a61ba,API Results 1 million,PRODUCT,370,391,spacy
+la_9b042a61ba,Results 500,ORG,432,443,spacy
+la_9b042a61ba,Education,ORG,444,453,spacy
+la_9b042a61ba,Caleb Hicks,PERSON,554,565,spacy
+la_9b042a61ba,ChatGPT,MODEL_AGENT,892,899,rules
+la_9b042a61ba,Apple,ORG,1120,1125,rules
+la_9b042a61ba,SchoolAI,ORG,1471,1479,spacy
+la_9b042a61ba,OpenAI,ORG,1589,1595,rules
+la_9b042a61ba,Nate Sanders,PERSON,1851,1863,spacy
+la_9b042a61ba,Teachers,PRODUCT,2014,2022,spacy
+la_9b042a61ba,SchoolAI,ORG,2146,2154,spacy
+la_9b042a61ba,Dot,PERSON,2281,2284,spacy
+la_9b042a61ba,Dot,PERSON,2416,2419,spacy
+la_9b042a61ba,GPT‑4o,MODEL_AGENT,2647,2653,rules
+la_9b042a61ba,GPT‑4.1,MODEL_AGENT,2658,2665,rules
+la_9b042a61ba,U.S.,GPE,3095,3099,spacy
+la_9b042a61ba,Dari,ORG,3114,3118,spacy
+la_9b042a61ba,Hicks,PERSON,3594,3599,spacy
+la_9b042a61ba,OpenAI,ORG,4051,4057,rules
+la_9b042a61ba,GPT‑4o,MODEL_AGENT,4059,4065,rules
+la_9b042a61ba,Dot,PERSON,4073,4076,spacy
+la_9b042a61ba,GPT‑4.1,MODEL_AGENT,4179,4186,rules
+la_9b042a61ba,TTS,ORG,4387,4390,spacy
+la_9b042a61ba,GPT‑4.1,MODEL_AGENT,4511,4518,rules
+la_9b042a61ba,GPT‑4o,MODEL_AGENT,4522,4528,rules
+la_9b042a61ba,GPT‑4o-mini,MODEL_AGENT,4585,4596,rules
+la_9b042a61ba,enforce SchoolAI,PERSON,4954,4970,spacy
+la_9b042a61ba,OpenAI,ORG,5292,5298,rules
+la_9b042a61ba,Sanders,PERSON,5339,5346,spacy
+la_9b042a61ba,GPT‑4.1,MODEL_AGENT,5480,5487,rules
+la_9b042a61ba,OpenAI,ORG,5908,5914,rules
+la_9b042a61ba,Founder,PERSON,6081,6088,spacy
+la_9b042a61ba,Hicks,PERSON,7530,7535,spacy
+la_9b042a61ba,OpenAI,ORG,7543,7549,rules
+la_9b042a61ba,OpenAI,ORG,7760,7766,rules
+re_017fde5659,Significant-Gravitas,ORG,0,20,rules
+re_017fde5659,AutoGPT,MODEL_AGENT,21,28,rules
+re_017fde5659,UI/UX Improvements - *,ORG,479,501,spacy
+re_017fde5659,UI,ORG,735,737,spacy
+re_017fde5659,@Pwuts,PERSON,845,851,spacy
+re_017fde5659,Prisma,PERSON,881,887,spacy
+re_017fde5659,@Pwuts,PERSON,903,909,spacy
+re_017fde5659,Discord,ORG,1455,1462,spacy
+la_9bf2135904,ChatGPT,MODEL_AGENT,21,28,rules
+la_9bf2135904,ChatGPT,MODEL_AGENT,106,113,rules
+la_9bf2135904,ChatGPT,MODEL_AGENT,148,155,rules
+la_9bf2135904,ChatGPT,MODEL_AGENT,350,357,rules
+la_9bf2135904,a National Bureau of Economic Research,ORG,1060,1098,spacy
+la_9bf2135904,NBER,ORG,1100,1104,spacy
+la_9bf2135904,OpenAI,ORG,1123,1129,rules
+la_9bf2135904,Harvard,ORG,1159,1166,spacy
+la_9bf2135904,David Deming,PERSON,1177,1189,spacy
+la_9bf2135904,ChatGPT,MODEL_AGENT,1318,1325,rules
+la_9bf2135904,ChatGPT,MODEL_AGENT,1413,1420,rules
+la_9bf2135904,ChatGPT,MODEL_AGENT,1773,1780,rules
+la_9bf2135904,ChatGPT,MODEL_AGENT,2076,2083,rules
+la_9bf2135904,ChatGPT,MODEL_AGENT,2213,2220,rules
+la_9bf2135904,ChatGPT,MODEL_AGENT,2352,2359,rules
+la_9bf2135904,ChatGPT,MODEL_AGENT,2805,2812,rules
+la_9bf2135904,ChatGPT,MODEL_AGENT,3255,3262,rules
+la_9bf2135904,ChatGPT,MODEL_AGENT,3471,3478,rules
+la_9bf2135904,ChatGPT,MODEL_AGENT,3720,3727,rules
+la_9bf2135904,ChatGPT,MODEL_AGENT,4029,4036,rules
+la_9bf2135904,Citation,ORG,4671,4679,spacy
+la_9bf2135904,Citation 1,PRODUCT,4680,4690,spacy
+la_9bf2135904,Aaron Chatterji,PERSON,4743,4758,spacy
+la_9bf2135904,Tom Cunningham,PERSON,4763,4777,spacy
+la_9bf2135904,David Deming,PERSON,4782,4794,spacy
+la_9bf2135904,"Zo{\""e} Hitzig",ORG,4799,4813,spacy
+la_9bf2135904,Christopher Ong,PERSON,4818,4833,spacy
+la_9bf2135904,Carl Shan,PERSON,4838,4847,spacy
+la_9bf2135904,Kevin Wadman,PERSON,4852,4864,spacy
+la_9bf2135904,ChatGPT,MODEL_AGENT,4894,4901,rules
+la_9bf2135904,National Bureau of Economic Research,ORG,4962,4998,spacy
+la_9bf2135904,ChatGPT,MODEL_AGENT,5089,5096,rules
+la_9bf2135904,GPT Economic Research,ORG,5102,5123,spacy
+la_9bf2135904,OpenAI,ORG,5131,5137,rules
+la_9bf2135904,Research Oct 26,PERSON,5292,5307,spacy
+la_9bf2135904,ChatGPT,MODEL_AGENT,5314,5321,rules
+la_9a9d95f5c0,OpenAI,ORG,0,6,rules
+la_9a9d95f5c0,OpenAI,ORG,97,103,rules
+la_9a9d95f5c0,Los Alamos National Laboratory,ORG,108,138,spacy
+la_9a9d95f5c0,OpenAI,ORG,180,186,rules
+la_9a9d95f5c0,Los Alamos National Laboratory,ORG,191,221,spacy
+la_9a9d95f5c0,OpenAI,ORG,360,366,rules
+la_9a9d95f5c0,Los Alamos National Laboratory (LANL,ORG,371,407,spacy
+la_9a9d95f5c0,the United States,GPE,418,435,spacy
+la_9a9d95f5c0,U.S.,GPE,667,671,spacy
+la_9a9d95f5c0,U.S.,GPE,741,745,spacy
+la_9a9d95f5c0,White House,ORG,883,894,spacy
+la_9a9d95f5c0,Trustworthy Development,PERSON,936,959,spacy
+la_9a9d95f5c0,Artificial Intelligence,ORG,971,994,spacy
+la_9a9d95f5c0,the U.S. Department of Energy’s,ORG,1027,1058,spacy
+la_9a9d95f5c0,OpenAI,ORG,1186,1192,rules
+la_9a9d95f5c0,Moderna,PERSON,1296,1303,spacy
+la_9a9d95f5c0,OpenAI,ORG,1318,1324,rules
+la_9a9d95f5c0,Color Health,ORG,1458,1470,spacy
+la_9a9d95f5c0,GPT‑4o,MODEL_AGENT,1499,1505,rules
+la_9a9d95f5c0,Los Alamos National Laboratory,ORG,1736,1766,spacy
+la_9a9d95f5c0,Mira Murati,PERSON,1807,1818,spacy
+la_9a9d95f5c0,OpenAI,ORG,1820,1826,rules
+la_9a9d95f5c0,Nick Generous,PERSON,2143,2156,spacy
+la_9a9d95f5c0,Information Systems,ORG,2182,2201,spacy
+la_9a9d95f5c0,Modeling,GPE,2206,2214,spacy
+la_9a9d95f5c0,Los Alamos,GPE,2220,2230,spacy
+la_9a9d95f5c0,AI Risks Technical Assessment Group,ORG,2277,2312,spacy
+la_9a9d95f5c0,OpenAI,ORG,2373,2379,rules
+la_9a9d95f5c0,Los Alamos National Laboratory’s Bioscience Division,ORG,2384,2436,spacy
+la_9a9d95f5c0,GPT‑4o,MODEL_AGENT,2507,2513,rules
+la_9a9d95f5c0,GPT‑4o,MODEL_AGENT,2692,2698,rules
+la_9a9d95f5c0,Frontier AI Safety,ORG,3208,3226,spacy
+la_9a9d95f5c0,AI Seoul Summit,ORG,3246,3261,spacy
+la_9a9d95f5c0,Los Alamos,GPE,3292,3302,spacy
+la_9a9d95f5c0,GPT‑4o,MODEL_AGENT,3918,3924,rules
+la_9a9d95f5c0,GPT‑4,MODEL_AGENT,4590,4595,rules
+la_9a9d95f5c0,GPT‑4o,MODEL_AGENT,4629,4635,rules
+la_9a9d95f5c0,GPT‑4o,MODEL_AGENT,4850,4856,rules
+la_9a9d95f5c0,Los Alamos National Laboratory,ORG,5008,5038,spacy
+la_9a9d95f5c0,GPT‑4o,MODEL_AGENT,5312,5318,rules
+la_9a9d95f5c0,GPT Ethics & Safety Robotics Generative Models Author,ORG,5708,5761,spacy
+la_9a9d95f5c0,OpenAI,ORG,5762,5768,rules
+re_96537f73d7,crewAIInc,ORG,0,9,rules
+re_96537f73d7,Quickstart,PERSON,324,334,spacy
+re_96537f73d7,CLI,ORG,595,598,spacy
+re_96537f73d7,Ruff,PERSON,1276,1280,spacy
+re_96537f73d7,MyPy,ORG,1285,1289,spacy
+pa_8fa1443c8b,Statefulness,ORG,81,93,spacy
+pa_8fa1443c8b,Evo-Memory,PERSON,929,939,spacy
+pa_8fa1443c8b,QA,ORG,1331,1333,spacy
+pa_8fa1443c8b,ExpRAG,PERSON,1412,1418,spacy
+pa_8fa1443c8b,ReMem,PERSON,1487,1492,spacy
+la_0d668aeed3,DeepMind,ORG,296,304,rules
+re_f4d40f87ee,crewAIInc,ORG,0,9,rules
+re_f4d40f87ee,CEL,ORG,194,197,spacy
+re_f4d40f87ee,Bug Fixes - Reject,ORG,249,267,spacy
+re_f4d40f87ee,v1.15.2a1 - Squeeze,ORG,350,369,spacy
+pa_7d171a840c,NISQ,ORG,243,247,spacy
+pa_7d171a840c,SDK,ORG,1380,1383,spacy
+la_483586da1c,AGI Loading…,ORG,86,98,spacy
+la_483586da1c,ChatGPT,MODEL_AGENT,369,376,rules
+la_483586da1c,SoftBank Group,ORG,437,451,spacy
+la_483586da1c,OpenAI,ORG,748,754,rules
+re_a9cd035e1b,Significant-Gravitas,ORG,0,20,rules
+re_a9cd035e1b,AutoGPT,MODEL_AGENT,21,28,rules
+re_a9cd035e1b,AutoGPT,MODEL_AGENT,29,36,rules
+re_a9cd035e1b,AutoGPT,MODEL_AGENT,187,194,rules
+re_a9cd035e1b,UI,ORG,726,728,spacy
+re_a9cd035e1b,UI,PERSON,845,847,spacy
+re_a9cd035e1b,GCS,ORG,1516,1519,spacy
+re_a9cd035e1b,S3,ORG,1524,1526,spacy
+re_a9cd035e1b,Google,ORG,1621,1627,rules
+re_a9cd035e1b,Cloud Storage,PERSON,1628,1641,spacy
+re_a9cd035e1b,S3,ORG,1646,1648,spacy
+re_a9cd035e1b,CLI,ORG,2033,2036,spacy
+re_a9cd035e1b,Docker,PERSON,2245,2251,spacy
+re_a9cd035e1b,PromptStrategy,ORG,2696,2710,spacy
+re_a9cd035e1b,Config,PERSON,2838,2844,spacy
+re_a9cd035e1b,Config,PERSON,2951,2957,spacy
+re_a9cd035e1b,UserConfigurable,ORG,3332,3348,spacy
+re_a9cd035e1b,AutoGPT,MODEL_AGENT,3528,3535,rules
+re_a9cd035e1b,Forge,GPE,3543,3548,spacy
+re_a9cd035e1b,AGBenchmark,ORG,3550,3561,spacy
+re_a9cd035e1b,Frontend,PRODUCT,3574,3582,spacy
+re_a9cd035e1b,AutoGPT,MODEL_AGENT,3586,3593,rules
+re_a9cd035e1b,CLI,ORG,3698,3701,spacy
+re_a9cd035e1b,Forge,PERSON,3730,3735,spacy
+re_a9cd035e1b,Planning & Task Management,ORG,4129,4155,spacy
+re_a9cd035e1b,@Pwuts,PERSON,4168,4174,spacy
+re_a9cd035e1b,@collijk,PERSON,4532,4540,spacy
+re_a9cd035e1b,AutoGPT,MODEL_AGENT,4774,4781,rules
+re_a9cd035e1b,@Pwuts,PERSON,4801,4807,spacy
+re_a9cd035e1b,AutoGPT,MODEL_AGENT,4887,4894,rules
+re_a9cd035e1b,@Pwuts,PERSON,4939,4945,spacy
+re_a9cd035e1b,Auto-GPT,MODEL_AGENT,4958,4966,rules
+re_a9cd035e1b,AutoGPT,MODEL_AGENT,4970,4977,rules
+re_a9cd035e1b,AutoGPT,MODEL_AGENT,5001,5008,rules
+re_a9cd035e1b,PromptStrategy,ORG,5061,5075,spacy
+re_a9cd035e1b,AutoGPT,MODEL_AGENT,5147,5154,rules
+re_a9cd035e1b,@shresthasurav,ORG,5278,5292,spacy
+re_a9cd035e1b,OpenAI,ORG,5349,5355,rules
+re_a9cd035e1b,@Pwuts,PERSON,5379,5385,spacy
+re_a9cd035e1b,JSON,PERSON,5455,5459,spacy
+re_a9cd035e1b,@Pwuts,PERSON,5631,5637,spacy
+re_a9cd035e1b,Config,PERSON,5792,5798,spacy
+re_a9cd035e1b,@Pwuts,PERSON,5828,5834,spacy
+re_a9cd035e1b,GCS,ORG,5867,5870,spacy
+re_a9cd035e1b,S3 FileWorkspace,ORG,5875,5891,spacy
+re_a9cd035e1b,@Pwuts,PERSON,5905,5911,spacy
+re_a9cd035e1b,PostgreSQL,GPE,5950,5960,spacy
+pa_e4fc7a2f26,Large Language Models,PERSON,94,115,spacy
+pa_e4fc7a2f26,SocialGrid,ORG,275,285,spacy
+pa_e4fc7a2f26,Us,GPE,341,343,spacy
+pa_e4fc7a2f26,GPT,ORG,480,483,spacy
+pa_e4fc7a2f26,SocialGrid,ORG,712,722,spacy
+pa_e4fc7a2f26,SocialGrid,ORG,1052,1062,spacy
+la_cfa376d35c,Codex,MODEL_AGENT,0,5,rules
+la_cfa376d35c,Codex,MODEL_AGENT,66,71,rules
+la_cfa376d35c,npm,PERSON,113,116,spacy
+la_cfa376d35c,Codex,MODEL_AGENT,196,201,rules
+la_cfa376d35c,Slack,ORG,284,289,spacy
+la_cfa376d35c,Codex,MODEL_AGENT,338,343,rules
+la_cfa376d35c,Codex,MODEL_AGENT,416,421,rules
+la_cfa376d35c,Codex,MODEL_AGENT,464,469,rules
+la_cfa376d35c,CLI,ORG,470,473,spacy
+la_cfa376d35c,GPT‑5,MODEL_AGENT,551,556,rules
+la_cfa376d35c,Codex,MODEL_AGENT,557,562,rules
+la_cfa376d35c,ChatGPT,MODEL_AGENT,670,677,rules
+la_cfa376d35c,Codex,MODEL_AGENT,742,747,rules
+la_cfa376d35c,Codex,MODEL_AGENT,768,773,rules
+la_cfa376d35c,Codex,MODEL_AGENT,825,830,rules
+la_cfa376d35c,ChatGPT,MODEL_AGENT,1014,1021,rules
+la_cfa376d35c,Codex,MODEL_AGENT,1046,1051,rules
+la_cfa376d35c,GPT‑5,MODEL_AGENT,1103,1108,rules
+la_cfa376d35c,Codex,MODEL_AGENT,1109,1114,rules
+la_cfa376d35c,Codex,MODEL_AGENT,1223,1228,rules
+la_cfa376d35c,Vanta,ORG,1307,1312,spacy
+la_cfa376d35c,Cisco,GPE,1339,1344,spacy
+la_cfa376d35c,OpenAI,ORG,1365,1371,rules
+la_cfa376d35c,Codex,MODEL_AGENT,1436,1441,rules
+la_cfa376d35c,Codex,MODEL_AGENT,1530,1535,rules
+la_cfa376d35c,Codex,MODEL_AGENT,1657,1662,rules
+la_cfa376d35c,Codex,MODEL_AGENT,1785,1790,rules
+la_cfa376d35c,Codex,MODEL_AGENT,1805,1810,rules
+la_cfa376d35c,Slack,ORG,1816,1821,spacy
+la_cfa376d35c,Codex,MODEL_AGENT,1995,2000,rules
+la_cfa376d35c,Slack,ORG,2146,2151,spacy
+la_cfa376d35c,Codex,MODEL_AGENT,2204,2209,rules
+la_cfa376d35c,GPT‑5,MODEL_AGENT,2214,2219,rules
+la_cfa376d35c,Codex,MODEL_AGENT,2220,2225,rules
+la_cfa376d35c,Codex,MODEL_AGENT,2242,2247,rules
+la_cfa376d35c,Codex,MODEL_AGENT,2315,2320,rules
+la_cfa376d35c,CLI,ORG,2321,2324,spacy
+la_cfa376d35c,GPT‑5,MODEL_AGENT,2476,2481,rules
+la_cfa376d35c,Codex,MODEL_AGENT,2482,2487,rules
+la_cfa376d35c,Codex,MODEL_AGENT,2498,2503,rules
+la_cfa376d35c,SDK,ORG,2729,2732,spacy
+la_cfa376d35c,TypeScript,ORG,2750,2760,spacy
+la_cfa376d35c,TypeScript,ORG,2801,2811,spacy
+la_cfa376d35c,Codex,MODEL_AGENT,2823,2828,rules
+la_cfa376d35c,Codex,MODEL_AGENT,2880,2885,rules
+la_cfa376d35c,log (result,ORG,3012,3023,spacy
+la_cfa376d35c,log (result2,ORG,3118,3130,spacy
+la_cfa376d35c,GitHub Action,PRODUCT,3160,3173,spacy
+la_cfa376d35c,Codex,MODEL_AGENT,3203,3208,rules
+la_cfa376d35c,CI,ORG,3214,3216,spacy
+la_cfa376d35c,Codex,MODEL_AGENT,3263,3268,rules
+la_cfa376d35c,Codex,MODEL_AGENT,3353,3358,rules
+la_cfa376d35c,CLI,ORG,3359,3362,spacy
+la_cfa376d35c,SDK,ORG,3408,3411,spacy
+la_cfa376d35c,GitHub Actions,ORG,3416,3430,spacy
+la_cfa376d35c,ChatGPT,MODEL_AGENT,3498,3505,rules
+la_cfa376d35c,Codex,MODEL_AGENT,3536,3541,rules
+la_cfa376d35c,Codex,MODEL_AGENT,3720,3725,rules
+la_cfa376d35c,Codex,MODEL_AGENT,3831,3836,rules
+la_cfa376d35c,CLI,ORG,3903,3906,spacy
+la_cfa376d35c,IDE,ORG,3908,3911,spacy
+la_cfa376d35c,Codex,MODEL_AGENT,3966,3971,rules
+la_cfa376d35c,Codex,MODEL_AGENT,4066,4071,rules
+la_cfa376d35c,Cisco,GPE,4080,4085,spacy
+la_cfa376d35c,Cisco,GPE,4114,4119,spacy
+la_cfa376d35c,Codex,MODEL_AGENT,4141,4146,rules
+la_cfa376d35c,Codex,MODEL_AGENT,4336,4341,rules
+la_cfa376d35c,Instacart,ORG,4511,4520,spacy
+la_cfa376d35c,Instacart,ORG,4549,4558,spacy
+la_cfa376d35c,Codex,MODEL_AGENT,4564,4569,rules
+la_cfa376d35c,Olive,ORG,4593,4598,spacy
+la_cfa376d35c,Codex,MODEL_AGENT,4748,4753,rules
+la_cfa376d35c,Codex,MODEL_AGENT,4780,4785,rules
+la_cfa376d35c,Slack,ORG,5083,5088,spacy
+la_cfa376d35c,Codex,MODEL_AGENT,5105,5110,rules
+la_cfa376d35c,ChatGPT,MODEL_AGENT,5146,5153,rules
+la_cfa376d35c,"Pro, Business, Edu",ORG,5160,5178,spacy
+la_cfa376d35c,"Business, Edu",ORG,5267,5280,spacy
+la_cfa376d35c,Codex,MODEL_AGENT,5319,5324,rules
+la_cfa376d35c,Codex,MODEL_AGENT,5375,5380,rules
+la_cfa376d35c,Codex,MODEL_AGENT,5409,5414,rules
+la_cfa376d35c,Codex,MODEL_AGENT,5481,5486,rules
+la_cfa376d35c,OpenAI,ORG,5494,5500,rules
+la_cfa376d35c,GPT-6.1,MODEL_AGENT,5535,5542,rules
+la_cfa376d35c,the Decisions API Product Oct,ORG,5602,5631,spacy
+re_7876e16e36,crewAIInc,ORG,0,9,rules
+re_7876e16e36,Bug Fixes - Preserve,PERSON,111,131,spacy
+re_7876e16e36,@joaomdmoura,ORG,356,368,spacy
+re_7876e16e36,@theCyberTech,ORG,370,383,spacy
+la_5f97ba92d4,OpenAI,ORG,489,495,rules
+la_5f97ba92d4,Explaining,ORG,977,987,spacy
+la_5f97ba92d4,Harnessing Adversarial Examples,ORG,992,1023,spacy
+la_5f97ba92d4,Practical Black-Box Attacks against,ORG,1867,1902,spacy
+la_5f97ba92d4,Deep Learning Systems,ORG,1903,1924,spacy
+la_5f97ba92d4,Adversarial Examples,ORG,1931,1951,spacy
+la_5f97ba92d4,UC Berkeley,ORG,2090,2101,rules
+la_5f97ba92d4,OpenAI,ORG,2103,2109,rules
+la_5f97ba92d4,Pennsylvania State University,ORG,2115,2144,spacy
+la_5f97ba92d4,Adversarial Attacks on Neural Network Policies,ORG,2146,2192,spacy
+la_5f97ba92d4,the University of Nevada,ORG,2239,2263,spacy
+la_5f97ba92d4,"Reno, Vulnerability of Deep Reinforcement Learning to Policy Induction Attacks",ORG,2267,2345,spacy
+la_5f97ba92d4,TRPO,ORG,2465,2469,spacy
+la_5f97ba92d4,Ian Goodfellow ⁠,PERSON,2993,3009,spacy
+la_5f97ba92d4,Nicolas Papernot,PERSON,3038,3054,spacy
+la_5f97ba92d4,Traditional,GPE,3708,3719,spacy
+la_5f97ba92d4,Practical Black-Box Attacks against,ORG,5403,5438,spacy
+la_5f97ba92d4,Deep Learning Systems,ORG,5439,5460,spacy
+la_5f97ba92d4,Adversarial Examples,ORG,5467,5487,spacy
+la_5f97ba92d4,Conclusion Adversarial,ORG,11124,11146,spacy
+la_5f97ba92d4,OpenAI,ORG,11649,11655,rules
+la_5f97ba92d4,Ian,PERSON,11735,11738,spacy
+la_5f97ba92d4,Nicolas,PERSON,11743,11750,spacy
+la_5f97ba92d4,Ethics & Safety Authors Ian Goodfellow,ORG,11826,11864,spacy
+la_5f97ba92d4,Nicolas Papernot,PERSON,11866,11882,spacy
+la_5f97ba92d4,Sandy Huang,PERSON,11884,11895,spacy
+la_5f97ba92d4,Yan Duan,PERSON,11897,11905,spacy
+la_5f97ba92d4,Jack Clark Related,PERSON,11922,11940,spacy
+la_5f97ba92d4,View,PERSON,11950,11954,spacy
+la_5f97ba92d4,Security Feb,ORG,12025,12037,spacy
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,23,30,rules
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,102,109,rules
+la_25e1e85d3f,Transforming,GPE,138,150,spacy
+la_25e1e85d3f,Asia-Pacific & Oceania Industry: Manufacturing Products,ORG,246,301,spacy
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,303,310,rules
+la_25e1e85d3f,Results 90% Reduction,GPE,414,435,spacy
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,589,596,rules
+la_25e1e85d3f,Loading,PERSON,597,604,spacy
+la_25e1e85d3f,the ENEOS Group,ORG,676,691,spacy
+la_25e1e85d3f,Japan,GPE,1161,1166,spacy
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,1176,1183,rules
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,1564,1571,rules
+la_25e1e85d3f,OpenAI,ORG,1611,1617,rules
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,1631,1638,rules
+la_25e1e85d3f,Japan,GPE,1779,1784,spacy
+la_25e1e85d3f,Yoshirou Sakura,PERSON,1989,2004,spacy
+la_25e1e85d3f,the Production Technology Department,ORG,2017,2053,spacy
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,2281,2288,rules
+la_25e1e85d3f,Taku Ichibayashi,PERSON,2472,2488,spacy
+la_25e1e85d3f,the Research & Development Department,ORG,2501,2538,spacy
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,2675,2682,rules
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,2801,2808,rules
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,2954,2961,rules
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,3087,3094,rules
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,3192,3199,rules
+la_25e1e85d3f,Sakura,PERSON,3253,3259,spacy
+la_25e1e85d3f,Kenichi Sakemi,PERSON,3374,3388,spacy
+la_25e1e85d3f,the Process Development and Engineering Department,ORG,3392,3442,spacy
+la_25e1e85d3f,Hungary,GPE,3489,3496,spacy
+la_25e1e85d3f,Deep Research,ORG,3584,3597,spacy
+la_25e1e85d3f,Calculations,ORG,4053,4065,spacy
+la_25e1e85d3f,Process Development and Engineering Department,ORG,4446,4492,spacy
+la_25e1e85d3f,The Engineering,ORG,4557,4572,spacy
+la_25e1e85d3f,GPT,ORG,4598,4601,spacy
+la_25e1e85d3f,Sakemi,PERSON,4899,4905,spacy
+la_25e1e85d3f,GPT,ORG,4924,4927,spacy
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,4952,4959,rules
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,5269,5276,rules
+la_25e1e85d3f,Marie Takeda,PERSON,5676,5688,spacy
+la_25e1e85d3f,GPT,ORG,5719,5722,spacy
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,6209,6216,rules
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,6420,6427,rules
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,6820,6827,rules
+la_25e1e85d3f,Ichibayashi,PERSON,6885,6896,spacy
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,7019,7026,rules
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,7311,7318,rules
+la_25e1e85d3f,Japan,GPE,7405,7410,spacy
+la_25e1e85d3f,Sakura,PERSON,7496,7502,spacy
+la_25e1e85d3f,ChatGPT,MODEL_AGENT,7781,7788,rules
+la_25e1e85d3f,Yoshirou Sakura,PERSON,7792,7807,spacy
+la_25e1e85d3f,the Production Technology Department,ORG,7820,7856,spacy
+la_25e1e85d3f,OpenAI,ORG,7985,7991,rules
+re_cefdf6379f,Significant-Gravitas,ORG,0,20,rules
+re_cefdf6379f,AutoGPT,MODEL_AGENT,21,28,rules
+re_cefdf6379f,AutoGPT,MODEL_AGENT,29,36,rules
+re_cefdf6379f,Bug Fixes - *,PERSON,216,229,spacy
+re_cefdf6379f,@Bentlybro,ORG,384,394,spacy
+re_cefdf6379f,JSON,GPE,450,454,spacy
+re_cefdf6379f,RPC,ORG,463,466,spacy
+re_cefdf6379f,@Bentlybro,ORG,471,481,spacy
+re_cefdf6379f,Discord,ORG,951,958,spacy
+la_b277c65ceb,Loading,PERSON,151,158,spacy
+la_b277c65ceb,OpenAI,ORG,532,538,rules
+la_b277c65ceb,the University of Oxford,ORG,543,567,spacy
+la_b277c65ceb,Alice,PERSON,1003,1008,spacy
+la_b277c65ceb,Bob,PERSON,1065,1068,spacy
+la_b277c65ceb,Bob,PERSON,1104,1107,spacy
+la_b277c65ceb,Bob,PERSON,1262,1265,spacy
+la_b277c65ceb,Independent PPO,ORG,1554,1569,spacy
+la_b277c65ceb,V^1,ORG,2819,2822,spacy
+la_b277c65ceb,δη,PERSON,3086,3088,spacy
+la_b277c65ceb,Alice,PERSON,3128,3133,spacy
+la_b277c65ceb,Bob,PERSON,3168,3171,spacy
+la_b277c65ceb,Bob,PERSON,3217,3220,spacy
+la_b277c65ceb,Alice,ORG,3248,3253,spacy
+la_b277c65ceb,Alice,PERSON,3322,3327,spacy
+la_b277c65ceb,Bob,PERSON,3339,3342,spacy
+la_b277c65ceb,Alice,ORG,3396,3401,spacy
+la_b277c65ceb,Jakob Foerster,PERSON,5526,5540,spacy
+la_b277c65ceb,Richard Chen,PERSON,5542,5554,spacy
+la_b277c65ceb,Pieter Abbeel,PERSON,5556,5569,spacy
+la_b277c65ceb,Shimon Whiteson,PERSON,5586,5601,spacy
+la_b277c65ceb,Maruan Al-Shedivat Related,PERSON,5603,5629,spacy
+la_b277c65ceb,"Publication Dec 13, 2019",PRODUCT,5846,5870,spacy
+re_61ad6cb8ea,Significant-Gravitas,ORG,0,20,rules
+re_61ad6cb8ea,AutoGPT,MODEL_AGENT,21,28,rules
+re_61ad6cb8ea,AgentGraph,ORG,284,294,spacy
+re_61ad6cb8ea,@Bentlybro,ORG,399,409,spacy
+re_61ad6cb8ea,UI,ORG,442,444,spacy
+re_61ad6cb8ea,@Copilot,ORG,639,647,spacy
+re_61ad6cb8ea,AI Structured Response,ORG,716,738,spacy
+re_61ad6cb8ea,@Pwuts,PERSON,749,755,spacy
+re_61ad6cb8ea,UI,ORG,788,790,spacy
+re_61ad6cb8ea,@Pwuts,PERSON,979,985,spacy
+re_61ad6cb8ea,TallyPopup,ORG,1033,1043,spacy
+re_61ad6cb8ea,Bug Fixes - *,PERSON,1072,1085,spacy
+re_61ad6cb8ea,@Pwuts,PERSON,1238,1244,spacy
+re_61ad6cb8ea,@Torantulino,GPE,1329,1341,spacy
+re_61ad6cb8ea,Err,PERSON,1411,1414,spacy
+re_61ad6cb8ea,@Swiftyos,PERSON,1419,1428,spacy
+re_61ad6cb8ea,SmartDecisionMaker,ORG,1655,1673,spacy
+re_61ad6cb8ea,Discord,ORG,2670,2677,spacy
+re_751416cd0a,Streaming Tools,PERSON,51,66,spacy
+re_751416cd0a,AssistantAgent,ORG,276,290,spacy
+re_751416cd0a,AssistantAgent,ORG,414,428,spacy
+re_751416cd0a,@ekzhu,ORG,809,815,spacy
+re_751416cd0a,AssistantAgent,ORG,1175,1189,spacy
+re_751416cd0a,AssistantAgent,ORG,1237,1251,spacy
+re_751416cd0a,AssistantAgent,ORG,1546,1560,spacy
+re_751416cd0a,GenAI Semantic Convention,ORG,1725,1750,spacy
+re_751416cd0a,@ekzhu,ORG,1795,1801,spacy
+re_751416cd0a,AutoGen,MODEL_AGENT,2299,2306,rules
+re_751416cd0a,AutoGen,MODEL_AGENT,2570,2577,rules
+re_751416cd0a,@ekzhu,ORG,2627,2633,spacy
+re_751416cd0a,@peterychang,PERSON,2709,2721,spacy
+re_751416cd0a,@ekzhu,ORG,2843,2849,spacy
+re_751416cd0a,RAG,PERSON,2938,2941,spacy
+re_751416cd0a,AGS,ORG,3034,3037,spacy
+re_751416cd0a,@victordibia,ORG,3041,3053,spacy
+re_751416cd0a,@bassmang,ORG,3139,3148,spacy
+re_751416cd0a,streamablehttp mcp,PERSON,3181,3199,spacy
+re_751416cd0a,@victordibia,ORG,3209,3221,spacy
+re_751416cd0a,Gemini 2.5,MODEL_AGENT,3429,3439,rules
+re_751416cd0a,ListMemoryConfig,PRODUCT,3563,3579,spacy
+re_751416cd0a,@mohiuddin-khan-shiam,PERSON,3583,3604,spacy
+re_751416cd0a,@ekzhu,ORG,3637,3643,spacy
+re_751416cd0a,@ekzhu,ORG,3703,3709,spacy
+la_10e69babef,OpenAI,ORG,439,445,rules
+la_10e69babef,the National Center for Missing,ORG,573,604,spacy
+la_10e69babef,NCMEC,ORG,629,634,spacy
+la_10e69babef,U.S.,GPE,887,891,spacy
+la_10e69babef,NCMEC,ORG,1080,1085,spacy
+la_10e69babef,AI Task Force,ORG,1126,1139,spacy
+la_10e69babef,North Carolina,GPE,1150,1164,spacy
+la_10e69babef,Jeff Jackson,PERSON,1182,1194,spacy
+la_10e69babef,Utah,GPE,1199,1203,spacy
+la_10e69babef,Derek Brown,PERSON,1221,1232,spacy
+la_10e69babef,Thorn,PRODUCT,1238,1243,spacy
+la_10e69babef,CSAM,ORG,1460,1464,spacy
+la_10e69babef,Co-Chairs,ORG,2317,2326,spacy
+la_10e69babef,AI Task Force,ORG,2362,2375,spacy
+la_10e69babef,GenAI,ORG,2627,2632,spacy
+la_10e69babef,OpenAI,ORG,3280,3286,rules
+la_10e69babef,NCMEC,ORG,3288,3293,spacy
+la_10e69babef,Jeff Jackson,PERSON,3436,3448,spacy
+la_10e69babef,North Carolina,GPE,3450,3464,spacy
+la_10e69babef,Derek Brown,PERSON,3470,3481,spacy
+la_10e69babef,Utah,GPE,3483,3487,spacy
+la_10e69babef,Co-Chairs,ORG,3490,3499,spacy
+la_10e69babef,AGA,ORG,3841,3844,spacy
+la_10e69babef,OpenAI,ORG,3963,3969,rules
+la_10e69babef,AGA,ORG,4024,4027,spacy
+la_10e69babef,Karen White,PERSON,4112,4123,spacy
+la_10e69babef,the National Center for Missing & Exploited Children,ORG,4368,4420,spacy
+la_10e69babef,NCMEC,ORG,4422,4427,spacy
+la_10e69babef,OpenAI,ORG,4465,4471,rules
+la_10e69babef,Michelle DeLaune,PERSON,4830,4846,spacy
+la_10e69babef,President & CEO,ORG,4848,4863,spacy
+la_10e69babef,National Center for Missing & Exploited Children,ORG,4865,4913,spacy
+la_10e69babef,User Safety & Control,ORG,4919,4940,spacy
+la_10e69babef,OpenAI,ORG,4948,4954,rules
+la_10e69babef,View all Community,ORG,4968,4986,spacy
+la_10e69babef,Model Spec,PERSON,5062,5072,spacy
+la_10e69babef,"AI Safety Oct 29, 2026",ORG,5105,5127,spacy
+la_47586cf3bf,Montezuma’s Revenge,ORG,118,137,spacy
+la_47586cf3bf,PPO,ORG,397,400,spacy
+la_47586cf3bf,OpenAI,ORG,459,465,rules
+la_e3a27050a9,OpenAI,ORG,18,24,rules
+la_e3a27050a9,Zico Kolter,PERSON,70,81,spacy
+la_e3a27050a9,OpenAI,ORG,88,94,rules
+la_e3a27050a9,Zico,ORG,194,198,spacy
+la_e3a27050a9,the Safety & Security Committee,ORG,214,245,spacy
+la_e3a27050a9,Zico Kolter,PERSON,289,300,spacy
+la_e3a27050a9,OpenAI,ORG,304,310,rules
+la_e3a27050a9,the Machine Learning Department,ORG,364,395,spacy
+la_e3a27050a9,Carnegie Mellon University,ORG,399,425,rules
+la_e3a27050a9,Zico’s,ORG,427,433,spacy
+la_e3a27050a9,Zico,ORG,801,805,spacy
+la_e3a27050a9,the Board’s Safety and Security Committee,ORG,821,862,spacy
+la_e3a27050a9,Bret Taylor,PERSON,885,896,spacy
+la_e3a27050a9,Adam D’Angelo,PERSON,898,911,spacy
+la_e3a27050a9,Paul Nakasone,PERSON,913,926,spacy
+la_e3a27050a9,Nicole Seligman,PERSON,928,943,spacy
+la_e3a27050a9,Sam Altman,PERSON,948,958,spacy
+la_e3a27050a9,OpenAI,ORG,969,975,rules
+la_e3a27050a9,OpenAI,ORG,1101,1107,rules
+la_e3a27050a9,Zico,PERSON,1131,1135,spacy
+la_e3a27050a9,Bret Taylor,PERSON,1150,1161,spacy
+la_e3a27050a9,Zico,ORG,1197,1201,spacy
+la_e3a27050a9,Zico Kolter,PERSON,1364,1375,spacy
+la_e3a27050a9,the Machine Learning Department,ORG,1427,1458,spacy
+la_e3a27050a9,Carnegie Mellon University,ORG,1462,1488,rules
+la_e3a27050a9,Zico,ORG,1535,1539,spacy
+la_e3a27050a9,Stanford,ORG,1583,1591,rules
+la_e3a27050a9,MIT,ORG,1653,1656,rules
+la_e3a27050a9,AISTATS,ORG,1865,1872,spacy
+la_e3a27050a9,Zico,ORG,1874,1878,spacy
+la_e3a27050a9,Zico,ORG,2393,2397,spacy
+la_e3a27050a9,Bosch and Chief Technical Advisor,ORG,2536,2569,spacy
+la_e3a27050a9,Culture & Careers Community,ORG,2634,2661,spacy
+la_e3a27050a9,OpenAI,ORG,2674,2680,rules
+re_c26ed93268,Significant-Gravitas,ORG,0,20,rules
+re_c26ed93268,AutoGPT,MODEL_AGENT,21,28,rules
+re_c26ed93268,Bug Fixes - *,PERSON,287,300,spacy
+re_c26ed93268,Discord,ORG,918,925,spacy
+re_1b019d87cd,@IANTHEREAL @kevin666aa @Alvaromah,ORG,460,494,spacy
+re_1b019d87cd,@sonichi,ORG,569,577,spacy
+re_1b019d87cd,WolframAlphaAPIWrapper.run,PERSON,653,679,spacy
+re_1b019d87cd,@sonichi,ORG,717,725,spacy
+re_1b019d87cd,AutoGen,MODEL_AGENT,832,839,rules
+re_1b019d87cd,@qingyun-wu,ORG,881,892,spacy
+re_1b019d87cd,GroupChat,ORG,975,984,spacy
+re_1b019d87cd,GPT,ORG,1067,1070,spacy
+re_1b019d87cd,AutoGen,MODEL_AGENT,1090,1097,rules
+re_1b019d87cd,@IANTHEREAL,ORG,1101,1112,spacy
+re_1b019d87cd,@Alvaromah,ORG,1221,1231,spacy
+re_1b019d87cd,@qingyun-wu,ORG,1255,1266,spacy
+re_1b019d87cd,IndexError,ORG,1297,1307,spacy
+re_78ec04dc83,Significant-Gravitas,ORG,0,20,rules
+re_78ec04dc83,AutoGPT,MODEL_AGENT,21,28,rules
+re_78ec04dc83,Fixes & Improvements - *,ORG,309,333,spacy
+re_78ec04dc83,@Pwuts - *,PERSON,404,414,spacy
+re_78ec04dc83,@Pwuts - *,PERSON,497,507,spacy
+re_78ec04dc83,Build & Refactor - **,ORG,1208,1229,spacy
+re_78ec04dc83,Monitor,PERSON,1289,1296,spacy
+re_78ec04dc83,Docker,PERSON,1348,1354,spacy
+re_78ec04dc83,@Pwuts,PERSON,1394,1400,spacy
+pa_a047761cd2,TinyAgent,ORG,441,450,spacy
+pa_a047761cd2,LLMCompiler,ORG,699,710,spacy
+pa_a047761cd2,TinyAgent-1.1B,PERSON,850,864,spacy
+pa_a047761cd2,Apple,ORG,1113,1118,rules
+pa_a047761cd2,GPT-4-Turbo,MODEL_AGENT,1309,1320,rules
+pa_a047761cd2,MacBook,ORG,1455,1462,spacy
+re_90a5ed318d,langchain==1.3.4 release(langchain,ORG,55,89,spacy
+re_90a5ed318d,SummarizationMiddleware,PRODUCT,164,187,spacy
+re_a84a0b3431,AutoGen Studio,MODEL_AGENT,57,71,rules
+re_a84a0b3431,AutoGen,MODEL_AGENT,207,214,rules
+re_a84a0b3431,AutoGen,MODEL_AGENT,298,305,rules
+re_a84a0b3431,AutoGen Studio,MODEL_AGENT,445,459,rules
+re_a84a0b3431,AutoGen Studio,MODEL_AGENT,624,638,rules
+re_a84a0b3431,AutoGen Studio,MODEL_AGENT,686,700,rules
+re_a84a0b3431,JSON,PERSON,772,776,spacy
+re_a84a0b3431,AssistantAgent,ORG,830,844,spacy
+re_a84a0b3431,AssistantAgent,ORG,1038,1052,spacy
+re_a84a0b3431,AssistantAgent,ORG,1687,1701,spacy
+re_a84a0b3431,AssistantAgent,ORG,1846,1860,spacy
+re_a84a0b3431,OpenAI,ORG,2094,2100,rules
+re_a84a0b3431,AgentChat,ORG,3308,3317,spacy
+re_a84a0b3431,AutoGen Studio,MODEL_AGENT,3391,3405,rules
+re_a84a0b3431,Verifier,ORG,4092,4100,spacy
+re_a84a0b3431,UI,ORG,4584,4586,spacy
+re_a84a0b3431,AutoGen Studio,MODEL_AGENT,4788,4802,rules
+re_a84a0b3431,AutoGen,MODEL_AGENT,4901,4908,rules
+la_861bee6c31,Loading,PERSON,201,208,spacy
+la_861bee6c31,GPT‑3,MODEL_AGENT,301,306,rules
+la_861bee6c31,InstructGPT,ORG,425,436,spacy
+la_861bee6c31,OpenAI,ORG,563,569,rules
+la_861bee6c31,GPT‑3,MODEL_AGENT,588,593,rules
+la_861bee6c31,GPT‑3,MODEL_AGENT,833,838,rules
+la_861bee6c31,GPT‑3,MODEL_AGENT,1387,1392,rules
+la_861bee6c31,InstructGPT,ORG,1408,1419,spacy
+la_861bee6c31,GPT‑3,MODEL_AGENT,1474,1479,rules
+la_861bee6c31,InstructGPT,ORG,1612,1623,spacy
+la_861bee6c31,GPT‑3,MODEL_AGENT,1655,1660,rules
+la_861bee6c31,GPT‑3,MODEL_AGENT,1778,1783,rules
+la_861bee6c31,InstructGPT,ORG,1874,1885,spacy
+la_861bee6c31,FLAN 4,ORG,2469,2475,spacy
+la_861bee6c31,InstructGPT,ORG,3069,3080,spacy
+la_861bee6c31,GPT‑3,MODEL_AGENT,3160,3165,rules
+la_861bee6c31,InstructGPT,ORG,3180,3191,spacy
+la_861bee6c31,InstructGPT,ORG,3260,3271,spacy
+la_861bee6c31,GPT‑3,MODEL_AGENT,3276,3281,rules
+la_861bee6c31,GPT‑3,MODEL_AGENT,3345,3350,rules
+la_861bee6c31,GPT‑3,MODEL_AGENT,3546,3551,rules
+la_861bee6c31,InstructGPT,ORG,3553,3564,spacy
+la_861bee6c31,InstructGPT,ORG,3770,3781,spacy
+la_861bee6c31,InstructGPT,ORG,3901,3912,spacy
+la_861bee6c31,FLAN 4,ORG,3949,3955,spacy
+la_861bee6c31,FLAN,ORG,4038,4042,spacy
+la_861bee6c31,T0,GPE,4047,4049,spacy
+la_861bee6c31,InstructGPT,ORG,4177,4188,spacy
+la_861bee6c31,RM,GPE,4964,4966,spacy
+la_861bee6c31,GPT‑3,MODEL_AGENT,5006,5011,rules
+la_861bee6c31,PPO,ORG,5053,5056,spacy
+la_861bee6c31,GPT‑3,MODEL_AGENT,5149,5154,rules
+la_861bee6c31,GPT‑3,MODEL_AGENT,5952,5957,rules
+la_861bee6c31,GPT‑3,MODEL_AGENT,6197,6202,rules
+la_861bee6c31,GPT‑3,MODEL_AGENT,6956,6961,rules
+la_861bee6c31,InstructGPT,ORG,6966,6977,spacy
+la_861bee6c31,InstructGPT,ORG,7104,7115,spacy
+la_861bee6c31,InstructGPT,ORG,7665,7676,spacy
+la_861bee6c31,InstructGPT,ORG,8768,8779,spacy
+la_861bee6c31,GPT Language Footnotes,ORG,9824,9846,spacy
+la_861bee6c31,Playground,PERSON,9891,9901,spacy
+la_861bee6c31,InstructGPT,ORG,9931,9942,spacy
+la_861bee6c31,InstructGPT,ORG,10108,10119,spacy
+la_861bee6c31,InstructGPT,ORG,10538,10549,spacy
+la_861bee6c31,GPT-3,MODEL_AGENT,10585,10590,rules
+la_861bee6c31,KL,ORG,10727,10729,spacy
+la_861bee6c31,Scale AI,ORG,10777,10785,spacy
+la_861bee6c31,Leike,GPE,10900,10905,spacy
+la_861bee6c31,"J., Brown,",ORG,10907,10917,spacy
+la_861bee6c31,T.B.,GPE,10918,10922,spacy
+la_861bee6c31,Martic,ORG,10924,10930,spacy
+la_861bee6c31,Legg,PERSON,10936,10940,spacy
+la_861bee6c31,S.,ORG,10942,10944,spacy
+la_861bee6c31,Amodei,GPE,10949,10955,spacy
+la_861bee6c31,Stiennon,PRODUCT,11054,11062,spacy
+la_861bee6c31,N.,ORG,11064,11066,spacy
+la_861bee6c31,Ouyang,GPE,11068,11074,spacy
+la_861bee6c31,L.,PERSON,11076,11078,spacy
+la_861bee6c31,Wu,PERSON,11080,11082,spacy
+la_861bee6c31,J.,PERSON,11084,11086,spacy
+la_861bee6c31,Ziegler,GPE,11088,11095,spacy
+la_861bee6c31,D.M.,GPE,11097,11101,spacy
+la_861bee6c31,Lowe,GPE,11103,11107,spacy
+la_861bee6c31,Amodei,GPE,11136,11142,spacy
+la_861bee6c31,Christiano,PERSON,11151,11161,spacy
+la_861bee6c31,Wu,PERSON,11175,11177,spacy
+la_861bee6c31,J.,PERSON,11179,11181,spacy
+la_861bee6c31,Ouyang,GPE,11183,11189,spacy
+la_861bee6c31,L.,GPE,11191,11193,spacy
+la_861bee6c31,Ziegler,GPE,11195,11202,spacy
+la_861bee6c31,D.M.,GPE,11204,11208,spacy
+la_861bee6c31,Stiennon,ORG,11210,11218,spacy
+la_861bee6c31,Lowe,GPE,11224,11228,spacy
+la_861bee6c31,Leike,GPE,11234,11239,spacy
+la_861bee6c31,J.,PERSON,11241,11243,spacy
+la_861bee6c31,4 Wei,PERSON,11354,11359,spacy
+la_861bee6c31,Zhao,PERSON,11376,11380,spacy
+la_861bee6c31,V.Y.,GPE,11382,11386,spacy
+la_861bee6c31,Guu,PERSON,11388,11391,spacy
+la_861bee6c31,Yu,GPE,11397,11399,spacy
+la_861bee6c31,A.W.,GPE,11401,11405,spacy
+la_861bee6c31,Lester,GPE,11407,11413,spacy
+la_861bee6c31,N.,PERSON,11423,11425,spacy
+la_861bee6c31,Dai,ORG,11427,11430,spacy
+la_861bee6c31,A.M.,GPE,11432,11436,spacy
+la_861bee6c31,Le,GPE,11441,11443,spacy
+la_861bee6c31,Q.V.,GPE,11445,11449,spacy
+la_861bee6c31,arXiv:2109.01652,ORG,11522,11538,spacy
+la_861bee6c31,V.,PERSON,11548,11550,spacy
+la_861bee6c31,Webson,PERSON,11552,11558,spacy
+la_861bee6c31,Raffel,PERSON,11564,11570,spacy
+la_861bee6c31,Bach,PERSON,11576,11580,spacy
+la_861bee6c31,S.H.,GPE,11582,11586,spacy
+la_861bee6c31,L.,PERSON,11598,11600,spacy
+la_861bee6c31,Alyafeai,GPE,11602,11610,spacy
+la_861bee6c31,Z.,GPE,11612,11614,spacy
+la_861bee6c31,Chaffin,GPE,11616,11623,spacy
+la_861bee6c31,Stiegler,ORG,11629,11637,spacy
+la_861bee6c31,Scao,GPE,11643,11647,spacy
+la_861bee6c31,T.L.,GPE,11649,11653,spacy
+la_861bee6c31,Bender,PERSON,11785,11791,spacy
+la_861bee6c31,E.M.,PERSON,11793,11797,spacy
+la_861bee6c31,Gebru,PERSON,11799,11804,spacy
+la_861bee6c31,T.,GPE,11806,11808,spacy
+la_861bee6c31,McMillan-Major,ORG,11810,11824,spacy
+la_861bee6c31,A.,PERSON,11826,11828,spacy
+la_861bee6c31,Shmitchell,ORG,11833,11843,spacy
+la_861bee6c31,S.,ORG,11845,11847,spacy
+la_861bee6c31,the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜,ORG,11865,11932,spacy
+la_861bee6c31,Hudson,GPE,12054,12060,spacy
+la_861bee6c31,D.A.,GPE,12062,12066,spacy
+la_861bee6c31,Adeli,GPE,12068,12073,spacy
+la_861bee6c31,Altman,GPE,12079,12085,spacy
+la_861bee6c31,Arora,PERSON,12091,12096,spacy
+la_861bee6c31,von Arx,PERSON,12102,12109,spacy
+la_861bee6c31,Bernstein,GPE,12115,12124,spacy
+la_861bee6c31,M.S.,GPE,12126,12130,spacy
+la_861bee6c31,Bohg,PERSON,12132,12136,spacy
+la_861bee6c31,Brunskill,GPE,12156,12165,spacy
+la_861bee6c31,Brynjolfsson,PERSON,12174,12186,spacy
+la_861bee6c31,Kenton,GPE,12286,12292,spacy
+la_861bee6c31,Z.,GPE,12294,12296,spacy
+la_861bee6c31,Everitt,PERSON,12298,12305,spacy
+la_861bee6c31,T.,PERSON,12307,12309,spacy
+la_861bee6c31,Weidinger,GPE,12311,12320,spacy
+la_861bee6c31,L.,PERSON,12322,12324,spacy
+la_861bee6c31,Gabriel,PERSON,12326,12333,spacy
+la_861bee6c31,"I., Mikulik, V.",ORG,12335,12350,spacy
+la_861bee6c31,Irving,PERSON,12355,12361,spacy
+la_861bee6c31,G.,PERSON,12363,12365,spacy
+la_861bee6c31,L.,PERSON,12449,12451,spacy
+la_861bee6c31,Mellor,PERSON,12453,12459,spacy
+la_861bee6c31,Uesato,GPE,12488,12494,spacy
+la_861bee6c31,J.,PERSON,12496,12498,spacy
+la_861bee6c31,Huang,GPE,12500,12505,spacy
+la_861bee6c31,P.S.,GPE,12507,12511,spacy
+la_861bee6c31,Cheng,PERSON,12513,12518,spacy
+la_861bee6c31,Balle,GPE,12536,12541,spacy
+la_861bee6c31,Kasirzadeh,GPE,12547,12557,spacy
+la_861bee6c31,A.,PERSON,12559,12561,spacy
+la_861bee6c31,Kenton,GPE,12566,12572,spacy
+la_861bee6c31,Z.,PERSON,12574,12576,spacy
+la_861bee6c31,Language Models,ORG,12622,12637,spacy
+la_861bee6c31,Clark,PERSON,12701,12706,spacy
+la_861bee6c31,J.,PERSON,12708,12710,spacy
+la_861bee6c31,Ganguli,GPE,12715,12722,spacy
+la_861bee6c31,Limitations,ORG,12766,12777,spacy
+la_861bee6c31,Societal Impact of Large Language Models,ORG,12783,12823,spacy
+la_861bee6c31,I.,ORG,12871,12873,spacy
+la_861bee6c31,Dennison,GPE,12878,12886,spacy
+la_861bee6c31,Society (PALMS,ORG,12938,12952,spacy
+la_861bee6c31,Values-Targeted Datasets,ORG,12959,12983,spacy
+la_861bee6c31,arXiv:2106.10328,PERSON,13000,13016,spacy
+la_861bee6c31,Araújo,GPE,13044,13050,spacy
+la_861bee6c31,J.G.,GPE,13052,13056,spacy
+la_861bee6c31,Zhang,GPE,13058,13063,spacy
+la_861bee6c31,I.,PERSON,13065,13067,spacy
+la_861bee6c31,Chen,PERSON,13069,13073,spacy
+la_861bee6c31,Frosst,ORG,13095,13101,spacy
+la_861bee6c31,N.,PERSON,13103,13105,spacy
+la_861bee6c31,Li,PERSON,13240,13242,spacy
+la_861bee6c31,Boureau,GPE,13248,13255,spacy
+la_861bee6c31,Y.L.,GPE,13257,13261,spacy
+la_861bee6c31,Weston,GPE,13263,13269,spacy
+la_861bee6c31,J. and Dinan,GPE,13271,13283,spacy
+la_861bee6c31,Recipes,PERSON,13295,13302,spacy
+la_861bee6c31,Keskar,GPE,13375,13381,spacy
+la_861bee6c31,N.S.,GPE,13383,13387,spacy
+la_861bee6c31,McCann,ORG,13389,13395,spacy
+la_861bee6c31,B.,PERSON,13397,13399,spacy
+la_861bee6c31,Varshney,GPE,13401,13409,spacy
+la_861bee6c31,L.R.,GPE,13411,13415,spacy
+la_861bee6c31,Xiong,GPE,13417,13422,spacy
+la_861bee6c31,Socher,GPE,13431,13437,spacy
+la_861bee6c31,A.D.,GPE,13582,13586,spacy
+la_861bee6c31,McCann,ORG,13588,13594,spacy
+la_861bee6c31,B.,PERSON,13596,13598,spacy
+la_861bee6c31,Keskar,PERSON,13600,13606,spacy
+la_861bee6c31,N.S.,GPE,13608,13612,spacy
+la_861bee6c31,Joty,GPE,13614,13618,spacy
+la_861bee6c31,Socher,GPE,13624,13630,spacy
+la_861bee6c31,Rajani,GPE,13639,13645,spacy
+la_861bee6c31,N.F.,GPE,13647,13651,spacy
+la_861bee6c31,Dathathri,PERSON,13754,13763,spacy
+la_861bee6c31,S.,ORG,13765,13767,spacy
+la_861bee6c31,Madotto,GPE,13769,13776,spacy
+la_861bee6c31,Lan,PERSON,13782,13785,spacy
+la_861bee6c31,Frank,PERSON,13801,13806,spacy
+la_861bee6c31,Yosinski,GPE,13824,13832,spacy
+la_861bee6c31,J. and Liu,PERSON,13834,13844,spacy
+la_861bee6c31,Lin,PERSON,13972,13975,spacy
+la_861bee6c31,S.,GPE,13977,13979,spacy
+la_861bee6c31,Hilton,GPE,13981,13987,spacy
+la_861bee6c31,J. and Evans,ORG,13989,14001,spacy
+la_861bee6c31,Sap,GPE,14134,14137,spacy
+la_861bee6c31,Choi,ORG,14143,14147,spacy
+la_861bee6c31,Y.,PERSON,14149,14151,spacy
+la_861bee6c31,Smith,GPE,14156,14161,spacy
+la_861bee6c31,N.A.,GPE,14163,14167,spacy
+la_861bee6c31,Naradowsky,GPE,14303,14313,spacy
+la_861bee6c31,Van Durme,ORG,14335,14344,spacy
+la_861bee6c31,B.,PERSON,14346,14348,spacy
+la_861bee6c31,arXiv:1804.09301,ORG,14410,14426,spacy
+la_861bee6c31,N.,GPE,14439,14441,spacy
+la_861bee6c31,Vania,GPE,14443,14448,spacy
+la_861bee6c31,Bhalerao,GPE,14454,14462,spacy
+la_861bee6c31,Bowman,PERSON,14471,14477,spacy
+la_861bee6c31,S.R.,GPE,14479,14483,spacy
+la_861bee6c31,Authors Ryan Lowe,PERSON,14612,14629,spacy
+la_861bee6c31,Long Ouyang,PERSON,14698,14709,spacy
+la_861bee6c31,Jeff Wu,PERSON,14711,14718,spacy
+la_861bee6c31,Roger Jiang,PERSON,14720,14731,spacy
+la_861bee6c31,Diogo Almeida,PERSON,14733,14746,spacy
+la_861bee6c31,Carroll Wainwright,PERSON,14748,14766,spacy
+la_861bee6c31,Pamela Mishkin,PERSON,14768,14782,spacy
+la_861bee6c31,Chong Zhang,PERSON,14784,14795,spacy
+la_861bee6c31,Sandhini Agarwal,PERSON,14797,14813,spacy
+la_861bee6c31,Katarina Slama,PERSON,14815,14829,spacy
+la_861bee6c31,Alex Ray,PERSON,14831,14839,spacy
+la_861bee6c31,John Schulman,PERSON,14841,14854,spacy
+la_861bee6c31,Jacob Hilton,PERSON,14856,14868,spacy
+la_861bee6c31,Fraser Kelton,PERSON,14870,14883,spacy
+la_861bee6c31,Luke Miller,PERSON,14885,14896,spacy
+la_861bee6c31,Maddie Simens,PERSON,14898,14911,spacy
+la_861bee6c31,Amanda Askell,PERSON,14913,14926,spacy
+la_861bee6c31,Peter Welinder,PERSON,14928,14942,spacy
+la_861bee6c31,Paul Christiano,PERSON,14948,14963,spacy
+la_861bee6c31,Comms,ORG,15063,15068,spacy
+la_861bee6c31,Steve Dowling,PERSON,15119,15132,spacy
+la_861bee6c31,Hannah Wong,PERSON,15134,15145,spacy
+la_861bee6c31,Elie Georges,PERSON,15147,15159,spacy
+la_861bee6c31,Alper Ercetin,PERSON,15161,15174,spacy
+la_861bee6c31,Jared Salzano,PERSON,15176,15189,spacy
+la_861bee6c31,Allan Diego,PERSON,15191,15202,spacy
+la_861bee6c31,Justin Jay Wang,PERSON,15208,15223,spacy
+la_861bee6c31,View,PERSON,15340,15344,spacy
+la_861bee6c31,Security Feb,ORG,15415,15427,spacy
