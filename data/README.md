@@ -73,11 +73,12 @@ Every event has an `origin`:
 | origin | meaning | count |
 |---|---|---|
 | `gold` | hand-labelled by the team under the frozen guidelines (v1) | 217 |
-| `extracted` | provisional model output (probability threshold 0.8); 364 lab-blog and 470 paper events; none from release notes | 834 |
-
+| `extracted` | provisional model output (thresholds 0.75 for lab blogs and 0.85 for papers, chosen on 112 labelled documents); 538 lab-blog and 333 paper events; none from release notes. Categories are about 60% accurate on gold | 871 |
 Gold events by category: multi_agent_coordination 57, research_milestone 39, agentic_development 30,
 capability_breakthrough 28, infrastructure_ecosystem 28, adoption_scale 15, autonomous_action 11,
 unexpected_behavior_incident 9. (Check against `build_db.py --stats`.)
+
+The forecasting series is built from 216 gold events (one duplicate is merged); extracted events are not used for forecasting.
 
 ### Event fields
 
