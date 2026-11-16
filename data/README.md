@@ -74,9 +74,7 @@ Every event has an `origin`:
 |---|---|---|
 | `gold` | hand-labelled by the team under the frozen guidelines (v1) | 217 |
 | `extracted` | provisional model output (thresholds 0.75 for lab blogs and 0.85 for papers, chosen on 112 labelled documents); 538 lab-blog and 333 paper events; none from release notes. Categories are about 60% accurate on gold | 871 |
-Gold events by category: multi_agent_coordination 57, research_milestone 39, agentic_development 30,
-capability_breakthrough 28, infrastructure_ecosystem 28, adoption_scale 15, autonomous_action 11,
-unexpected_behavior_incident 9. (Check against `build_db.py --stats`.)
+Gold events by category: multi_agent_coordination 57, research_milestone 39, agentic_development 30, capability_breakthrough 28, infrastructure_ecosystem 28, adoption_scale 15, autonomous_action 11, unexpected_behavior_incident 8 (216 events; one July 2026 Hugging Face intrusion listed twice in the annotations is merged by `data/reference/gold_merges.csv`).
 
 The forecasting series is built from 216 gold events (one duplicate is merged); extracted events are not used for forecasting.
 
@@ -104,7 +102,7 @@ The forecasting series is built from 216 gold events (one duplicate is merged); 
 |---|---|
 | `annotation_<initials>.xlsx` | each member's annotation sheet (Pilot and Batch) |
 | `pool_v0.json`, `annotation_pool_v0.csv` | the 315 documents drawn for the pilot pool |
-| `gold_events_v1.csv` | the 217 gold events (documents labelled `yes`) |
+| `gold_events_v1.csv` | 217 annotated gold events (216 after the merge in data/reference/gold_merges.csv) |
 | `gold_all_labels_v1.csv` | all 395 labelled documents: 217 `yes`, 140 `no_not_significant`, 38 `no_off_topic` |
 | `threshold_sample.xlsx` | 150 random documents labelled to choose the extraction threshold |
 
