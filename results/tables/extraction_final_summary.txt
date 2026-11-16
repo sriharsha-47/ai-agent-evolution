@@ -1,0 +1,6 @@
+corpus: /home/claude/work/zip/ai-agent-evolution-main/data/interim/corpus_v1_clean.jsonl  docs=3018  sha256[:12]=48d3d61e1596
+gold: 217 events, 395 labelled docs
+lab_blog       n=1308 predicted events=1170 (89%)
+paper          n= 984 predicted events=937 (95%)
+release_notes  n= 726 predicted events=22 (3%)
+category_pred: multi_agent_coordination=543, capability_breakthrough=463, research_milestone=442, infrastructure_ecosystem=377, adoption_scale=140, agentic_development=89, unexpected_behavior_incident=61, autonomous_action=14

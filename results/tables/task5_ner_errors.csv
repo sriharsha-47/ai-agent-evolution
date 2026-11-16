@@ -1,0 +1,742 @@
+variant,field,annotation_id,doc_id,kind,gold,pred,reason,title
+rules,organization,P06,la_0b7e7105cf,miss,Stack Overflow,OpenAI,wrong_or_missing_pick,API Partnership with Stack Overflow
+rules,organization,P12,la_89b0ac10d2,miss,ServiceNow,OpenAI,wrong_or_missing_pick,ServiceNow powers actionable enterprise AI with OpenAI
+rules,organization,SH-002,la_f69a340d19,miss,OpenAI,,gold_not_in_text,Launching Sora responsibly
+rules,organization,SH-007,la_da3c5b116f,miss,OpenAI,,gold_not_in_text,Weak-to-strong generalization
+rules,organization,SH-008,la_100446a7f6,false_positive,OpenAI,Amazon,predicted but not in gold,Better language models and their implications
+rules,organization,SH-008,la_100446a7f6,false_positive,OpenAI,Google,predicted but not in gold,Better language models and their implications
+rules,organization,SH-018,pa_8cf02d552d,false_positive,,OpenAI,gold empty (paper/no org) but predicted,GeoJSON Agents:A Multi-Agent LLM Architecture for Geospatial
+rules,organization,SH-019,re_fea02de5e6,miss,microsoft/autogen,OpenAI,wrong_or_missing_pick,microsoft/autogen python-v0.7.1
+rules,organization,SH-019,re_fea02de5e6,false_positive,microsoft/autogen,OpenAI,predicted but not in gold,microsoft/autogen python-v0.7.1
+rules,organization,SH-023,re_d4d09d1001,miss,microsoft/autogen,,abstained,microsoft/autogen v0.2.1
+rules,organization,SH-031,la_359738e7b0,false_positive,OpenAI,Stanford,predicted but not in gold,OpenAI for Healthcare
+rules,organization,SH-031,la_359738e7b0,false_positive,OpenAI,Microsoft,predicted but not in gold,OpenAI for Healthcare
+rules,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,Google,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,Mistral,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,Microsoft,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,Cohere,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,Microsoft,predicted but not in gold,ChatGPT plugins
+rules,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Mistral,predicted but not in gold,OpenAI o1 System Card
+rules,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,NVIDIA,predicted but not in gold,OpenAI o1 System Card
+rules,organization,SH-040,la_70dadf2e6e,false_positive,OpenAI,Anthropic,predicted but not in gold,Our agreement with the Department of War
+rules,organization,SH-043,la_c486538cb1,miss,OpenAI,,gold_not_in_text,Introducing GPT-4o and more tools to ChatGPT free users
+rules,organization,SH-044,la_9b042a61ba,miss,SchoolAI,Apple; OpenAI,wrong_or_missing_pick,SchoolAI builds an AI platform that empowers teachers
+rules,organization,SH-044,la_9b042a61ba,false_positive,SchoolAI,Apple,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+rules,organization,SH-044,la_9b042a61ba,false_positive,SchoolAI,OpenAI,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+rules,organization,SH-051,la_0d668aeed3,miss,OpenAI,DeepMind,gold_not_in_text,Learning from human preferences
+rules,organization,SH-055,re_a9cd035e1b,false_positive,Significant-Gravitas,Google,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT v0.5.0
+rules,organization,SH-055,re_a9cd035e1b,false_positive,Significant-Gravitas,OpenAI,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT v0.5.0
+rules,organization,SH-060,la_25e1e85d3f,miss,ENEOS Materials,OpenAI,wrong_or_missing_pick,ENEOS Materials brings ChatGPT Enterprise to manufacturing
+rules,organization,SH-060,la_25e1e85d3f,false_positive,ENEOS Materials,OpenAI,predicted but not in gold,ENEOS Materials brings ChatGPT Enterprise to manufacturing
+rules,organization,SH-072,pa_a047761cd2,false_positive,,Apple,gold empty (paper/no org) but predicted,TinyAgent: Function Calling at the Edge
+rules,model_agent,P04,pa_79fd3507e2,miss,Agents (open-source library),,gold_descriptive_or_expanded,Agents: An Open-source Framework for Autonomous Language Age
+rules,model_agent,P06,la_0b7e7105cf,miss,OverflowAI,ChatGPT,wrong_or_missing_pick,API Partnership with Stack Overflow
+rules,model_agent,P07,la_621811037f,miss,omni-moderation-latest (Moderation API),GPT‑4o,gold_descriptive_or_expanded,Upgrading the Moderation API with our new multimodal moderat
+rules,model_agent,P07,la_621811037f,false_positive,omni-moderation-latest (Moderation API),GPT‑4o,predicted but not in gold,Upgrading the Moderation API with our new multimodal moderat
+rules,model_agent,P09,pa_d8d8bc3858,miss,Vaiage,GPT-4,wrong_or_missing_pick,Vaiage: A Multi-Agent Solution to Personalized Travel Planni
+rules,model_agent,P09,pa_d8d8bc3858,false_positive,Vaiage,GPT-4,predicted but not in gold,Vaiage: A Multi-Agent Solution to Personalized Travel Planni
+rules,model_agent,P11,pa_ecdb50855c,miss,ATLAS,,abstained,ATLAS: Adaptive Trading with LLM AgentS Through Dynamic Prom
+rules,model_agent,P12,la_89b0ac10d2,miss,OpenAI frontier models in the ServiceNow Platform,GPT‑5.2,gold_descriptive_or_expanded,ServiceNow powers actionable enterprise AI with OpenAI
+rules,model_agent,P12,la_89b0ac10d2,false_positive,OpenAI frontier models in the ServiceNow Platform,GPT‑5.2,predicted but not in gold,ServiceNow powers actionable enterprise AI with OpenAI
+rules,model_agent,P13,la_a1bdc83d63,miss,Safety Bug Bounty program,MCP; ChatGPT; GPT‑5,wrong_or_missing_pick,Introducing the OpenAI Safety Bug Bounty program
+rules,model_agent,P13,la_a1bdc83d63,false_positive,Safety Bug Bounty program,MCP,predicted but not in gold,Introducing the OpenAI Safety Bug Bounty program
+rules,model_agent,P13,la_a1bdc83d63,false_positive,Safety Bug Bounty program,ChatGPT,predicted but not in gold,Introducing the OpenAI Safety Bug Bounty program
+rules,model_agent,P13,la_a1bdc83d63,false_positive,Safety Bug Bounty program,GPT‑5,predicted but not in gold,Introducing the OpenAI Safety Bug Bounty program
+rules,model_agent,SH-001,re_e562d54c7e,miss,CrewAI 1.14.0a4,,abstained,crewAIInc/crewAI 1.14.0a4
+rules,model_agent,SH-002,la_f69a340d19,false_positive,Sora 2 / Sora app,ChatGPT,predicted but not in gold,Launching Sora responsibly
+rules,model_agent,SH-002,la_f69a340d19,false_positive,Sora 2 / Sora app,Sora 1,predicted but not in gold,Launching Sora responsibly
+rules,model_agent,SH-004,pa_e1d9ad171d,miss,AMA (Adaptive Memory via Multi-Agent Collaboration),,abstained,AMA: Adaptive Memory via Multi-Agent Collaboration
+rules,model_agent,SH-005,pa_5548603042,miss,LLM-based agents in a multi-agent cooperative text game,,abstained,Theory of Mind for Multi-Agent Collaboration via Large Langu
+rules,model_agent,SH-006,pa_0150f3dec3,miss,WorldEvolver,,abstained,Self-Evolving World Models for LLM Agent Planning
+rules,model_agent,SH-007,la_da3c5b116f,false_positive,"Weak-to-strong generalization (GPT-2-level supervisor, GPT-4)",DALL·E,predicted but not in gold,Weak-to-strong generalization
+rules,model_agent,SH-007,la_da3c5b116f,false_positive,"Weak-to-strong generalization (GPT-2-level supervisor, GPT-4)",GPT‑3.5,predicted but not in gold,Weak-to-strong generalization
+rules,model_agent,SH-007,la_da3c5b116f,false_positive,"Weak-to-strong generalization (GPT-2-level supervisor, GPT-4)",GPT‑3,predicted but not in gold,Weak-to-strong generalization
+rules,model_agent,SH-007,la_da3c5b116f,false_positive,"Weak-to-strong generalization (GPT-2-level supervisor, GPT-4)",ChatGPT,predicted but not in gold,Weak-to-strong generalization
+rules,model_agent,SH-011,pa_53739fcb85,miss,LLM-enabled multi-agent mechatronics design framework,,gold_descriptive_or_expanded,An LLM-enabled Multi-Agent Autonomous Mechatronics Design Fr
+rules,model_agent,SH-013,la_9fc0c61c22,miss,Rule-Based Rewards (RBRs),GPT‑4; GPT‑4o mini,wrong_or_missing_pick,Improving Model Safety Behavior with Rule-Based Rewards
+rules,model_agent,SH-013,la_9fc0c61c22,false_positive,Rule-Based Rewards (RBRs),GPT‑4,predicted but not in gold,Improving Model Safety Behavior with Rule-Based Rewards
+rules,model_agent,SH-013,la_9fc0c61c22,false_positive,Rule-Based Rewards (RBRs),GPT‑4o mini,predicted but not in gold,Improving Model Safety Behavior with Rule-Based Rewards
+rules,model_agent,SH-015,la_e375ef0de5,miss,"Kubernetes cluster (7,500 nodes) for large-model training",GPT‑3; CLIP; DALL·E,gold_descriptive_or_expanded,"Scaling Kubernetes to 7,500 nodes"
+rules,model_agent,SH-015,la_e375ef0de5,false_positive,"Kubernetes cluster (7,500 nodes) for large-model training",GPT‑3,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules,model_agent,SH-015,la_e375ef0de5,false_positive,"Kubernetes cluster (7,500 nodes) for large-model training",CLIP,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules,model_agent,SH-015,la_e375ef0de5,false_positive,"Kubernetes cluster (7,500 nodes) for large-model training",DALL·E,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules,model_agent,SH-016,pa_7ab9c1a2df,miss,RLTR,,abstained,Encouraging Good Processes Without the Need for Good Answers
+rules,model_agent,SH-018,pa_8cf02d552d,miss,GeoJSON Agents,GPT-4o,wrong_or_missing_pick,GeoJSON Agents:A Multi-Agent LLM Architecture for Geospatial
+rules,model_agent,SH-018,pa_8cf02d552d,false_positive,GeoJSON Agents,GPT-4o,predicted but not in gold,GeoJSON Agents:A Multi-Agent LLM Architecture for Geospatial
+rules,model_agent,SH-019,re_fea02de5e6,miss,AutoGen python-v0.7.1,MCP,wrong_or_missing_pick,microsoft/autogen python-v0.7.1
+rules,model_agent,SH-019,re_fea02de5e6,false_positive,AutoGen python-v0.7.1,MCP,predicted but not in gold,microsoft/autogen python-v0.7.1
+rules,model_agent,SH-020,la_2d5fba6a19,false_positive,ChatGPT Business and ChatGPT Enterprise (nonprofit programme),GPT‑4o,predicted but not in gold,Introducing OpenAI for Nonprofits
+rules,model_agent,SH-022,pa_6b359407c4,false_positive,LLM agent for WS-PSO-CM hyper-parameter tuning (with MCP),Model Context Protocol,predicted but not in gold,LLM Agent for Hyper-Parameter Optimization
+rules,model_agent,SH-023,re_d4d09d1001,false_positive,AutoGen v0.2.1 (AutoBuild),AutoGen Studio,predicted but not in gold,microsoft/autogen v0.2.1
+rules,model_agent,SH-025,pa_8f971a6ec3,miss,REALM-Bench,GPT-4o; Claude; DeepSeek-R1; LangGraph; AutoGen; CrewAI,wrong_or_missing_pick,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules,model_agent,SH-025,pa_8f971a6ec3,false_positive,REALM-Bench,GPT-4o,predicted but not in gold,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules,model_agent,SH-025,pa_8f971a6ec3,false_positive,REALM-Bench,Claude,predicted but not in gold,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules,model_agent,SH-025,pa_8f971a6ec3,false_positive,REALM-Bench,DeepSeek-R1,predicted but not in gold,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules,model_agent,SH-025,pa_8f971a6ec3,false_positive,REALM-Bench,LangGraph,predicted but not in gold,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules,model_agent,SH-025,pa_8f971a6ec3,false_positive,REALM-Bench,AutoGen,predicted but not in gold,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules,model_agent,SH-025,pa_8f971a6ec3,false_positive,REALM-Bench,CrewAI,predicted but not in gold,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules,model_agent,SH-027,pa_518aeb01c3,miss,CodePori,,abstained,CodePori: Large-Scale System for Autonomous Software Develop
+rules,model_agent,SH-031,la_359738e7b0,false_positive,ChatGPT for Healthcare and OpenAI API for healthcare,GPT‑5,predicted but not in gold,OpenAI for Healthcare
+rules,model_agent,SH-031,la_359738e7b0,false_positive,ChatGPT for Healthcare and OpenAI API for healthcare,GPT‑5.2,predicted but not in gold,OpenAI for Healthcare
+rules,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,GPT‑5 mini,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,GPT‑5 nano,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,GPT-5 mini,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,Codex,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,ChatGPT,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,SWE-bench,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,MCP,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules,model_agent,SH-033,re_f6a082d95f,false_positive,AutoGPT Platform v0.6.51,MCP,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules,model_agent,SH-033,re_f6a082d95f,false_positive,AutoGPT Platform v0.6.51,Claude,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules,model_agent,SH-033,re_f6a082d95f,false_positive,AutoGPT Platform v0.6.51,Gemini,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules,model_agent,SH-033,re_f6a082d95f,false_positive,AutoGPT Platform v0.6.51,Claude Sonnet 4.6,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules,model_agent,SH-033,re_f6a082d95f,false_positive,AutoGPT Platform v0.6.51,Mistral ,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules,model_agent,SH-033,re_f6a082d95f,false_positive,AutoGPT Platform v0.6.51,Grok,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules,model_agent,SH-034,pa_a7d2e7274d,miss,AgentGen,Llama-3.1-8B; GPT-3.5; Llama-3.1-70B,wrong_or_missing_pick,AgentGen: Enhancing Planning Abilities for Large Language Mo
+rules,model_agent,SH-034,pa_a7d2e7274d,false_positive,AgentGen,Llama-3.1-8B,predicted but not in gold,AgentGen: Enhancing Planning Abilities for Large Language Mo
+rules,model_agent,SH-034,pa_a7d2e7274d,false_positive,AgentGen,GPT-3.5,predicted but not in gold,AgentGen: Enhancing Planning Abilities for Large Language Mo
+rules,model_agent,SH-034,pa_a7d2e7274d,false_positive,AgentGen,Llama-3.1-70B,predicted but not in gold,AgentGen: Enhancing Planning Abilities for Large Language Mo
+rules,model_agent,SH-035,la_bbf31f939c,false_positive,ChatGPT plugins,GPT‑4,predicted but not in gold,ChatGPT plugins
+rules,model_agent,SH-038,re_6a152a8223,miss,CrewAI 1.8.1,A2A,wrong_or_missing_pick,crewAIInc/crewAI 1.8.1
+rules,model_agent,SH-038,re_6a152a8223,false_positive,CrewAI 1.8.1,A2A,predicted but not in gold,crewAIInc/crewAI 1.8.1
+rules,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,GPT‑4o,predicted but not in gold,OpenAI o1 System Card
+rules,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,ChatGPT,predicted but not in gold,OpenAI o1 System Card
+rules,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,GPT-4o,predicted but not in gold,OpenAI o1 System Card
+rules,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,GPT-4o-mini,predicted but not in gold,OpenAI o1 System Card
+rules,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,SWE-bench,predicted but not in gold,OpenAI o1 System Card
+rules,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,Mistral 7B,predicted but not in gold,OpenAI o1 System Card
+rules,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,GPT‑4,predicted but not in gold,OpenAI o1 System Card
+rules,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,o1-preview,predicted but not in gold,OpenAI o1 System Card
+rules,model_agent,SH-040,la_70dadf2e6e,miss,OpenAI AI services under agreement with the Department of War,,gold_descriptive_or_expanded,Our agreement with the Department of War
+rules,model_agent,SH-041,la_5c157a0f1b,miss,Stateful Runtime Environment on Amazon Bedrock,,gold_descriptive_or_expanded,OpenAI and Amazon announce strategic partnership
+rules,model_agent,SH-041,la_5c157a0f1b,miss,OpenAI Frontier,,abstained,OpenAI and Amazon announce strategic partnership
+rules,model_agent,SH-043,la_c486538cb1,false_positive,GPT-4o,ChatGPT,predicted but not in gold,Introducing GPT-4o and more tools to ChatGPT free users
+rules,model_agent,SH-043,la_c486538cb1,false_positive,GPT-4o,GPT‑3.5,predicted but not in gold,Introducing GPT-4o and more tools to ChatGPT free users
+rules,model_agent,SH-044,la_9b042a61ba,false_positive,"SchoolAI platform (GPT-4.1, image generation, text-to-speech)",ChatGPT,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+rules,model_agent,SH-044,la_9b042a61ba,false_positive,"SchoolAI platform (GPT-4.1, image generation, text-to-speech)",GPT‑4o,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+rules,model_agent,SH-044,la_9b042a61ba,false_positive,"SchoolAI platform (GPT-4.1, image generation, text-to-speech)",GPT‑4o-mini,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+rules,model_agent,SH-049,pa_8fa1443c8b,miss,Evo-Memory (with ExpRAG and ReMem baselines),,gold_descriptive_or_expanded,Evo-Memory: Benchmarking LLM Agent Test-time Learning with S
+rules,model_agent,SH-051,la_0d668aeed3,miss,Learning from human preferences (reward-learning algorithm),,gold_descriptive_or_expanded,Learning from human preferences
+rules,model_agent,SH-053,pa_7d171a840c,miss,QAgent,,abstained,QAgent: An LLM-based Multi-Agent System for Autonomous OpenQ
+rules,model_agent,SH-056,pa_e4fc7a2f26,miss,SocialGrid,,abstained,SocialGrid: A Benchmark for Planning and Social Reasoning in
+rules,model_agent,SH-057,la_cfa376d35c,false_positive,"Codex (CLI, cloud agent, SDK, Slack integration)",GPT‑5,predicted but not in gold,Codex is now generally available
+rules,model_agent,SH-057,la_cfa376d35c,false_positive,"Codex (CLI, cloud agent, SDK, Slack integration)",ChatGPT,predicted but not in gold,Codex is now generally available
+rules,model_agent,SH-057,la_cfa376d35c,false_positive,"Codex (CLI, cloud agent, SDK, Slack integration)",GPT-6.1,predicted but not in gold,Codex is now generally available
+rules,model_agent,SH-066,pa_25080a8f0d,miss,ClawVM,,abstained,ClawVM: Harness-Managed Virtual Memory for Stateful Tool-Usi
+rules,model_agent,SH-072,pa_a047761cd2,miss,TinyAgent-1.1B and TinyAgent-7B,GPT-4-Turbo,gold_descriptive_or_expanded,TinyAgent: Function Calling at the Edge
+rules,model_agent,SH-072,pa_a047761cd2,false_positive,TinyAgent-1.1B and TinyAgent-7B,GPT-4-Turbo,predicted but not in gold,TinyAgent: Function Calling at the Edge
+rules,model_agent,SH-075,la_861bee6c31,miss,InstructGPT,GPT‑3; GPT-3,wrong_or_missing_pick,Aligning language models to follow instructions
+rules,model_agent,SH-075,la_861bee6c31,false_positive,InstructGPT,GPT‑3,predicted but not in gold,Aligning language models to follow instructions
+rules,model_agent,SH-075,la_861bee6c31,false_positive,InstructGPT,GPT-3,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,P06,la_0b7e7105cf,false_positive,OpenAI; Stack Overflow,Stack Exchange,predicted but not in gold,API Partnership with Stack Overflow
+rules+spacy,organization,P06,la_0b7e7105cf,false_positive,OpenAI; Stack Overflow,COO,predicted but not in gold,API Partnership with Stack Overflow
+rules+spacy,organization,P07,la_621811037f,false_positive,OpenAI,ElevenLabs,predicted but not in gold,Upgrading the Moderation API with our new multimodal moderat
+rules+spacy,organization,P07,la_621811037f,false_positive,OpenAI,Telugu,predicted but not in gold,Upgrading the Moderation API with our new multimodal moderat
+rules+spacy,organization,P07,la_621811037f,false_positive,OpenAI,Marathi,predicted but not in gold,Upgrading the Moderation API with our new multimodal moderat
+rules+spacy,organization,P07,la_621811037f,false_positive,OpenAI,Henrique Ponde de Oliveira Pinto,predicted but not in gold,Upgrading the Moderation API with our new multimodal moderat
+rules+spacy,organization,P07,la_621811037f,false_positive,OpenAI,Freddie Sulit,predicted but not in gold,Upgrading the Moderation API with our new multimodal moderat
+rules+spacy,organization,P09,pa_d8d8bc3858,false_positive,,Vaiage,gold empty (paper/no org) but predicted,Vaiage: A Multi-Agent Solution to Personalized Travel Planni
+rules+spacy,organization,P11,pa_ecdb50855c,false_positive,,Adaptive-OPRO,gold empty (paper/no org) but predicted,ATLAS: Adaptive Trading with LLM AgentS Through Dynamic Prom
+rules+spacy,organization,P12,la_89b0ac10d2,false_positive,OpenAI; ServiceNow,"Together, Service",predicted but not in gold,ServiceNow powers actionable enterprise AI with OpenAI
+rules+spacy,organization,P12,la_89b0ac10d2,false_positive,OpenAI; ServiceNow,PayPal,predicted but not in gold,ServiceNow powers actionable enterprise AI with OpenAI
+rules+spacy,organization,P12,la_89b0ac10d2,false_positive,OpenAI; ServiceNow,Intuit,predicted but not in gold,ServiceNow powers actionable enterprise AI with OpenAI
+rules+spacy,organization,P12,la_89b0ac10d2,false_positive,OpenAI; ServiceNow,Target,predicted but not in gold,ServiceNow powers actionable enterprise AI with OpenAI
+rules+spacy,organization,P12,la_89b0ac10d2,false_positive,OpenAI; ServiceNow,Thermo Fisher,predicted but not in gold,ServiceNow powers actionable enterprise AI with OpenAI
+rules+spacy,organization,P12,la_89b0ac10d2,false_positive,OpenAI; ServiceNow,BNY,predicted but not in gold,ServiceNow powers actionable enterprise AI with OpenAI
+rules+spacy,organization,P12,la_89b0ac10d2,false_positive,OpenAI; ServiceNow,Morgan Stanley,predicted but not in gold,ServiceNow powers actionable enterprise AI with OpenAI
+rules+spacy,organization,P12,la_89b0ac10d2,false_positive,OpenAI; ServiceNow,NASK,predicted but not in gold,ServiceNow powers actionable enterprise AI with OpenAI
+rules+spacy,organization,P12,la_89b0ac10d2,false_positive,OpenAI; ServiceNow,Global Affairs Oct,predicted but not in gold,ServiceNow powers actionable enterprise AI with OpenAI
+rules+spacy,organization,P13,la_a1bdc83d63,false_positive,OpenAI,Agentic Risks,predicted but not in gold,Introducing the OpenAI Safety Bug Bounty program
+rules+spacy,organization,P13,la_a1bdc83d63,false_positive,OpenAI,Platform Integrity Vulnerabilities,predicted but not in gold,Introducing the OpenAI Safety Bug Bounty program
+rules+spacy,organization,P13,la_a1bdc83d63,false_positive,OpenAI,Biorisk,predicted but not in gold,Introducing the OpenAI Safety Bug Bounty program
+rules+spacy,organization,P13,la_a1bdc83d63,false_positive,OpenAI,View all Community,predicted but not in gold,Introducing the OpenAI Safety Bug Bounty program
+rules+spacy,organization,P13,la_a1bdc83d63,false_positive,OpenAI,"AI Safety Oct 29, 2026",predicted but not in gold,Introducing the OpenAI Safety Bug Bounty program
+rules+spacy,organization,SH-001,re_e562d54c7e,false_positive,crewAIInc,tokens - Bump,predicted but not in gold,crewAIInc/crewAI 1.14.0a4
+rules+spacy,organization,SH-001,re_e562d54c7e,false_positive,crewAIInc,JsonProvider,predicted but not in gold,crewAIInc/crewAI 1.14.0a4
+rules+spacy,organization,SH-001,re_e562d54c7e,false_positive,crewAIInc,Refactoring - Remove CodeInterpreterTool,predicted but not in gold,crewAIInc/crewAI 1.14.0a4
+rules+spacy,organization,SH-001,re_e562d54c7e,false_positive,crewAIInc,@joaomdmoura,predicted but not in gold,crewAIInc/crewAI 1.14.0a4
+rules+spacy,organization,SH-002,la_f69a340d19,miss,OpenAI,Global Usage Policies; Videos,gold_not_in_text,Launching Sora responsibly
+rules+spacy,organization,SH-002,la_f69a340d19,false_positive,OpenAI,Global Usage Policies,predicted but not in gold,Launching Sora responsibly
+rules+spacy,organization,SH-002,la_f69a340d19,false_positive,OpenAI,Videos,predicted but not in gold,Launching Sora responsibly
+rules+spacy,organization,SH-004,pa_e1d9ad171d,false_positive,,AMA,gold empty (paper/no org) but predicted,AMA: Adaptive Memory via Multi-Agent Collaboration
+rules+spacy,organization,SH-005,pa_5548603042,false_positive,,Theory of Mind,gold empty (paper/no org) but predicted,Theory of Mind for Multi-Agent Collaboration via Large Langu
+rules+spacy,organization,SH-005,pa_5548603042,false_positive,,Multi-Agent Reinforcement Learning,gold empty (paper/no org) but predicted,Theory of Mind for Multi-Agent Collaboration via Large Langu
+rules+spacy,organization,SH-006,pa_0150f3dec3,false_positive,,WorldEvolver,gold empty (paper/no org) but predicted,Self-Evolving World Models for LLM Agent Planning
+rules+spacy,organization,SH-006,pa_0150f3dec3,false_positive,,ScienceWorld,gold empty (paper/no org) but predicted,Self-Evolving World Models for LLM Agent Planning
+rules+spacy,organization,SH-006,pa_0150f3dec3,false_positive,,AgentBoard,gold empty (paper/no org) but predicted,Self-Evolving World Models for LLM Agent Planning
+rules+spacy,organization,SH-006,pa_0150f3dec3,false_positive,,fidelity,gold empty (paper/no org) but predicted,Self-Evolving World Models for LLM Agent Planning
+rules+spacy,organization,SH-007,la_da3c5b116f,miss,OpenAI,AGI; Security Feb,gold_not_in_text,Weak-to-strong generalization
+rules+spacy,organization,SH-007,la_da3c5b116f,false_positive,OpenAI,AGI,predicted but not in gold,Weak-to-strong generalization
+rules+spacy,organization,SH-007,la_da3c5b116f,false_positive,OpenAI,Security Feb,predicted but not in gold,Weak-to-strong generalization
+rules+spacy,organization,SH-008,la_100446a7f6,false_positive,OpenAI,GPT,predicted but not in gold,Better language models and their implications
+rules+spacy,organization,SH-008,la_100446a7f6,false_positive,OpenAI,Wikipedia,predicted but not in gold,Better language models and their implications
+rules+spacy,organization,SH-008,la_100446a7f6,false_positive,OpenAI,Rings,predicted but not in gold,Better language models and their implications
+rules+spacy,organization,SH-008,la_100446a7f6,false_positive,OpenAI,Amazon,predicted but not in gold,Better language models and their implications
+rules+spacy,organization,SH-008,la_100446a7f6,false_positive,OpenAI,LAMBADA,predicted but not in gold,Better language models and their implications
+rules+spacy,organization,SH-008,la_100446a7f6,false_positive,OpenAI,Penn Tree Bank,predicted but not in gold,Better language models and their implications
+rules+spacy,organization,SH-008,la_100446a7f6,false_positive,OpenAI,Unsupervised,predicted but not in gold,Better language models and their implications
+rules+spacy,organization,SH-008,la_100446a7f6,false_positive,OpenAI,Impersonate,predicted but not in gold,Better language models and their implications
+rules+spacy,organization,SH-008,la_100446a7f6,false_positive,OpenAI,WebText,predicted but not in gold,Better language models and their implications
+rules+spacy,organization,SH-008,la_100446a7f6,false_positive,OpenAI,Google,predicted but not in gold,Better language models and their implications
+rules+spacy,organization,SH-008,la_100446a7f6,false_positive,OpenAI,CommonCrawl,predicted but not in gold,Better language models and their implications
+rules+spacy,organization,SH-008,la_100446a7f6,false_positive,OpenAI,Daniella Amodei,predicted but not in gold,Better language models and their implications
+rules+spacy,organization,SH-008,la_100446a7f6,false_positive,OpenAI,Rewon Child,predicted but not in gold,Better language models and their implications
+rules+spacy,organization,SH-008,la_100446a7f6,false_positive,OpenAI,Ashley Pilipiszyn Design,predicted but not in gold,Better language models and their implications
+rules+spacy,organization,SH-013,la_9fc0c61c22,false_positive,OpenAI,Rule-Based Rewards,predicted but not in gold,Improving Model Safety Behavior with Rule-Based Rewards
+rules+spacy,organization,SH-013,la_9fc0c61c22,false_positive,OpenAI,Comply,predicted but not in gold,Improving Model Safety Behavior with Rule-Based Rewards
+rules+spacy,organization,SH-013,la_9fc0c61c22,false_positive,OpenAI,RBR,predicted but not in gold,Improving Model Safety Behavior with Rule-Based Rewards
+rules+spacy,organization,SH-013,la_9fc0c61c22,false_positive,OpenAI,PPO,predicted but not in gold,Improving Model Safety Behavior with Rule-Based Rewards
+rules+spacy,organization,SH-013,la_9fc0c61c22,false_positive,OpenAI,GPT Ethics & Safety Reasonings & Policy,predicted but not in gold,Improving Model Safety Behavior with Rule-Based Rewards
+rules+spacy,organization,SH-013,la_9fc0c61c22,false_positive,OpenAI,Lilian Weng Acknowledgements Additional,predicted but not in gold,Improving Model Safety Behavior with Rule-Based Rewards
+rules+spacy,organization,SH-013,la_9fc0c61c22,false_positive,OpenAI,Johannes Heidecke,predicted but not in gold,Improving Model Safety Behavior with Rule-Based Rewards
+rules+spacy,organization,SH-014,pa_715946df7b,false_positive,,the Large Language Model (LLM,gold empty (paper/no org) but predicted,Large Language Model Enhanced Multi-Agent Systems for 6G Com
+rules+spacy,organization,SH-014,pa_715946df7b,false_positive,,Data Retrieval,gold empty (paper/no org) but predicted,Large Language Model Enhanced Multi-Agent Systems for 6G Com
+rules+spacy,organization,SH-014,pa_715946df7b,false_positive,,MDR,gold empty (paper/no org) but predicted,Large Language Model Enhanced Multi-Agent Systems for 6G Com
+rules+spacy,organization,SH-014,pa_715946df7b,false_positive,,Collaborative Planning,gold empty (paper/no org) but predicted,Large Language Model Enhanced Multi-Agent Systems for 6G Com
+rules+spacy,organization,SH-014,pa_715946df7b,false_positive,,MER,gold empty (paper/no org) but predicted,Large Language Model Enhanced Multi-Agent Systems for 6G Com
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,Kubernetes,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,NVLink,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,NIC,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,GPUDirect,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,NUMA,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,CPU,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,IP,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,SSH,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,PersistentVolumes,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,Flannel,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,IP Configurations for Azure VMSSes,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,SDN,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,iptables mangle,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,INPUT,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,K 555M,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,K 7937M,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,NAT,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,API Servers,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,Kubernetes Events,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,API Server,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,DaemonSets,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,node,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,Context,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,WAL,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,Robust Perception,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,GPU,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,Nvidia’s Data Center,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,DCGM,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,Pod Disruption Budget,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,SLA,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,DaemonSet,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,Quotas &,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,ConfigMap,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,CPU & GPU,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,Kubernetes 1.18,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,StatefulSets,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,StatefulSet,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,MPI,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-015,la_e375ef0de5,false_positive,OpenAI,"Release Jul 28,",predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,organization,SH-016,pa_7ab9c1a2df,false_positive,,Reinforcement Learning,gold empty (paper/no org) but predicted,Encouraging Good Processes Without the Need for Good Answers
+rules+spacy,organization,SH-016,pa_7ab9c1a2df,false_positive,,RLTR,gold empty (paper/no org) but predicted,Encouraging Good Processes Without the Need for Good Answers
+rules+spacy,organization,SH-018,pa_8cf02d552d,false_positive,,Planner,gold empty (paper/no org) but predicted,GeoJSON Agents:A Multi-Agent LLM Architecture for Geospatial
+rules+spacy,organization,SH-018,pa_8cf02d552d,false_positive,,OpenAI,gold empty (paper/no org) but predicted,GeoJSON Agents:A Multi-Agent LLM Architecture for Geospatial
+rules+spacy,organization,SH-018,pa_8cf02d552d,false_positive,,Function Calling,gold empty (paper/no org) but predicted,GeoJSON Agents:A Multi-Agent LLM Architecture for Geospatial
+rules+spacy,organization,SH-019,re_fea02de5e6,miss,microsoft/autogen,OpenAI; GroupChat; @ekzhu; @justin; @victordibia; @Copilot; AssistantAgent; @zrquan in * Update,wrong_or_missing_pick,microsoft/autogen python-v0.7.1
+rules+spacy,organization,SH-019,re_fea02de5e6,false_positive,microsoft/autogen,OpenAI,predicted but not in gold,microsoft/autogen python-v0.7.1
+rules+spacy,organization,SH-019,re_fea02de5e6,false_positive,microsoft/autogen,GroupChat,predicted but not in gold,microsoft/autogen python-v0.7.1
+rules+spacy,organization,SH-019,re_fea02de5e6,false_positive,microsoft/autogen,@ekzhu,predicted but not in gold,microsoft/autogen python-v0.7.1
+rules+spacy,organization,SH-019,re_fea02de5e6,false_positive,microsoft/autogen,@justin,predicted but not in gold,microsoft/autogen python-v0.7.1
+rules+spacy,organization,SH-019,re_fea02de5e6,false_positive,microsoft/autogen,@victordibia,predicted but not in gold,microsoft/autogen python-v0.7.1
+rules+spacy,organization,SH-019,re_fea02de5e6,false_positive,microsoft/autogen,@Copilot,predicted but not in gold,microsoft/autogen python-v0.7.1
+rules+spacy,organization,SH-019,re_fea02de5e6,false_positive,microsoft/autogen,AssistantAgent,predicted but not in gold,microsoft/autogen python-v0.7.1
+rules+spacy,organization,SH-019,re_fea02de5e6,false_positive,microsoft/autogen,@zrquan in * Update,predicted but not in gold,microsoft/autogen python-v0.7.1
+rules+spacy,organization,SH-020,la_2d5fba6a19,false_positive,OpenAI,THINK,predicted but not in gold,Introducing OpenAI for Nonprofits
+rules+spacy,organization,SH-020,la_2d5fba6a19,false_positive,OpenAI,EdTech,predicted but not in gold,Introducing OpenAI for Nonprofits
+rules+spacy,organization,SH-020,la_2d5fba6a19,false_positive,OpenAI,Team4Tech,predicted but not in gold,Introducing OpenAI for Nonprofits
+rules+spacy,organization,SH-022,pa_6b359407c4,false_positive,,UAV,gold empty (paper/no org) but predicted,LLM Agent for Hyper-Parameter Optimization
+rules+spacy,organization,SH-022,pa_6b359407c4,false_positive,,WS-PSO-CM,gold empty (paper/no org) but predicted,LLM Agent for Hyper-Parameter Optimization
+rules+spacy,organization,SH-022,pa_6b359407c4,false_positive,,PSO,gold empty (paper/no org) but predicted,LLM Agent for Hyper-Parameter Optimization
+rules+spacy,organization,SH-023,re_d4d09d1001,miss,microsoft/autogen,AutoBuild; @victordibia @joshkyh; @rickyloynd-microsoft; @qingyun-wu; doc; @sonichi; @victordibia; * Register; gpt; @IANTHEREAL; @joshkyh; Testbed; @momuno,partial_token_overlap,microsoft/autogen v0.2.1
+rules+spacy,organization,SH-023,re_d4d09d1001,false_positive,microsoft/autogen,AutoBuild,predicted but not in gold,microsoft/autogen v0.2.1
+rules+spacy,organization,SH-023,re_d4d09d1001,false_positive,microsoft/autogen,@victordibia @joshkyh,predicted but not in gold,microsoft/autogen v0.2.1
+rules+spacy,organization,SH-023,re_d4d09d1001,false_positive,microsoft/autogen,@rickyloynd-microsoft,predicted but not in gold,microsoft/autogen v0.2.1
+rules+spacy,organization,SH-023,re_d4d09d1001,false_positive,microsoft/autogen,@qingyun-wu,predicted but not in gold,microsoft/autogen v0.2.1
+rules+spacy,organization,SH-023,re_d4d09d1001,false_positive,microsoft/autogen,doc,predicted but not in gold,microsoft/autogen v0.2.1
+rules+spacy,organization,SH-023,re_d4d09d1001,false_positive,microsoft/autogen,@sonichi,predicted but not in gold,microsoft/autogen v0.2.1
+rules+spacy,organization,SH-023,re_d4d09d1001,false_positive,microsoft/autogen,@victordibia,predicted but not in gold,microsoft/autogen v0.2.1
+rules+spacy,organization,SH-023,re_d4d09d1001,false_positive,microsoft/autogen,* Register,predicted but not in gold,microsoft/autogen v0.2.1
+rules+spacy,organization,SH-023,re_d4d09d1001,false_positive,microsoft/autogen,gpt,predicted but not in gold,microsoft/autogen v0.2.1
+rules+spacy,organization,SH-023,re_d4d09d1001,false_positive,microsoft/autogen,@IANTHEREAL,predicted but not in gold,microsoft/autogen v0.2.1
+rules+spacy,organization,SH-023,re_d4d09d1001,false_positive,microsoft/autogen,@joshkyh,predicted but not in gold,microsoft/autogen v0.2.1
+rules+spacy,organization,SH-023,re_d4d09d1001,false_positive,microsoft/autogen,Testbed,predicted but not in gold,microsoft/autogen v0.2.1
+rules+spacy,organization,SH-023,re_d4d09d1001,false_positive,microsoft/autogen,@momuno,predicted but not in gold,microsoft/autogen v0.2.1
+rules+spacy,organization,SH-025,pa_8f971a6ec3,false_positive,,Random,gold empty (paper/no org) but predicted,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules+spacy,organization,SH-025,pa_8f971a6ec3,false_positive,,LPT,gold empty (paper/no org) but predicted,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules+spacy,organization,SH-025,pa_8f971a6ec3,false_positive,,SPT,gold empty (paper/no org) but predicted,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules+spacy,organization,SH-025,pa_8f971a6ec3,false_positive,,STPT,gold empty (paper/no org) but predicted,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules+spacy,organization,SH-025,pa_8f971a6ec3,false_positive,,DRL,gold empty (paper/no org) but predicted,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules+spacy,organization,SH-025,pa_8f971a6ec3,false_positive,,GP,gold empty (paper/no org) but predicted,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules+spacy,organization,SH-025,pa_8f971a6ec3,false_positive,,GEP,gold empty (paper/no org) but predicted,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules+spacy,organization,SH-025,pa_8f971a6ec3,false_positive,,DRL-Zhang,gold empty (paper/no org) but predicted,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,Healthcare Secure AI,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,Healthcare,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,HIPAA,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,AdventHealth,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,Boston Children’s Hospital,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,Cedars-Sinai Medical Center,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,HCA Healthcare,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,Memorial Sloan Kettering Cancer Center,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,Stanford,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,University of California,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,UCSF,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,the American Medical Association,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,HealthBench,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,Microsoft,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,SCIM,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,PHI,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,Content,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,a Business Associate Agreement,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,Penda Health,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,HealthBench Consensus,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,Retro Biosciences ⁠,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,Amgen,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,Thermo Fisher,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,Boston Consulting Group,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,"Bain, McKinsey & Company",predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-031,la_359738e7b0,false_positive,OpenAI,ServiceNow,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,organization,SH-032,la_c3086d499c,false_positive,OpenAI,xhigh,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,organization,SH-032,la_c3086d499c,false_positive,OpenAI,high¹,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,organization,SH-032,la_c3086d499c,false_positive,OpenAI,Terminal-Bench,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,organization,SH-032,la_c3086d499c,false_positive,OpenAI,Diamond,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,organization,SH-032,la_c3086d499c,false_positive,OpenAI,Coding,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,organization,SH-032,la_c3086d499c,false_positive,OpenAI,CLI,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,organization,SH-032,la_c3086d499c,false_positive,OpenAI,Pro (Public,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,organization,SH-032,la_c3086d499c,false_positive,OpenAI,MRCR,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,organization,SH-032,la_c3086d499c,false_positive,OpenAI,0–128K,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,organization,SH-032,la_c3086d499c,false_positive,OpenAI,ServiceNow,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,Langfuse,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,SDK,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,TTS,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,UI/UX Improvements - *,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,Autopilot,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,Google,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,+ Chromium,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,@Bentlybro,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,HTML,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,Supabase,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,PerplexityBlocks,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,Codestral,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,Microsoft,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,Cohere,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,organization,SH-033,re_f6a082d95f,false_positive,Significant-Gravitas,Marketplace DB layer & API,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,organization,SH-034,pa_a7d2e7274d,false_positive,,AgentGen,gold empty (paper/no org) but predicted,AgentGen: Enhancing Planning Abilities for Large Language Mo
+rules+spacy,organization,SH-034,pa_a7d2e7274d,false_positive,,Bi-Evol,gold empty (paper/no org) but predicted,AgentGen: Enhancing Planning Abilities for Large Language Mo
+rules+spacy,organization,SH-034,pa_a7d2e7274d,false_positive,,AgentBoard,gold empty (paper/no org) but predicted,AgentGen: Enhancing Planning Abilities for Large Language Mo
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,FiscalNote,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,Instacart,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,KAYAK,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,Milo,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,OpenTable,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,Slack,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,Zapier,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,Researcher Access Program,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,Evals,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,Oscars,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,GET,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,Microsoft,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,IP,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,Qdrant,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,Simón Posada Fishman,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,Filipe de Avila Belbute Peres,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,Chelsea Voss,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,Le Monde,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,Prisa Media Company Mar,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,2024 Review completed & Altman,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-035,la_bbf31f939c,false_positive,OpenAI,Brockman,predicted but not in gold,ChatGPT plugins
+rules+spacy,organization,SH-038,re_6a152a8223,false_positive,crewAIInc,PII,predicted but not in gold,crewAIInc/crewAI 1.8.1
+rules+spacy,organization,SH-038,re_6a152a8223,false_positive,crewAIInc,@joaomdmoura,predicted but not in gold,crewAIInc/crewAI 1.8.1
+rules+spacy,organization,SH-038,re_6a152a8223,false_positive,crewAIInc,@koushiv777,predicted but not in gold,crewAIInc/crewAI 1.8.1
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Select Public Data,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Proprietary Data,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Data Partnerships,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Data Filtering and Refinement:,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,CSAM,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,C Observed,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,the U.S. AI Safety Institute,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,the UK Safety Institute,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,XSTest,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Standard Refusal Evaluation,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,0.924,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Multimodal Refusal Evaluation,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Jailbreak Augmented Examples: Applies,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,StrongReject,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Jailbreak Evaluations,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Hallucination Evaluations Dataset Metric,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,BBQ,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,BBQ Evaluation,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Tamkin,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,the Instruction Hierarchy,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Password Protection Evaluation,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Phrase,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Password,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,RLHF,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,CoT Deception,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Content,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,CoT Chain,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Imaging Systems,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,the Red Teaming Network,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Comparison of Safety Ratings Comparison,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,ASR,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Apollo Research Apollo Research,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Apollo,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Apollo Research’s,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Apollo Research,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Pre-Mitigation,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Post-Mitigation,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Success Rate,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Verified Real,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,GitHub,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,MLE-Bench Real,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,MCQ,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Agentless,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Verified,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,ARA,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,GPU,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,HTML,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Docker,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,POST,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,NVIDIA,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Agentic Tasks Primary,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Abbreviated instructions Environment,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Docker Build,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Ranger,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,MLE,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,MLE-Bench,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Azure Translate,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,the Simple Evals GitHub repository H,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,the Challenging Refusal Evaluation,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Definitions,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,0.96,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,0.910 Overall,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Multimodal Refusal Evaluations - Text and,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,SmartCity Solutions,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,QuantBench Contextual,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Cybersecurity,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,QuantBench,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,QuantBench Pass Rate,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,QuantBench MCQ,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,N,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Reasonings & Policy Ethics & Safety System Cards,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,J. Heidecke,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,T. Gebru,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,S. Hooker,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,S. Agarwal,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,D. Almeida,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,S. Altman,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,S. Balaji,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,C. McLeavey,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,M. Pavlov,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,F. de Avila Belbute Peres,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,A. Power,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,B. Power,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,B. Zoph,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,S. Emmons,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,arXiv:2307.13702,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Neural Information Processing Systems,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,un,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,the National Academy of Sciences,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,J. M. Laurent,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,WWW,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,C Section,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,the Pre-Mitigation,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Claudia Fischer,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Johannes Heidecke,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-039,la_354f2a89c1,false_positive,OpenAI,Tejal Patwardhan,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,organization,SH-040,la_70dadf2e6e,false_positive,OpenAI,the Department of War Loading… Update,predicted but not in gold,Our agreement with the Department of War
+rules+spacy,organization,SH-040,la_70dadf2e6e,false_positive,OpenAI,Department,predicted but not in gold,Our agreement with the Department of War
+rules+spacy,organization,SH-040,la_70dadf2e6e,false_positive,OpenAI,Department of War,predicted but not in gold,Our agreement with the Department of War
+rules+spacy,organization,SH-040,la_70dadf2e6e,false_positive,OpenAI,NSA,predicted but not in gold,Our agreement with the Department of War
+rules+spacy,organization,SH-040,la_70dadf2e6e,false_positive,OpenAI,the United States Constitution,predicted but not in gold,Our agreement with the Department of War
+rules+spacy,organization,SH-040,la_70dadf2e6e,false_positive,OpenAI,The Department of War,predicted but not in gold,Our agreement with the Department of War
+rules+spacy,organization,SH-040,la_70dadf2e6e,false_positive,OpenAI,Pentagon,predicted but not in gold,Our agreement with the Department of War
+rules+spacy,organization,SH-040,la_70dadf2e6e,false_positive,OpenAI,Anthropic,predicted but not in gold,Our agreement with the Department of War
+rules+spacy,organization,SH-040,la_70dadf2e6e,false_positive,OpenAI,DoW,predicted but not in gold,Our agreement with the Department of War
+rules+spacy,organization,SH-040,la_70dadf2e6e,false_positive,OpenAI,The AI System,predicted but not in gold,Our agreement with the Department of War
+rules+spacy,organization,SH-040,la_70dadf2e6e,false_positive,OpenAI,the Foreign Intelligence and Surveillance Act,predicted but not in gold,Our agreement with the Department of War
+rules+spacy,organization,SH-040,la_70dadf2e6e,false_positive,OpenAI,the Posse Comitatus Act,predicted but not in gold,Our agreement with the Department of War
+rules+spacy,organization,SH-040,la_70dadf2e6e,false_positive,OpenAI,FAQ,predicted but not in gold,Our agreement with the Department of War
+rules+spacy,organization,SH-040,la_70dadf2e6e,false_positive,OpenAI,the Department of War,predicted but not in gold,Our agreement with the Department of War
+rules+spacy,organization,SH-040,la_70dadf2e6e,false_positive,OpenAI,ServiceNow,predicted but not in gold,Our agreement with the Department of War
+rules+spacy,organization,SH-041,la_5c157a0f1b,false_positive,OpenAI; Amazon (AWS),Stateful Runtime Environment,predicted but not in gold,OpenAI and Amazon announce strategic partnership
+rules+spacy,organization,SH-041,la_5c157a0f1b,false_positive,OpenAI; Amazon (AWS),Frontier,predicted but not in gold,OpenAI and Amazon announce strategic partnership
+rules+spacy,organization,SH-041,la_5c157a0f1b,false_positive,OpenAI; Amazon (AWS),The Stateful Runtime Environment,predicted but not in gold,OpenAI and Amazon announce strategic partnership
+rules+spacy,organization,SH-041,la_5c157a0f1b,false_positive,OpenAI; Amazon (AWS),ServiceNow,predicted but not in gold,OpenAI and Amazon announce strategic partnership
+rules+spacy,organization,SH-043,la_c486538cb1,miss,OpenAI,Team and Enterprise,gold_not_in_text,Introducing GPT-4o and more tools to ChatGPT free users
+rules+spacy,organization,SH-043,la_c486538cb1,false_positive,OpenAI,Team and Enterprise,predicted but not in gold,Introducing GPT-4o and more tools to ChatGPT free users
+rules+spacy,organization,SH-044,la_9b042a61ba,false_positive,SchoolAI,Results 500,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+rules+spacy,organization,SH-044,la_9b042a61ba,false_positive,SchoolAI,Education,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+rules+spacy,organization,SH-044,la_9b042a61ba,false_positive,SchoolAI,Apple,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+rules+spacy,organization,SH-044,la_9b042a61ba,false_positive,SchoolAI,OpenAI,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+rules+spacy,organization,SH-044,la_9b042a61ba,false_positive,SchoolAI,Dari,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+rules+spacy,organization,SH-044,la_9b042a61ba,false_positive,SchoolAI,TTS,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+rules+spacy,organization,SH-046,la_9bf2135904,false_positive,OpenAI,a National Bureau of Economic Research,predicted but not in gold,How people are using ChatGPT
+rules+spacy,organization,SH-046,la_9bf2135904,false_positive,OpenAI,NBER,predicted but not in gold,How people are using ChatGPT
+rules+spacy,organization,SH-046,la_9bf2135904,false_positive,OpenAI,Harvard,predicted but not in gold,How people are using ChatGPT
+rules+spacy,organization,SH-046,la_9bf2135904,false_positive,OpenAI,Citation,predicted but not in gold,How people are using ChatGPT
+rules+spacy,organization,SH-046,la_9bf2135904,false_positive,OpenAI,"Zo{\""e} Hitzig",predicted but not in gold,How people are using ChatGPT
+rules+spacy,organization,SH-046,la_9bf2135904,false_positive,OpenAI,National Bureau of Economic Research,predicted but not in gold,How people are using ChatGPT
+rules+spacy,organization,SH-046,la_9bf2135904,false_positive,OpenAI,GPT Economic Research,predicted but not in gold,How people are using ChatGPT
+rules+spacy,organization,SH-049,pa_8fa1443c8b,false_positive,,Statefulness,gold empty (paper/no org) but predicted,Evo-Memory: Benchmarking LLM Agent Test-time Learning with S
+rules+spacy,organization,SH-049,pa_8fa1443c8b,false_positive,,QA,gold empty (paper/no org) but predicted,Evo-Memory: Benchmarking LLM Agent Test-time Learning with S
+rules+spacy,organization,SH-051,la_0d668aeed3,miss,OpenAI,DeepMind,gold_not_in_text,Learning from human preferences
+rules+spacy,organization,SH-053,pa_7d171a840c,false_positive,,NISQ,gold empty (paper/no org) but predicted,QAgent: An LLM-based Multi-Agent System for Autonomous OpenQ
+rules+spacy,organization,SH-053,pa_7d171a840c,false_positive,,SDK,gold empty (paper/no org) but predicted,QAgent: An LLM-based Multi-Agent System for Autonomous OpenQ
+rules+spacy,organization,SH-054,la_483586da1c,false_positive,OpenAI,AGI Loading…,predicted but not in gold,New funding to build towards AGI
+rules+spacy,organization,SH-054,la_483586da1c,false_positive,OpenAI,SoftBank Group,predicted but not in gold,New funding to build towards AGI
+rules+spacy,organization,SH-055,re_a9cd035e1b,false_positive,Significant-Gravitas,UI,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT v0.5.0
+rules+spacy,organization,SH-055,re_a9cd035e1b,false_positive,Significant-Gravitas,GCS,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT v0.5.0
+rules+spacy,organization,SH-055,re_a9cd035e1b,false_positive,Significant-Gravitas,S3,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT v0.5.0
+rules+spacy,organization,SH-055,re_a9cd035e1b,false_positive,Significant-Gravitas,Google,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT v0.5.0
+rules+spacy,organization,SH-055,re_a9cd035e1b,false_positive,Significant-Gravitas,CLI,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT v0.5.0
+rules+spacy,organization,SH-055,re_a9cd035e1b,false_positive,Significant-Gravitas,PromptStrategy,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT v0.5.0
+rules+spacy,organization,SH-055,re_a9cd035e1b,false_positive,Significant-Gravitas,UserConfigurable,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT v0.5.0
+rules+spacy,organization,SH-055,re_a9cd035e1b,false_positive,Significant-Gravitas,AGBenchmark,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT v0.5.0
+rules+spacy,organization,SH-055,re_a9cd035e1b,false_positive,Significant-Gravitas,Planning & Task Management,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT v0.5.0
+rules+spacy,organization,SH-055,re_a9cd035e1b,false_positive,Significant-Gravitas,@shresthasurav,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT v0.5.0
+rules+spacy,organization,SH-055,re_a9cd035e1b,false_positive,Significant-Gravitas,OpenAI,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT v0.5.0
+rules+spacy,organization,SH-055,re_a9cd035e1b,false_positive,Significant-Gravitas,S3 FileWorkspace,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT v0.5.0
+rules+spacy,organization,SH-056,pa_e4fc7a2f26,false_positive,,SocialGrid,gold empty (paper/no org) but predicted,SocialGrid: A Benchmark for Planning and Social Reasoning in
+rules+spacy,organization,SH-056,pa_e4fc7a2f26,false_positive,,GPT,gold empty (paper/no org) but predicted,SocialGrid: A Benchmark for Planning and Social Reasoning in
+rules+spacy,organization,SH-057,la_cfa376d35c,false_positive,OpenAI,Slack,predicted but not in gold,Codex is now generally available
+rules+spacy,organization,SH-057,la_cfa376d35c,false_positive,OpenAI,CLI,predicted but not in gold,Codex is now generally available
+rules+spacy,organization,SH-057,la_cfa376d35c,false_positive,OpenAI,Vanta,predicted but not in gold,Codex is now generally available
+rules+spacy,organization,SH-057,la_cfa376d35c,false_positive,OpenAI,SDK,predicted but not in gold,Codex is now generally available
+rules+spacy,organization,SH-057,la_cfa376d35c,false_positive,OpenAI,TypeScript,predicted but not in gold,Codex is now generally available
+rules+spacy,organization,SH-057,la_cfa376d35c,false_positive,OpenAI,log (result,predicted but not in gold,Codex is now generally available
+rules+spacy,organization,SH-057,la_cfa376d35c,false_positive,OpenAI,log (result2,predicted but not in gold,Codex is now generally available
+rules+spacy,organization,SH-057,la_cfa376d35c,false_positive,OpenAI,CI,predicted but not in gold,Codex is now generally available
+rules+spacy,organization,SH-057,la_cfa376d35c,false_positive,OpenAI,GitHub Actions,predicted but not in gold,Codex is now generally available
+rules+spacy,organization,SH-057,la_cfa376d35c,false_positive,OpenAI,IDE,predicted but not in gold,Codex is now generally available
+rules+spacy,organization,SH-057,la_cfa376d35c,false_positive,OpenAI,Instacart,predicted but not in gold,Codex is now generally available
+rules+spacy,organization,SH-057,la_cfa376d35c,false_positive,OpenAI,Olive,predicted but not in gold,Codex is now generally available
+rules+spacy,organization,SH-057,la_cfa376d35c,false_positive,OpenAI,"Pro, Business, Edu",predicted but not in gold,Codex is now generally available
+rules+spacy,organization,SH-057,la_cfa376d35c,false_positive,OpenAI,"Business, Edu",predicted but not in gold,Codex is now generally available
+rules+spacy,organization,SH-057,la_cfa376d35c,false_positive,OpenAI,the Decisions API Product Oct,predicted but not in gold,Codex is now generally available
+rules+spacy,organization,SH-060,la_25e1e85d3f,miss,ENEOS Materials,Asia-Pacific & Oceania Industry: Manufacturing Products; the ENEOS Group; OpenAI; the Production Technology Department; the Research & Development Department; the Process Development and Engineering Department; Deep Research; Calculations; Process Development and Engineering Department; The Engineering; GPT,partial_token_overlap,ENEOS Materials brings ChatGPT Enterprise to manufacturing
+rules+spacy,organization,SH-060,la_25e1e85d3f,false_positive,ENEOS Materials,Asia-Pacific & Oceania Industry: Manufacturing Products,predicted but not in gold,ENEOS Materials brings ChatGPT Enterprise to manufacturing
+rules+spacy,organization,SH-060,la_25e1e85d3f,false_positive,ENEOS Materials,the ENEOS Group,predicted but not in gold,ENEOS Materials brings ChatGPT Enterprise to manufacturing
+rules+spacy,organization,SH-060,la_25e1e85d3f,false_positive,ENEOS Materials,OpenAI,predicted but not in gold,ENEOS Materials brings ChatGPT Enterprise to manufacturing
+rules+spacy,organization,SH-060,la_25e1e85d3f,false_positive,ENEOS Materials,the Production Technology Department,predicted but not in gold,ENEOS Materials brings ChatGPT Enterprise to manufacturing
+rules+spacy,organization,SH-060,la_25e1e85d3f,false_positive,ENEOS Materials,the Research & Development Department,predicted but not in gold,ENEOS Materials brings ChatGPT Enterprise to manufacturing
+rules+spacy,organization,SH-060,la_25e1e85d3f,false_positive,ENEOS Materials,the Process Development and Engineering Department,predicted but not in gold,ENEOS Materials brings ChatGPT Enterprise to manufacturing
+rules+spacy,organization,SH-060,la_25e1e85d3f,false_positive,ENEOS Materials,Deep Research,predicted but not in gold,ENEOS Materials brings ChatGPT Enterprise to manufacturing
+rules+spacy,organization,SH-060,la_25e1e85d3f,false_positive,ENEOS Materials,Calculations,predicted but not in gold,ENEOS Materials brings ChatGPT Enterprise to manufacturing
+rules+spacy,organization,SH-060,la_25e1e85d3f,false_positive,ENEOS Materials,Process Development and Engineering Department,predicted but not in gold,ENEOS Materials brings ChatGPT Enterprise to manufacturing
+rules+spacy,organization,SH-060,la_25e1e85d3f,false_positive,ENEOS Materials,The Engineering,predicted but not in gold,ENEOS Materials brings ChatGPT Enterprise to manufacturing
+rules+spacy,organization,SH-060,la_25e1e85d3f,false_positive,ENEOS Materials,GPT,predicted but not in gold,ENEOS Materials brings ChatGPT Enterprise to manufacturing
+rules+spacy,organization,SH-072,pa_a047761cd2,false_positive,,TinyAgent,gold empty (paper/no org) but predicted,TinyAgent: Function Calling at the Edge
+rules+spacy,organization,SH-072,pa_a047761cd2,false_positive,,LLMCompiler,gold empty (paper/no org) but predicted,TinyAgent: Function Calling at the Edge
+rules+spacy,organization,SH-072,pa_a047761cd2,false_positive,,Apple,gold empty (paper/no org) but predicted,TinyAgent: Function Calling at the Edge
+rules+spacy,organization,SH-072,pa_a047761cd2,false_positive,,MacBook,gold empty (paper/no org) but predicted,TinyAgent: Function Calling at the Edge
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,InstructGPT,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,FLAN 4,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,FLAN,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,PPO,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,GPT Language Footnotes,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,KL,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,Scale AI,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,"J., Brown,",predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,Martic,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,S.,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,N.,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,Stiennon,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,Dai,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,arXiv:2109.01652,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,Stiegler,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,McMillan-Major,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,Shmitchell,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,"I., Mikulik, V.",predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,Language Models,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,Limitations,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,Societal Impact of Large Language Models,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,I.,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,Society (PALMS,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,Values-Targeted Datasets,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,Frosst,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,McCann,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,J. and Evans,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,Choi,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,Van Durme,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,arXiv:1804.09301,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,Comms,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,organization,SH-075,la_861bee6c31,false_positive,OpenAI,Security Feb,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,model_agent,P04,pa_79fd3507e2,miss,Agents (open-source library),,gold_descriptive_or_expanded,Agents: An Open-source Framework for Autonomous Language Age
+rules+spacy,model_agent,P06,la_0b7e7105cf,miss,OverflowAI,ChatGPT,wrong_or_missing_pick,API Partnership with Stack Overflow
+rules+spacy,model_agent,P07,la_621811037f,miss,omni-moderation-latest (Moderation API),GPT‑4o; the Moderation API; API Platform 2024,gold_descriptive_or_expanded,Upgrading the Moderation API with our new multimodal moderat
+rules+spacy,model_agent,P07,la_621811037f,false_positive,omni-moderation-latest (Moderation API),GPT‑4o,predicted but not in gold,Upgrading the Moderation API with our new multimodal moderat
+rules+spacy,model_agent,P07,la_621811037f,false_positive,omni-moderation-latest (Moderation API),the Moderation API,predicted but not in gold,Upgrading the Moderation API with our new multimodal moderat
+rules+spacy,model_agent,P07,la_621811037f,false_positive,omni-moderation-latest (Moderation API),API Platform 2024,predicted but not in gold,Upgrading the Moderation API with our new multimodal moderat
+rules+spacy,model_agent,P09,pa_d8d8bc3858,miss,Vaiage,GPT-4,wrong_or_missing_pick,Vaiage: A Multi-Agent Solution to Personalized Travel Planni
+rules+spacy,model_agent,P09,pa_d8d8bc3858,false_positive,Vaiage,GPT-4,predicted but not in gold,Vaiage: A Multi-Agent Solution to Personalized Travel Planni
+rules+spacy,model_agent,P11,pa_ecdb50855c,miss,ATLAS,,abstained,ATLAS: Adaptive Trading with LLM AgentS Through Dynamic Prom
+rules+spacy,model_agent,P12,la_89b0ac10d2,miss,OpenAI frontier models in the ServiceNow Platform,GPT‑5.2,gold_descriptive_or_expanded,ServiceNow powers actionable enterprise AI with OpenAI
+rules+spacy,model_agent,P12,la_89b0ac10d2,false_positive,OpenAI frontier models in the ServiceNow Platform,GPT‑5.2,predicted but not in gold,ServiceNow powers actionable enterprise AI with OpenAI
+rules+spacy,model_agent,P13,la_a1bdc83d63,miss,Safety Bug Bounty program,MCP; ChatGPT; GPT‑5,wrong_or_missing_pick,Introducing the OpenAI Safety Bug Bounty program
+rules+spacy,model_agent,P13,la_a1bdc83d63,false_positive,Safety Bug Bounty program,MCP,predicted but not in gold,Introducing the OpenAI Safety Bug Bounty program
+rules+spacy,model_agent,P13,la_a1bdc83d63,false_positive,Safety Bug Bounty program,ChatGPT,predicted but not in gold,Introducing the OpenAI Safety Bug Bounty program
+rules+spacy,model_agent,P13,la_a1bdc83d63,false_positive,Safety Bug Bounty program,GPT‑5,predicted but not in gold,Introducing the OpenAI Safety Bug Bounty program
+rules+spacy,model_agent,SH-001,re_e562d54c7e,miss,CrewAI 1.14.0a4,,abstained,crewAIInc/crewAI 1.14.0a4
+rules+spacy,model_agent,SH-002,la_f69a340d19,false_positive,Sora 2 / Sora app,ChatGPT,predicted but not in gold,Launching Sora responsibly
+rules+spacy,model_agent,SH-002,la_f69a340d19,false_positive,Sora 2 / Sora app,Sora 1,predicted but not in gold,Launching Sora responsibly
+rules+spacy,model_agent,SH-004,pa_e1d9ad171d,miss,AMA (Adaptive Memory via Multi-Agent Collaboration),,abstained,AMA: Adaptive Memory via Multi-Agent Collaboration
+rules+spacy,model_agent,SH-005,pa_5548603042,miss,LLM-based agents in a multi-agent cooperative text game,,abstained,Theory of Mind for Multi-Agent Collaboration via Large Langu
+rules+spacy,model_agent,SH-006,pa_0150f3dec3,miss,WorldEvolver,,abstained,Self-Evolving World Models for LLM Agent Planning
+rules+spacy,model_agent,SH-007,la_da3c5b116f,false_positive,"Weak-to-strong generalization (GPT-2-level supervisor, GPT-4)",DALL·E,predicted but not in gold,Weak-to-strong generalization
+rules+spacy,model_agent,SH-007,la_da3c5b116f,false_positive,"Weak-to-strong generalization (GPT-2-level supervisor, GPT-4)",GPT‑3.5,predicted but not in gold,Weak-to-strong generalization
+rules+spacy,model_agent,SH-007,la_da3c5b116f,false_positive,"Weak-to-strong generalization (GPT-2-level supervisor, GPT-4)",GPT‑3,predicted but not in gold,Weak-to-strong generalization
+rules+spacy,model_agent,SH-007,la_da3c5b116f,false_positive,"Weak-to-strong generalization (GPT-2-level supervisor, GPT-4)",ChatGPT,predicted but not in gold,Weak-to-strong generalization
+rules+spacy,model_agent,SH-008,la_100446a7f6,false_positive,GPT-2,Reviews,predicted but not in gold,Better language models and their implications
+rules+spacy,model_agent,SH-008,la_100446a7f6,false_positive,GPT-2,GPT Language Generative Models Ethics & Safety Transformers Footnotes,predicted but not in gold,Better language models and their implications
+rules+spacy,model_agent,SH-011,pa_53739fcb85,miss,LLM-enabled multi-agent mechatronics design framework,,gold_descriptive_or_expanded,An LLM-enabled Multi-Agent Autonomous Mechatronics Design Fr
+rules+spacy,model_agent,SH-013,la_9fc0c61c22,false_positive,Rule-Based Rewards (RBRs),GPT‑4,predicted but not in gold,Improving Model Safety Behavior with Rule-Based Rewards
+rules+spacy,model_agent,SH-013,la_9fc0c61c22,false_positive,Rule-Based Rewards (RBRs),GPT‑4o mini,predicted but not in gold,Improving Model Safety Behavior with Rule-Based Rewards
+rules+spacy,model_agent,SH-013,la_9fc0c61c22,false_positive,Rule-Based Rewards (RBRs),Model,predicted but not in gold,Improving Model Safety Behavior with Rule-Based Rewards
+rules+spacy,model_agent,SH-015,la_e375ef0de5,miss,"Kubernetes cluster (7,500 nodes) for large-model training",GPT‑3; CLIP; DALL·E; discovery; API Server; API Servers; Xid; ReplicaSet; Publication Jun,gold_descriptive_or_expanded,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,model_agent,SH-015,la_e375ef0de5,false_positive,"Kubernetes cluster (7,500 nodes) for large-model training",GPT‑3,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,model_agent,SH-015,la_e375ef0de5,false_positive,"Kubernetes cluster (7,500 nodes) for large-model training",CLIP,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,model_agent,SH-015,la_e375ef0de5,false_positive,"Kubernetes cluster (7,500 nodes) for large-model training",DALL·E,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,model_agent,SH-015,la_e375ef0de5,false_positive,"Kubernetes cluster (7,500 nodes) for large-model training",discovery,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,model_agent,SH-015,la_e375ef0de5,false_positive,"Kubernetes cluster (7,500 nodes) for large-model training",API Server,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,model_agent,SH-015,la_e375ef0de5,false_positive,"Kubernetes cluster (7,500 nodes) for large-model training",API Servers,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,model_agent,SH-015,la_e375ef0de5,false_positive,"Kubernetes cluster (7,500 nodes) for large-model training",Xid,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,model_agent,SH-015,la_e375ef0de5,false_positive,"Kubernetes cluster (7,500 nodes) for large-model training",ReplicaSet,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,model_agent,SH-015,la_e375ef0de5,false_positive,"Kubernetes cluster (7,500 nodes) for large-model training",Publication Jun,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+rules+spacy,model_agent,SH-016,pa_7ab9c1a2df,miss,RLTR,,abstained,Encouraging Good Processes Without the Need for Good Answers
+rules+spacy,model_agent,SH-018,pa_8cf02d552d,miss,GeoJSON Agents,GPT-4o,wrong_or_missing_pick,GeoJSON Agents:A Multi-Agent LLM Architecture for Geospatial
+rules+spacy,model_agent,SH-018,pa_8cf02d552d,false_positive,GeoJSON Agents,GPT-4o,predicted but not in gold,GeoJSON Agents:A Multi-Agent LLM Architecture for Geospatial
+rules+spacy,model_agent,SH-019,re_fea02de5e6,miss,AutoGen python-v0.7.1,MCP,wrong_or_missing_pick,microsoft/autogen python-v0.7.1
+rules+spacy,model_agent,SH-019,re_fea02de5e6,false_positive,AutoGen python-v0.7.1,MCP,predicted but not in gold,microsoft/autogen python-v0.7.1
+rules+spacy,model_agent,SH-020,la_2d5fba6a19,false_positive,ChatGPT Business and ChatGPT Enterprise (nonprofit programme),GPT‑4o,predicted but not in gold,Introducing OpenAI for Nonprofits
+rules+spacy,model_agent,SH-020,la_2d5fba6a19,false_positive,ChatGPT Business and ChatGPT Enterprise (nonprofit programme),API Platform,predicted but not in gold,Introducing OpenAI for Nonprofits
+rules+spacy,model_agent,SH-022,pa_6b359407c4,false_positive,LLM agent for WS-PSO-CM hyper-parameter tuning (with MCP),Model Context Protocol,predicted but not in gold,LLM Agent for Hyper-Parameter Optimization
+rules+spacy,model_agent,SH-023,re_d4d09d1001,false_positive,AutoGen v0.2.1 (AutoBuild),v0.2.0,predicted but not in gold,microsoft/autogen v0.2.1
+rules+spacy,model_agent,SH-023,re_d4d09d1001,false_positive,AutoGen v0.2.1 (AutoBuild),AutoGen Studio,predicted but not in gold,microsoft/autogen v0.2.1
+rules+spacy,model_agent,SH-025,pa_8f971a6ec3,miss,REALM-Bench,GPT-4o; Claude; DeepSeek-R1; LangGraph; AutoGen; CrewAI,wrong_or_missing_pick,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules+spacy,model_agent,SH-025,pa_8f971a6ec3,false_positive,REALM-Bench,GPT-4o,predicted but not in gold,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules+spacy,model_agent,SH-025,pa_8f971a6ec3,false_positive,REALM-Bench,Claude,predicted but not in gold,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules+spacy,model_agent,SH-025,pa_8f971a6ec3,false_positive,REALM-Bench,DeepSeek-R1,predicted but not in gold,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules+spacy,model_agent,SH-025,pa_8f971a6ec3,false_positive,REALM-Bench,LangGraph,predicted but not in gold,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules+spacy,model_agent,SH-025,pa_8f971a6ec3,false_positive,REALM-Bench,AutoGen,predicted but not in gold,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules+spacy,model_agent,SH-025,pa_8f971a6ec3,false_positive,REALM-Bench,CrewAI,predicted but not in gold,REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems 
+rules+spacy,model_agent,SH-031,la_359738e7b0,false_positive,ChatGPT for Healthcare and OpenAI API for healthcare,GPT‑5,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,model_agent,SH-031,la_359738e7b0,false_positive,ChatGPT for Healthcare and OpenAI API for healthcare,GPT‑5.2,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,model_agent,SH-031,la_359738e7b0,false_positive,ChatGPT for Healthcare and OpenAI API for healthcare,API Platform Author,predicted but not in gold,OpenAI for Healthcare
+rules+spacy,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,GPT‑5 mini,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,SWE-Bench Pro,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,GPT‑5 nano,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,GPT-5 mini,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,Codex,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,ChatGPT,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,400k,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,1M,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,SWE-bench,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,model_agent,SH-032,la_c3086d499c,false_positive,GPT-5.4 mini and GPT-5.4 nano,MCP,predicted but not in gold,Introducing GPT-5.4 mini and nano
+rules+spacy,model_agent,SH-033,re_f6a082d95f,false_positive,AutoGPT Platform v0.6.51,MCP,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,model_agent,SH-033,re_f6a082d95f,false_positive,AutoGPT Platform v0.6.51,Claude,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,model_agent,SH-033,re_f6a082d95f,false_positive,AutoGPT Platform v0.6.51,Gemini,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,model_agent,SH-033,re_f6a082d95f,false_positive,AutoGPT Platform v0.6.51,Claude Sonnet 4.6,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,model_agent,SH-033,re_f6a082d95f,false_positive,AutoGPT Platform v0.6.51,Mistral ,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,model_agent,SH-033,re_f6a082d95f,false_positive,AutoGPT Platform v0.6.51,Grok,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT Platform v0.6.51 🚀
+rules+spacy,model_agent,SH-034,pa_a7d2e7274d,miss,AgentGen,Llama-3.1-8B; GPT-3.5; Llama-3.1-70B,wrong_or_missing_pick,AgentGen: Enhancing Planning Abilities for Large Language Mo
+rules+spacy,model_agent,SH-034,pa_a7d2e7274d,false_positive,AgentGen,Llama-3.1-8B,predicted but not in gold,AgentGen: Enhancing Planning Abilities for Large Language Mo
+rules+spacy,model_agent,SH-034,pa_a7d2e7274d,false_positive,AgentGen,GPT-3.5,predicted but not in gold,AgentGen: Enhancing Planning Abilities for Large Language Mo
+rules+spacy,model_agent,SH-034,pa_a7d2e7274d,false_positive,AgentGen,Llama-3.1-70B,predicted but not in gold,AgentGen: Enhancing Planning Abilities for Large Language Mo
+rules+spacy,model_agent,SH-035,la_bbf31f939c,false_positive,ChatGPT plugins,GPT‑4,predicted but not in gold,ChatGPT plugins
+rules+spacy,model_agent,SH-038,re_6a152a8223,miss,CrewAI 1.8.1,A2A; Galileo,wrong_or_missing_pick,crewAIInc/crewAI 1.8.1
+rules+spacy,model_agent,SH-038,re_6a152a8223,false_positive,CrewAI 1.8.1,A2A,predicted but not in gold,crewAIInc/crewAI 1.8.1
+rules+spacy,model_agent,SH-038,re_6a152a8223,false_positive,CrewAI 1.8.1,Galileo,predicted but not in gold,crewAIInc/crewAI 1.8.1
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,GPT‑4o,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,1M,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,ChatGPT,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,GPT-4o,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,0.995 0.99,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,GPT-4o-mini,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,0.47 0.42 0.09 0.07,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,0.94 0.91 0.94 Ambiguous Questions P,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,0.05 0.37 0.13 0.08,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,0.95 Tutor,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,0.85 1 Password,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,SWE-bench,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,Mistral 7B,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,GPT‑4,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,0.96 0.99,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,1.00 0.99,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,1.00 1.00 1.00 1.00 1.00,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,1.00 1.00 1.00,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,1.00 0.98 1.00,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,1.00 1.00 1.00 1.00,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,1.00,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,1.00 1.00,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,Figurative Language,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,Homonyms 1.00 1.00 1.00 1.00 Discr,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,Table 24,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,Linux,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,Alice,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,ExplicitDiscrimination 4o-mini,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,0.53 0.28,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-039,la_354f2a89c1,false_positive,OpenAI o1,o1-preview,predicted but not in gold,OpenAI o1 System Card
+rules+spacy,model_agent,SH-040,la_70dadf2e6e,miss,OpenAI AI services under agreement with the Department of War,,gold_descriptive_or_expanded,Our agreement with the Department of War
+rules+spacy,model_agent,SH-041,la_5c157a0f1b,miss,Stateful Runtime Environment on Amazon Bedrock,,gold_descriptive_or_expanded,OpenAI and Amazon announce strategic partnership
+rules+spacy,model_agent,SH-041,la_5c157a0f1b,miss,OpenAI Frontier,,abstained,OpenAI and Amazon announce strategic partnership
+rules+spacy,model_agent,SH-043,la_c486538cb1,false_positive,GPT-4o,ChatGPT,predicted but not in gold,Introducing GPT-4o and more tools to ChatGPT free users
+rules+spacy,model_agent,SH-043,la_c486538cb1,false_positive,GPT-4o,GPT‑3.5,predicted but not in gold,Introducing GPT-4o and more tools to ChatGPT free users
+rules+spacy,model_agent,SH-044,la_9b042a61ba,false_positive,"SchoolAI platform (GPT-4.1, image generation, text-to-speech)",API Results 1 million,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+rules+spacy,model_agent,SH-044,la_9b042a61ba,false_positive,"SchoolAI platform (GPT-4.1, image generation, text-to-speech)",ChatGPT,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+rules+spacy,model_agent,SH-044,la_9b042a61ba,false_positive,"SchoolAI platform (GPT-4.1, image generation, text-to-speech)",Teachers,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+rules+spacy,model_agent,SH-044,la_9b042a61ba,false_positive,"SchoolAI platform (GPT-4.1, image generation, text-to-speech)",GPT‑4o,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+rules+spacy,model_agent,SH-044,la_9b042a61ba,false_positive,"SchoolAI platform (GPT-4.1, image generation, text-to-speech)",GPT‑4o-mini,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+rules+spacy,model_agent,SH-046,la_9bf2135904,false_positive,ChatGPT (consumer usage study),Citation 1,predicted but not in gold,How people are using ChatGPT
+rules+spacy,model_agent,SH-049,pa_8fa1443c8b,miss,Evo-Memory (with ExpRAG and ReMem baselines),,gold_descriptive_or_expanded,Evo-Memory: Benchmarking LLM Agent Test-time Learning with S
+rules+spacy,model_agent,SH-051,la_0d668aeed3,miss,Learning from human preferences (reward-learning algorithm),,gold_descriptive_or_expanded,Learning from human preferences
+rules+spacy,model_agent,SH-053,pa_7d171a840c,miss,QAgent,,abstained,QAgent: An LLM-based Multi-Agent System for Autonomous OpenQ
+rules+spacy,model_agent,SH-055,re_a9cd035e1b,false_positive,AutoGPT v0.5.0,Frontend,predicted but not in gold,Significant-Gravitas/AutoGPT AutoGPT v0.5.0
+rules+spacy,model_agent,SH-056,pa_e4fc7a2f26,miss,SocialGrid,,abstained,SocialGrid: A Benchmark for Planning and Social Reasoning in
+rules+spacy,model_agent,SH-057,la_cfa376d35c,false_positive,"Codex (CLI, cloud agent, SDK, Slack integration)",GPT‑5,predicted but not in gold,Codex is now generally available
+rules+spacy,model_agent,SH-057,la_cfa376d35c,false_positive,"Codex (CLI, cloud agent, SDK, Slack integration)",ChatGPT,predicted but not in gold,Codex is now generally available
+rules+spacy,model_agent,SH-057,la_cfa376d35c,false_positive,"Codex (CLI, cloud agent, SDK, Slack integration)",GitHub Action,predicted but not in gold,Codex is now generally available
+rules+spacy,model_agent,SH-057,la_cfa376d35c,false_positive,"Codex (CLI, cloud agent, SDK, Slack integration)",GPT-6.1,predicted but not in gold,Codex is now generally available
+rules+spacy,model_agent,SH-066,pa_25080a8f0d,miss,ClawVM,,abstained,ClawVM: Harness-Managed Virtual Memory for Stateful Tool-Usi
+rules+spacy,model_agent,SH-072,pa_a047761cd2,miss,TinyAgent-1.1B and TinyAgent-7B,GPT-4-Turbo,gold_descriptive_or_expanded,TinyAgent: Function Calling at the Edge
+rules+spacy,model_agent,SH-072,pa_a047761cd2,false_positive,TinyAgent-1.1B and TinyAgent-7B,GPT-4-Turbo,predicted but not in gold,TinyAgent: Function Calling at the Edge
+rules+spacy,model_agent,SH-075,la_861bee6c31,miss,InstructGPT,GPT‑3; GPT-3; Stiennon,wrong_or_missing_pick,Aligning language models to follow instructions
+rules+spacy,model_agent,SH-075,la_861bee6c31,false_positive,InstructGPT,GPT‑3,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,model_agent,SH-075,la_861bee6c31,false_positive,InstructGPT,GPT-3,predicted but not in gold,Aligning language models to follow instructions
+rules+spacy,model_agent,SH-075,la_861bee6c31,false_positive,InstructGPT,Stiennon,predicted but not in gold,Aligning language models to follow instructions
+fixed,organization,P06,la_0b7e7105cf,miss,Stack Overflow,OpenAI,wrong_or_missing_pick,API Partnership with Stack Overflow
+fixed,organization,P12,la_89b0ac10d2,miss,ServiceNow,OpenAI,wrong_or_missing_pick,ServiceNow powers actionable enterprise AI with OpenAI
+fixed,organization,SH-044,la_9b042a61ba,miss,SchoolAI,OpenAI,wrong_or_missing_pick,SchoolAI builds an AI platform that empowers teachers
+fixed,organization,SH-044,la_9b042a61ba,false_positive,SchoolAI,OpenAI,predicted but not in gold,SchoolAI builds an AI platform that empowers teachers
+fixed,organization,SH-051,la_0d668aeed3,miss,DeepMind,OpenAI,wrong_or_missing_pick,Learning from human preferences
+fixed,organization,SH-060,la_25e1e85d3f,miss,ENEOS Materials,OpenAI,wrong_or_missing_pick,ENEOS Materials brings ChatGPT Enterprise to manufacturing
+fixed,organization,SH-060,la_25e1e85d3f,false_positive,ENEOS Materials,OpenAI,predicted but not in gold,ENEOS Materials brings ChatGPT Enterprise to manufacturing
+fixed,model_agent,P06,la_0b7e7105cf,miss,OverflowAI,ChatGPT,wrong_or_missing_pick,API Partnership with Stack Overflow
+fixed,model_agent,P07,la_621811037f,miss,omni-moderation-latest (Moderation API),GPT‑4o,gold_descriptive_or_expanded,Upgrading the Moderation API with our new multimodal moderat
+fixed,model_agent,P07,la_621811037f,false_positive,omni-moderation-latest (Moderation API),GPT‑4o,predicted but not in gold,Upgrading the Moderation API with our new multimodal moderat
+fixed,model_agent,P12,la_89b0ac10d2,miss,OpenAI frontier models in the ServiceNow Platform,,gold_descriptive_or_expanded,ServiceNow powers actionable enterprise AI with OpenAI
+fixed,model_agent,P13,la_a1bdc83d63,miss,Safety Bug Bounty program,,abstained,Introducing the OpenAI Safety Bug Bounty program
+fixed,model_agent,SH-005,pa_5548603042,miss,LLM-based agents in a multi-agent cooperative text game,,abstained,Theory of Mind for Multi-Agent Collaboration via Large Langu
+fixed,model_agent,SH-006,pa_0150f3dec3,miss,WorldEvolver,,abstained,Self-Evolving World Models for LLM Agent Planning
+fixed,model_agent,SH-007,la_da3c5b116f,miss,"Weak-to-strong generalization (GPT-2-level supervisor, GPT-4)",DALL·E,gold_descriptive_or_expanded,Weak-to-strong generalization
+fixed,model_agent,SH-007,la_da3c5b116f,false_positive,"Weak-to-strong generalization (GPT-2-level supervisor, GPT-4)",DALL·E,predicted but not in gold,Weak-to-strong generalization
+fixed,model_agent,SH-011,pa_53739fcb85,miss,LLM-enabled multi-agent mechatronics design framework,,gold_descriptive_or_expanded,An LLM-enabled Multi-Agent Autonomous Mechatronics Design Fr
+fixed,model_agent,SH-013,la_9fc0c61c22,miss,Rule-Based Rewards (RBRs),,abstained,Improving Model Safety Behavior with Rule-Based Rewards
+fixed,model_agent,SH-014,pa_715946df7b,miss,"LLM-enhanced multi-agent system for 6G communications (MDR, MCP, MER)",,gold_descriptive_or_expanded,Large Language Model Enhanced Multi-Agent Systems for 6G Com
+fixed,model_agent,SH-015,la_e375ef0de5,miss,"Kubernetes cluster (7,500 nodes) for large-model training",GPT‑3,gold_descriptive_or_expanded,"Scaling Kubernetes to 7,500 nodes"
+fixed,model_agent,SH-015,la_e375ef0de5,false_positive,"Kubernetes cluster (7,500 nodes) for large-model training",GPT‑3,predicted but not in gold,"Scaling Kubernetes to 7,500 nodes"
+fixed,model_agent,SH-016,pa_7ab9c1a2df,miss,RLTR,,abstained,Encouraging Good Processes Without the Need for Good Answers
+fixed,model_agent,SH-022,pa_6b359407c4,miss,LLM agent for WS-PSO-CM hyper-parameter tuning (with MCP),Model Context Protocol,gold_descriptive_or_expanded,LLM Agent for Hyper-Parameter Optimization
+fixed,model_agent,SH-022,pa_6b359407c4,false_positive,LLM agent for WS-PSO-CM hyper-parameter tuning (with MCP),Model Context Protocol,predicted but not in gold,LLM Agent for Hyper-Parameter Optimization
+fixed,model_agent,SH-040,la_70dadf2e6e,miss,OpenAI AI services under agreement with the Department of War,,gold_descriptive_or_expanded,Our agreement with the Department of War
+fixed,model_agent,SH-041,la_5c157a0f1b,miss,Stateful Runtime Environment on Amazon Bedrock,,gold_descriptive_or_expanded,OpenAI and Amazon announce strategic partnership
+fixed,model_agent,SH-041,la_5c157a0f1b,miss,OpenAI Frontier,,abstained,OpenAI and Amazon announce strategic partnership
+fixed,model_agent,SH-043,la_c486538cb1,false_positive,GPT-4o,ChatGPT,predicted but not in gold,Introducing GPT-4o and more tools to ChatGPT free users
+fixed,model_agent,SH-051,la_0d668aeed3,miss,Learning from human preferences (reward-learning algorithm),,gold_descriptive_or_expanded,Learning from human preferences
+fixed,model_agent,SH-075,la_861bee6c31,miss,InstructGPT,GPT‑3,wrong_or_missing_pick,Aligning language models to follow instructions
+fixed,model_agent,SH-075,la_861bee6c31,false_positive,InstructGPT,GPT‑3,predicted but not in gold,Aligning language models to follow instructions
