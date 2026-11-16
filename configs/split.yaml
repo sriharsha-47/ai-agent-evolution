@@ -1,6 +1,6 @@
 # Forecasting split v0 (owner: Harshita / HA). PROVISIONAL until corpus freeze.
 # Rule: set `locked: true` on the corpus-freeze day; never move the cutoff afterwards.
-locked: false
+locked: true
 frequency: monthly
 series_start: 2022-01
 cutoff_month: 2026-09        # last COMPLETE month; corpus_v1 contains 29 docs dated Oct 2026 -> excluded
