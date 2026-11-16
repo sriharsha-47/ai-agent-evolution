@@ -1,9 +1,5 @@
-# AI canon-event taxonomy v0  (owner: Harshita / HA)
-# STATUS: draft. Freeze as v1 after the pilot agreement meeting; changes after that go in docs/decisions.md.
-version: 0
-status: draft
-
-# Which documents count at all (see docs/annotation_guidelines.md section 2)
+version: 1
+status: frozen
 scope_rule: >
   In scope = a development in a language-model-based or agentic AI system (LLMs, LLM agents,
   tool-using / computer-using / multi-agent LLM systems, agent frameworks and platforms),
