@@ -326,8 +326,42 @@ def insert_events(conn: sqlite3.Connection, events, tax: dict, origin: str = "go
     return loaded, rejected
 
 
-def load_events_file(conn: sqlite3.Connection, path, tax: dict, origin: str = "gold"):
-    """Load events from a .csv (e.g. data/annotations/gold_events_v1.csv) or .jsonl file."""
+def read_gold_merges(path) -> list[tuple[str, str]]:
+    """Read data/reference/gold_merges.csv: (keep_annotation_id, drop_annotation_id) pairs.
+    Each pair is one real event that the gold file lists twice (a team ruling)."""
+    p = Path(path)
+    if not p.exists():
+        return []
+    with open(p, encoding="utf-8-sig", newline="") as f:
+        return [(_clean(r.get("keep_annotation_id")), _clean(r.get("drop_annotation_id")))
+                for r in csv.DictReader(f) if _clean(r.get("keep_annotation_id")) and _clean(r.get("drop_annotation_id"))]
+
+
+def apply_gold_merges(rows: list[dict], merges) -> tuple[list[dict], list[str]]:
+    """Merge duplicate gold events. Rows are found by `annotation_id` (event ids are renumbered between
+    versions). The dropped event's document is added to the kept event's sources and its row is removed.
+    Returns (new_rows, messages)."""
+    rows = [dict(r) for r in rows]
+    by_ann = {_clean(r.get("annotation_id")): r for r in rows if _clean(r.get("annotation_id"))}
+    drop_ids, messages = set(), []
+    for keep, drop in merges:
+        k, d = by_ann.get(keep), by_ann.get(drop)
+        if k is None or d is None:
+            messages.append(f"merge {keep} <- {drop} skipped: annotation_id not found in the events file")
+            continue
+        sources = _event_sources(k)
+        for doc, url in _event_sources(d):
+            if doc not in {x[0] for x in sources}:
+                sources.append((doc, url))
+        k["sources"] = json.dumps([{"doc_id": doc, "url": url} for doc, url in sources])
+        drop_ids.add(id(d))
+        messages.append(f"merged {drop} into {keep}")
+    return [r for r in rows if id(r) not in drop_ids], messages
+
+
+def load_events_file(conn: sqlite3.Connection, path, tax: dict, origin: str = "gold", merges_path=None):
+    """Load events from a .csv (e.g. data/annotations/gold_events_v1.csv) or .jsonl file.
+    For gold events, merges listed in data/reference/gold_merges.csv (next to data/annotations) are applied."""
     p = Path(path)
     if p.suffix.lower() == ".jsonl":
         with open(p, encoding="utf-8") as f:
@@ -335,6 +369,13 @@ def load_events_file(conn: sqlite3.Connection, path, tax: dict, origin: str = "g
     else:
         with open(p, encoding="utf-8", newline="") as f:
             rows = list(csv.DictReader(f))
+    if origin == "gold":
+        mp = Path(merges_path) if merges_path else p.parent.parent / "reference" / "gold_merges.csv"
+        merges = read_gold_merges(mp)
+        if merges:
+            rows, messages = apply_gold_merges(rows, merges)
+            for m in messages:
+                print(m)
     return insert_events(conn, rows, tax, origin)
 
 
